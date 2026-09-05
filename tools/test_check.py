@@ -167,6 +167,27 @@ CASES = [
         "type 'book' is not one of",
     ),
     (
+        "source dropped from the acquisition worksheet",
+        "sources/ACQUISITION.md",
+        "`wicker-banking-panics`",
+        "",
+        "has no route in the worksheet",
+    ),
+    (
+        "mistyped source key in the acquisition worksheet",
+        "sources/ACQUISITION.md",
+        "`wicker-banking-panics`",
+        "`wicker-banking-panic`",
+        "looks like a source key but is not in the manifest",
+    ),
+    (
+        "source given two routes",
+        "sources/ACQUISITION.md",
+        "`white-railroaded`, `wicker-banking-panics`",
+        "`white-railroaded`, `white-railroaded`, `wicker-banking-panics`",
+        "each source takes exactly one route",
+    ),
+    (
         "duplicate question id",
         "research/QUESTIONS.md",
         "- **Q12-5** How fast did installation",

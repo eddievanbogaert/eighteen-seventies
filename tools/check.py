@@ -363,6 +363,40 @@ def check_manifest(report: Report):
     return sources
 
 
+def check_acquisition(sources, report: Report):
+    """The acquisition worksheet has to cover the manifest exactly.
+
+    A plan that silently loses a source is worse than no plan, because the
+    missing entry looks acquired-and-forgotten rather than never-ordered.
+    """
+    path = ROOT / "sources" / "ACQUISITION.md"
+    if not path.exists():
+        report.warn(path, 1, "no acquisition worksheet")
+        return
+    text = path.read_text(encoding="utf-8")
+    for key in sorted(sources):
+        hits = len(re.findall(rf"(?<![a-z0-9-]){re.escape(key)}(?![a-z0-9-])", text))
+        if hits == 0:
+            report.error(
+                path, 1,
+                f"'{key}' is in the manifest but has no route in the worksheet",
+            )
+        elif hits > 1:
+            report.error(
+                path, 1,
+                f"'{key}' appears {hits} times; each source takes exactly one route",
+            )
+    for match in re.finditer(r"`([a-z][a-z0-9]*(?:-[a-z0-9]+)+)`", text):
+        if match.group(1) not in sources:
+            line_no = text[: match.start()].count("\n") + 1
+            report.error(
+                path, line_no,
+                f"'{match.group(1)}' looks like a source key but is not in the "
+                "manifest",
+            )
+    report.checks_run += 1
+
+
 def check_claims(sources, chapters, report: Report):
     path = ROOT / "research" / "CLAIMS.md"
     lines = read(path)
@@ -517,11 +551,12 @@ def check_triage(question_ids, report: Report):
     else:
         report.warn(path, 1, "no stated distribution line to cross-check")
 
-    check_stated_counts(len(question_ids), counts["T"], report)
     report.checks_run += 1
+    return counts["T"]
 
 
-def check_stated_counts(total_questions, thesis_critical, report: Report):
+def check_stated_counts(total_questions, thesis_critical, total_sources,
+                        report: Report):
     """Catch prose that states a count which has since moved.
 
     This is the drift that actually happened: notes/README.md described the
@@ -529,16 +564,16 @@ def check_stated_counts(total_questions, thesis_critical, report: Report):
     ones where the table marks seven. Wrong numbers in an index file are the
     cheapest possible way to make the apparatus look unreliable.
 
-    Only phrases of the form "all N questions" are read as claims about the
-    whole set, so a count of some subset must not be written that way — say
-    "the five archival questions", not "all five questions".
+    Only phrases beginning with "all" are read as claims about a whole set, so
+    a count of some subset must not be written that way — say "the five
+    archival questions", not "all five questions".
     """
-    targets = list((ROOT / "notes").glob("*.md")) + [
-        ROOT / "README.md",
-        ROOT / "BACKLOG.md",
-        ROOT / "AGENTS.md",
-        ROOT / "research" / "QUESTIONS.md",
-    ]
+    targets = (
+        list((ROOT / "notes").glob("*.md"))
+        + list((ROOT / "sources").glob("*.md"))
+        + list((ROOT / "research").glob("*.md"))
+        + [ROOT / "README.md", ROOT / "BACKLOG.md", ROOT / "AGENTS.md"]
+    )
     for path in targets:
         if not path.exists():
             continue
@@ -568,6 +603,21 @@ def check_stated_counts(total_questions, thesis_critical, report: Report):
                         path, i,
                         f"says '{match.group(0)}' but the triage table marks "
                         f"{thesis_critical}",
+                    )
+            for match in re.finditer(
+                r"\ball\s+(\d+|[a-z-]+)\s+(?:[a-z-]+\s+)?"
+                r"(?:sources\b|manifest entries\b)",
+                line, re.I,
+            ):
+                token = match.group(1).lower()
+                value = int(token) if token.isdigit() else NUMBER_WORDS.get(token)
+                if value is None:
+                    continue
+                if value != total_sources:
+                    report.error(
+                        path, i,
+                        f"says '{match.group(0)}' but MANIFEST.md has "
+                        f"{total_sources}",
                     )
     report.checks_run += 1
 
@@ -670,9 +720,13 @@ def main() -> int:
     report = Report()
     chapters = check_chapters(report)
     sources = check_manifest(report)
+    check_acquisition(sources, report)
     check_claims(sources, chapters, report)
     question_ids = check_questions(chapters, report)
-    check_triage(question_ids, report)
+    thesis_critical = check_triage(question_ids, report)
+    check_stated_counts(
+        len(question_ids), thesis_critical or 0, len(sources), report
+    )
     check_chapter_order(chapters, report)
     check_unverified_dates_not_in_prose(chapters, report)
     check_chapter_prose(chapters, report)
