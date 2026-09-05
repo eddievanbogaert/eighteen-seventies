@@ -1,7 +1,7 @@
 ---
 title: "Edison Opens Menlo Park"
 date_range: "1876 to 1879"
-date_range_verified: n
+date_range_verified: "n"
 threads: [machines]
 status: stub
 sources: []

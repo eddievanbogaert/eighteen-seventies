@@ -1,7 +1,7 @@
 ---
 title: "The Colfax Massacre"
 date_range: "1873"
-date_range_verified: n
+date_range_verified: "n"
 threads: [race]
 status: stub
 sources: []

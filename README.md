@@ -50,7 +50,7 @@ In practice, for any chapter:
    Every question is phrased so that it cannot be closed by remembering
    something.
 2. **Get the sources.** Find them in `/sources/MANIFEST.md`, acquire them,
-   read them, and flip `acquired` and `read` to `y` — honestly. A source
+   read them, and flip `acquired` and `read` to `"y"` — honestly. A source
    marked read that was skimmed is worse than one marked unread.
 3. **Transcribe the primary text.** Anything to be quoted or characterised
    closely goes into `/primary` first, with provenance.
@@ -69,7 +69,7 @@ In practice, for any chapter:
 ---
 title: "The Coinage Act of 1873"
 date_range: "1873"
-date_range_verified: n
+date_range_verified: "n"
 threads: [money]
 status: stub
 sources: []
@@ -80,7 +80,10 @@ open_questions: []
 `date_range_verified` matters more than it looks. The date ranges in every
 stub were written from recall as scaffolding, which makes them exactly the
 kind of thing the rules forbid asserting. They are there to sort files. They
-do not go into prose until a source confirms them and the flag reads `y`.
+do not go into prose until a source confirms them and the flag reads `"y"`.
+The flags are quoted on purpose — bare `y` and `n` are booleans to some YAML
+parsers and strings to others, and a flag that means different things to
+different readers is worse than no flag.
 
 `threads[0]` is the chapter's home thread, assigned by the author. Further
 threads get appended only when a source supports the connection. One chapter,

@@ -5,7 +5,7 @@ recurring rather than sectioned. Twenty-one tentpole chapters carry the
 chronology; other events fold in around them.
 
 **This ordering is provisional and was built from recall, not from sources.**
-The dates in each chapter's frontmatter carry `date_range_verified: n` for
+The dates in each chapter's frontmatter carry `date_range_verified: "n"` for
 that reason. Sorting files by them is fine. Trusting them is not, and
 restating them in prose is a rule 1 violation. Verifying the sequence is
 prerequisite work for the whole book, not a detail: if two chapters are in the
@@ -17,14 +17,14 @@ wrong order, an argument about influence between them can be exactly backwards.
 | --- | --- | --- | --- |
 | 01 | Franco-Prussian War | 1870-07 to 1871-05 | empire |
 | 02 | Darwin, The Descent of Man | 1871-02 | race |
-| 03 | Chicago rebuilt | 1871-10 onward | machines |
+| 03 | Chicago rebuilt | 1871-10 to 1879 | machines |
 | 04 | Butler, Erewhon | 1872 | machines |
 | 05 | Crédit Mobilier | 1872 to 1873 | money |
 | 06 | Verne, Around the World in Eighty Days | 1872 to 1873 | machines |
 | 07 | Coinage Act of 1873 | 1873 | money |
 | 08 | Comstock Act | 1873 | race |
 | 09 | Colfax Massacre | 1873 | race |
-| 10 | Panic of 1873 | 1873 onward | money |
+| 10 | Panic of 1873 | 1873 to 1879 | money |
 | 11 | First Impressionist exhibition | 1874 | *unassigned* |
 | 12 | Bell patents the telephone | 1876 | machines |
 | 13 | Edison opens Menlo Park | 1876 to 1879 | machines |

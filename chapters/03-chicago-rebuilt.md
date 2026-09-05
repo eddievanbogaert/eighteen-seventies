@@ -1,7 +1,7 @@
 ---
 title: "Chicago Rebuilt"
 date_range: "1871-10 to 1879"
-date_range_verified: n
+date_range_verified: "n"
 threads: [machines]
 status: stub
 sources: []

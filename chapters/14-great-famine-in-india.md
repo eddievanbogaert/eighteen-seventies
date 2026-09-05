@@ -1,7 +1,7 @@
 ---
 title: "The Great Famine in India"
 date_range: "1876 to 1878"
-date_range_verified: n
+date_range_verified: "n"
 threads: [empire]
 status: stub
 sources: []

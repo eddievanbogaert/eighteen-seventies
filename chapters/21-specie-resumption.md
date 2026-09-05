@@ -1,7 +1,7 @@
 ---
 title: "The Resumption of Specie Payments"
 date_range: "1879-01"
-date_range_verified: n
+date_range_verified: "n"
 threads: [money]
 status: stub
 sources: []

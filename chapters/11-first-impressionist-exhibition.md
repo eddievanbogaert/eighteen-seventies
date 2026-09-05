@@ -1,7 +1,7 @@
 ---
 title: "The First Impressionist Exhibition"
 date_range: "1874"
-date_range_verified: n
+date_range_verified: "n"
 threads: []
 thread_assignment: unassigned
 status: stub

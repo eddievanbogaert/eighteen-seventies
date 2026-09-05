@@ -1,7 +1,7 @@
 ---
 title: "Bell Patents the Telephone"
 date_range: "1876"
-date_range_verified: n
+date_range_verified: "n"
 threads: [machines]
 status: stub
 sources: []

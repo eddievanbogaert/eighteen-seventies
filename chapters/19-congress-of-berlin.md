@@ -1,7 +1,7 @@
 ---
 title: "The Congress of Berlin"
 date_range: "1878"
-date_range_verified: n
+date_range_verified: "n"
 threads: [empire]
 status: stub
 sources: []
