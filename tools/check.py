@@ -675,6 +675,63 @@ def check_chapter_prose(chapters, report: Report):
     report.checks_run += 1
 
 
+def check_cross_references(question_ids, chapters, report: Report):
+    """Every Q-reference anywhere must name a question that exists.
+
+    The notes files, the drafting blockers, the manifest and the acquisition
+    worksheet all point at questions by id. A reference to a question that was
+    renumbered or closed is silent rot: it reads as rigour and leads nowhere.
+    """
+    known = set(question_ids)
+    for path in sorted(ROOT.rglob("*.md")):
+        if ".git" in path.parts:
+            continue
+        for i, line in enumerate(read(path), start=1):
+            for ref in re.findall(r"\bQ(?:X|\d+)-\d+\b", line):
+                if ref not in known:
+                    report.error(
+                        path, i,
+                        f"references {ref}, which is not in QUESTIONS.md",
+                    )
+
+    manifest = ROOT / "sources" / "MANIFEST.md"
+    for i, line in enumerate(read(manifest), start=1):
+        stripped = line.strip()
+        if not (stripped.startswith("|") and stripped.endswith("|")):
+            continue
+        for match in re.finditer(r"\bch ((?:\d+)(?:\s*,\s*\d+)*)", stripped):
+            for number in re.findall(r"\d+", match.group(1)):
+                if number.zfill(2) not in chapters:
+                    report.error(
+                        manifest, i,
+                        f"relevance cites chapter {number}, which does not exist",
+                    )
+    report.checks_run += 1
+
+
+def check_indexes(report: Report):
+    """notes/README.md has to list what is actually in /notes.
+
+    An unlisted note is a note the next session will not read, which defeats
+    the purpose of keeping the thinking in the repository at all.
+    """
+    index = ROOT / "notes" / "README.md"
+    if not index.exists():
+        report.warn(index, 1, "no index for /notes")
+        return
+    text = index.read_text(encoding="utf-8")
+    for path in sorted((ROOT / "notes").glob("*.md")):
+        if path.name == "README.md":
+            continue
+        if path.name not in text:
+            report.error(
+                index, 1,
+                f"does not list {path.name}; an unlisted note is one the next "
+                "session will not read",
+            )
+    report.checks_run += 1
+
+
 def check_primary(report: Report):
     for path in sorted((ROOT / "primary").glob("*.md")):
         if path.name == "README.md":
@@ -730,6 +787,8 @@ def main() -> int:
     check_chapter_order(chapters, report)
     check_unverified_dates_not_in_prose(chapters, report)
     check_chapter_prose(chapters, report)
+    check_cross_references(question_ids, chapters, report)
+    check_indexes(report)
     check_primary(report)
 
     if report.warnings and not args.quiet:

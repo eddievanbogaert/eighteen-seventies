@@ -31,9 +31,18 @@ this book" and "decide this" produces the illusion of progress.
       `AGENTS.md` are currently enforced by good intentions, and the scaffolding
       pass proved that insufficient: a `CLAIMS.md` row cited a `source_key`
       that was not in the manifest, caught by a hand-run scan that nobody was
-      obliged to run. The checks below are the ones a script can make binding.
+      obliged to run. Thirteen checks now cover what a script can make binding,
+      and `--list` prints the full account including what it deliberately
+      cannot check — whether a claim is true, whether a source says what a row
+      says it says, whether `read: "y"` means anyone opened the book. Those are
+      human checks and they are the ones that matter; the script exists so that
+      attention is not spent on the mechanical ones.
       **Done when:** `python3 tools/check.py` exits non-zero on a violation and
-      reports every failure with a file and line.
+      reports every failure with a file and line — and `tools/test_check.py`
+      proves it, by breaking the repository thirty ways and confirming each
+      breakage is caught. It found two errors of mine while being built: a
+      wrong source total in this file, and a first version of the count check
+      that would not have caught the drift it was written for.
 
 - [x] **B-02 — Sync `notes/README.md` counts.** It described
       `question-triage.md` as covering one question fewer than exists and nine

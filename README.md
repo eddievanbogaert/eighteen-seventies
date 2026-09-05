@@ -68,8 +68,10 @@ In practice, for any chapter:
 `source_key` in `CLAIMS.md` exists in the manifest, that no chapter cites a
 source without a verified row behind it, that a chapter with an unverified date
 range does not state a year in its prose, that no page number or ISBN has
-appeared anywhere, that the question list and its triage table agree, and that
-counts stated in prose still match what they count. `python3
+appeared anywhere, that the question list and its triage table agree, that
+every reference to a question names one that exists, that the acquisition
+worksheet covers the manifest exactly, and that counts stated in prose still
+match what they count. `python3
 tools/check.py --list` prints the full account, including what it cannot
 check. `python3 tools/test_check.py` breaks the repository on purpose, one
 thing at a time, and confirms the checker notices each one — a check that
