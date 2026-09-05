@@ -1,7 +1,7 @@
 ---
 title: "The Franco-Prussian War"
 date_range: "1870-07 to 1871-05"
-date_range_verified: n
+date_range_verified: "n"
 threads: [empire]
 status: stub
 sources: []

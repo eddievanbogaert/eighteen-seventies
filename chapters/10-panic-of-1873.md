@@ -1,7 +1,7 @@
 ---
 title: "The Panic of 1873"
 date_range: "1873 to 1879"
-date_range_verified: n
+date_range_verified: "n"
 threads: [money]
 status: stub
 sources: []

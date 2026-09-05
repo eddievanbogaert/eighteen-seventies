@@ -1,7 +1,7 @@
 ---
 title: "The 1876 Election and the Compromise of 1877"
 date_range: "1876 to 1877"
-date_range_verified: n
+date_range_verified: "n"
 threads: [race]
 status: stub
 sources: []

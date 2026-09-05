@@ -1,7 +1,7 @@
 ---
 title: "The Resumption of Specie Payments"
 date_range: "1879-01"
-date_range_verified: n
+date_range_verified: "n"
 threads: [money]
 status: stub
 sources: []
@@ -31,9 +31,11 @@ _Framing only, never evidence. Empty._
 - Verify `date_range` against a source and log the row in `/research/CLAIMS.md`.
   The act that mandated resumption and the day resumption took effect are
   years apart.
-- This is the closing chapter and the book's thesis lands on it: the most
-  consequential day of the decade is the one with the least memorable name.
-  That is an argument the chapter must earn from evidence, not assert.
+- This is the closing chapter and the money thread lands on it: the monetary
+  system the decade installed is complete on a scheduled date. Whatever the
+  chapter claims for that day it must earn from evidence rather than assert —
+  including the claim that little happened, which is a finding needing
+  documentation like any other. See Q21-4.
 - The greenback price series that shows convergence to par is the load-bearing
   quantitative evidence here. Establish the series and its source before the
   argument leans on it.

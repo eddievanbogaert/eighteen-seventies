@@ -1,7 +1,7 @@
 ---
 title: "The Satsuma Rebellion"
 date_range: "1877"
-date_range_verified: n
+date_range_verified: "n"
 threads: [empire]
 status: stub
 sources: []

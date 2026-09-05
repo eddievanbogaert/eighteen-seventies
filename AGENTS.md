@@ -48,11 +48,17 @@ goal; a larger plausible one is the failure mode.
 ## What follows from the rules
 
 **Frontmatter dates are provisional.** Every chapter stub carries a
-`date_range` for ordering, plus `date_range_verified: n`. Those ranges were
+`date_range` for ordering, plus `date_range_verified: "n"`. Those ranges were
 written from recall as scaffolding and are exactly the kind of thing rule 1
 prohibits asserting. They may be used to sort files. They may not be restated
 in prose, and they may not be trusted, until a `CLAIMS.md` row verifies them
-and the flag flips to `y`.
+and the flag flips to `"y"`.
+
+**The `y`/`n` flags are quoted strings, deliberately.** Bare `y` and `n` are
+boolean `true` and `false` to a YAML 1.1 parser and bare strings to some
+others. A verification flag that changes meaning depending on what reads it is
+not a verification flag. Write `"y"` and `"n"` with the quotes, here and in
+`/sources/MANIFEST.md`.
 
 **`threads[0]` is the home thread and is fixed by the author.** The four
 threads are `money`, `race` (shorthand for race and citizenship), `machines`,

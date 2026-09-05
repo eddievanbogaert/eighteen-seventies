@@ -1,7 +1,7 @@
 ---
 title: "The Second Anglo-Afghan War"
 date_range: "1878 to 1880"
-date_range_verified: n
+date_range_verified: "n"
 threads: [empire]
 status: stub
 sources: []

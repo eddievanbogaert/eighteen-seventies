@@ -27,10 +27,12 @@ a source is content" note in `AGENTS.md`.
   work, and does it cover the whole decade or only part of it?
 - **QX-4** Which of the tentpoles has no adequate single-volume treatment, and
   therefore needs to be assembled from articles?
-- **QX-5** What did contemporaries in the 1870s call the decade, if anything?
-  The thesis rests on the claim that this period lacks a memorable name; a
-  source must establish whether that is true of the period itself or only of
-  later memory of it.
+- **QX-5** What did contemporaries in the 1870s call the decade, if anything,
+  and when did the period labels now used for it come into use? This no longer
+  tests the thesis, which claims only what the decade installed. It supports
+  the introduction's periodization argument — that the years to 1877 are filed
+  as late Reconstruction and the rest absorbed into a thirty-year Gilded Age —
+  and that argument needs the labels' history, not an assertion about them.
 
 ## Q01 — The Franco-Prussian War
 
@@ -82,6 +84,14 @@ a source is content" note in `AGENTS.md`.
 - **Q04-4** What sales and readership did it have in the 1870s? If it was
   little read at the time, the chapter's claim on the machines thread has to
   be about anticipation rather than influence, which is a different argument.
+- **Q04-5** What is the documented later reception of Erewhon, and of the
+  "Book of the Machines" specifically? Three claims are currently held only as
+  recall and each needs its own source: the derivation of the name "Butlerian
+  Jihad" in Herbert's Dune; whether Turing read or cited Butler, and where;
+  whether Orwell did. If this chapter's case rests on a twentieth-century
+  afterlife rather than on 1870s readership, that is a different argument from
+  the one Q04-4 sets up, it needs its own evidence, and it has to be told
+  without letting the afterlife stand in as proof of contemporary influence.
 
 ## Q05 — The Crédit Mobilier Scandal
 
@@ -352,5 +362,6 @@ a source is content" note in `AGENTS.md`.
   asserted for effect.
 - **Q21-5** Who opposed resumption, what did they predict, and were they wrong?
 - **Q21-6** What did the contemporary press call this, and how much attention
-  did it get? The book's closing claim about unmemorable names needs evidence,
-  not assertion.
+  did it get? Feeds the introduction's periodization argument rather than the
+  thesis. However much or little notice resumption drew, the amount has to come
+  from the record rather than from what the ending would like to be true.

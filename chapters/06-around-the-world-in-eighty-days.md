@@ -1,7 +1,7 @@
 ---
 title: "Verne, Around the World in Eighty Days"
 date_range: "1872 to 1873"
-date_range_verified: n
+date_range_verified: "n"
 threads: [machines]
 status: stub
 sources: []

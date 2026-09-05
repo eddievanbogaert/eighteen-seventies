@@ -1,7 +1,7 @@
 ---
 title: "Butler, Erewhon"
 date_range: "1872"
-date_range_verified: n
+date_range_verified: "n"
 threads: [machines]
 status: stub
 sources: []
