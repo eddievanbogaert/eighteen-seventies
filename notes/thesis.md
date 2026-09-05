@@ -120,18 +120,40 @@ Machines are the term the present-day conversation about industrialisation
 actually runs on, so the word does the connective work "invention" would not;
 and Butler is a live thread in that conversation rather than a period curio.
 
-**D-3 — no explicit first person. Settled.** The book has no authorial "I",
-in the chapters or the introduction. The personal and local familiarity behind
-chapter 03 stays on this side of the manuscript: it directs research attention
-and opens archives, and it never appears in the prose or supports a claim. See
-"The first person" in `voice-and-shape.md` for what follows.
+**D-3 — the authorial voice. Split into two, one settled and one provisional.**
 
-Two things this decision does not mean. It does not remove the authorial voice
-— the book still judges, weighs, and tells the reader where the evidence stops,
-none of which needs the word "I". And it does not remove the risk the
-familiarity carries: unsourced local texture written in the third person is
-harder to catch than a first-person passage, not easier, so chapter 03 needs
-more scrutiny at revision rather than less.
+An earlier version of this entry banned the first person outright. That was the
+wrong shape for the decision: "authorial voice" bundles four independent dials
+— grammatical person, judgment, epistemic visibility, and biographical
+presence — and a ban on the pronoun rules on the smallest of them while leaving
+the one that actually mattered unaddressed. The table in `voice-and-shape.md`
+sets them out.
+
+**D-3a — biographical presence: none. Settled.** No life, no place, no personal
+history, in the chapters or the introduction. This is what the decision was
+always about.
+
+**D-3b — the first person: provisional, governed by a test rather than a ban.**
+Available where removing it would make the sentence less true, and nowhere
+else. A blanket ban would force overclaiming in the two places this book is
+most exposed: gap sentences, where the impersonal form turns "no source was
+available to me" into a much larger and probably false claim about the world's
+archives, and rule 4 judgments, where it asserts a consensus that does not
+exist. Revisit once chapters 12 and 07 are drafted; a chapter of real prose
+settles this better than deciding in advance.
+
+Judgment and epistemic visibility are unaffected and run at full strength. This
+book needs more epistemic visibility than most trade history, because rule 4 and
+"absence of a source is content" both require a narrator visible enough to be
+doing the reporting.
+
+**One inherited sentence to rule on.** `AGENTS.md`, illustrating "absence of a
+source is content", offers: "The Afghan side of this war is thinly covered in
+the sources I can read." It is the only first person in the repository. It came
+from the scaffolding pass rather than from the author, so it carries no
+authorial intent and should not be treated as precedent. Under D-3b it is a
+good illustration and can stay — but as a deliberate keep, not an inherited
+one. Amending the binding rules is the author's call either way.
 
 ## Erewhon's afterlife, and what it is not yet
 
@@ -172,6 +194,7 @@ rather than tests of the premise; the drafting blockers in
 reference to names is about individuals in the scandal and was correctly left
 alone.
 
-D-1, D-2 and D-3 are all settled. What remains open is the source work behind
-Q04-5, and the running risk that chapter 03 picks up unsourced local texture,
-which is a revision problem rather than a decision.
+D-1, D-2 and D-3a are settled. Open: D-3b, which is deliberately deferred until
+there is prose to test it against; the source work behind Q04-5; and the
+running risk that chapter 03 picks up unsourced local texture, which is a
+revision problem rather than a decision.

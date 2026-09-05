@@ -163,64 +163,94 @@ tentpole; it survives only as questions inside other chapters (Q01-3, Q07-5,
 Q10-3). If the answers to those come back strong, a European money chapter has
 a good claim on any slot that opens.
 
-## The first person — settled: none
+## The authorial voice
 
-**The book has no explicit first person.** No "I", no authorial appearance in
-the prose, in the chapters or the introduction. Decided, recorded as D-3 in
-`thesis.md`, and not an open question.
+"Authorial voice" bundles four dials that move independently. Most of the
+regret risk in deciding this comes from treating them as one.
 
-**This is not the same as having no authorial voice, and the two must not get
-confused.** The book still judges, weighs, decides what matters, and tells the
-reader when the evidence will not settle something. That voice is the whole
-argument of "the hazard the apparatus creates" above — connective tissue,
-interpretation, and the because and the which-meant-that are the author working,
-and none of it requires the word "I". Trade history does this routinely.
-Removing the first person removes a device, not a point of view. A book with no
-"I" and no judgment either would be the claim-shaped failure named above,
-arrived at from a different direction.
+| | dial | state |
+| --- | --- | --- |
+| 1 | **Grammatical person** — whether "I" appears on the page | provisional, see below |
+| 2 | **Judgment** — whether the narration evaluates | full strength |
+| 3 | **Epistemic visibility** — whether the reader is shown how we know | full strength, and load-bearing |
+| 4 | **Biographical presence** — whether the author's life appears | none |
 
-The practical difference: the periodization argument opening the book is now
-made on the evidence of how the literature carved the period up, rather than
-from anyone's vantage. That is the harder version and the better one — it was
-always a historiography argument, and standpoint would have been doing rhetorical
-work the sources should do.
+Dials 2 and 3 run at full strength with dial 1 at zero. That combination is the
+register of most good narrative history, and it is where this book sits by
+default.
 
-**Chicago familiarity: a working note, not a passage.** There is genuine local
-familiarity behind chapter 03. It stays on this side of the manuscript. What it
-legitimately does:
+**Dial 4 — none. Settled.** No life, no place, no personal history. This is the
+decision; it is not a decision about the pronoun.
 
-- **Directs attention.** Knowing which questions about a city are interesting is
-  worth a great deal at the research stage and costs the reader nothing.
-- **Opens doors.** Q03-3 and Q03-4 — who paid, what share of losses was insured,
-  and what happened to the people burned out as against the property — are
-  reading-room questions rather than bibliography questions. None of the five
-  long-lead archival questions in `question-triage.md` is a Chicago one, and
-  Chicago is the one city where the author can walk in. Worth exploiting early;
-  it is free research capacity.
+**Dial 1 — provisional, with a test rather than a ban.** The first person is
+available where **removing it would make the sentence less true**, and nowhere
+else. If the impersonal version claims more than the evidence supports, use it.
+If the impersonal version claims exactly the same thing, don't.
 
-What it may never do:
+The test exists because a blanket ban would force overclaiming in the two
+places this book is most exposed:
 
-- **Appear as evidence.** Knowing a city is not knowing what happened in it in
-  1871. Every sentence in chapter 03 needs a `CLAIMS.md` row exactly as if the
-  author had never been there.
-- **Leak in as texture.** This is the failure mode to actually watch for, and it
-  survives the no-first-person decision intact — it does not need an "I" to
-  happen. Local familiarity produces confident, unsourced detail about streets,
-  distances, grades, sightlines, and neighbourhood character, written in the
-  third person and reading as research. It is the most plausible-sounding
-  unsourced prose this book is likely to generate, which by the standard in
-  `AGENTS.md` makes it the most damaging. Chapter 03 deserves a harder look at
-  revision than any other chapter for exactly this reason.
+- **Gap sentences.** *No Afghan-side sources are available* is a claim about the
+  world's archives. *No Afghan-language source was available to me* is a claim
+  about a research process. The first is bigger, less checkable, and probably
+  false. Five questions — Q09-5, Q14-6, Q17-6, Q18-6, Q20-5 — are likely to end
+  in a sentence of this shape, and the impersonal form of each is a claim the
+  book cannot support.
+- **Rule 4 judgments.** Having read both sides and found one more persuasive,
+  the honest form names who is judging. Strip it and the sentence becomes *the
+  stronger reading is* or *it seems clear that*, which assert a consensus that
+  does not exist. `AGENTS.md` already forbids "some accounts suggest" with no
+  account named; a ban on the first person arrives at the same dodge from the
+  other direction.
 
-**One consequence, resolved.** The collision previously flagged here is gone:
-with no personal passage competing for it, the machines thread's single allowed
-present-day passage is free, and Erewhon's afterlife is the obvious claimant if
-Q04-5 supports one.
+**Why provisional.** Voice decisions made before prose exists are the ones that
+get regretted. Revisit after chapters 12 and 07 are drafted, and see whether an
+"I" ever actually wanted to appear. The expectation is a handful of uses in the
+whole book, nearly all of them gap sentences — but that is a guess, and one
+chapter of real prose settles it better than any amount of deciding in advance.
 
-**The retitle still helps.** Chapter 03 is *Chicago Rebuilt*, not the fire. The
-fire is one night in 1871; the rebuilt city is the thing that is still standing
-and still legible, which is what the familiarity is actually familiarity with.
-The chapter's subject and the author's advantage point at the same object.
+**Dial 3 is not optional for this book.** Rule 4 requires recording
+disagreements with names attached, and "absence of a source is content"
+requires saying what could not be found. Neither is writable by an invisible
+narrator. This book needs more epistemic visibility than most trade history,
+not less — the seams are part of the argument.
+
+**No first person is not no authorial voice, and the two must not get
+confused.** The book judges, weighs, decides what matters, and tells the reader
+where the evidence stops. That is the whole argument of "the hazard the
+apparatus creates" above — the connective tissue and the interpretation are the
+author working, and none of it requires the word "I". A book with neither a
+first person nor any judgment would be the claim-shaped failure named earlier,
+reached from a different direction.
+
+One consequence of dial 4 being off: the periodization argument opening the
+book is made on the evidence of how the literature carved the period up, rather
+than from anyone's vantage. That is the harder version and the better one. It
+was always a historiography argument, and standpoint would have been doing
+rhetorical work the sources should do.
+
+## Chapter 03 and prior familiarity
+
+Chapter 03 is the one chapter where the author has prior familiarity with the
+subject. Two operational consequences, no others.
+
+**It gets a harder look at revision than any other chapter.** Unsourced
+descriptive detail — streets, distances, grades, sightlines, neighbourhood
+character — reads as research rather than as recollection, which makes it
+harder to catch than an obvious gap, not easier. By the standard in `AGENTS.md`
+that makes it the most damaging kind of unsourced prose this book is likely to
+produce. Every sentence in chapter 03 needs a `CLAIMS.md` row as though the
+familiarity did not exist.
+
+**Local archive access is available and should be used early.** Q03-3 and
+Q03-4 — who paid, what share of losses was insured, and what happened to the
+people burned out as against the property — are reading-room questions rather
+than bibliography questions. None of the five long-lead archival questions in
+`question-triage.md` is a Chicago one, so this is free research capacity.
+
+The retitle helps: chapter 03 is *Chicago Rebuilt*, not the fire. The fire is
+one night in 1871; the rebuilt city is the thing still standing and still
+legible, which is what the familiarity is familiarity with.
 
 ## Conventions to settle early
 
