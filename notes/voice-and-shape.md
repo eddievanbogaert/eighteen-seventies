@@ -163,62 +163,64 @@ tentpole; it survives only as questions inside other chapters (Q01-3, Q07-5,
 Q10-3). If the answers to those come back strong, a European money chapter has
 a good claim on any slot that opens.
 
-## The first person
+## The first person — settled: none
 
-The author has personal and local grounding in Chicago and wants to use it
-lightly in chapter 03. Worth separating three things that will otherwise get
-decided by accident.
+**The book has no explicit first person.** No "I", no authorial appearance in
+the prose, in the chapters or the introduction. Decided, recorded as D-3 in
+`thesis.md`, and not an open question.
 
-**Whether the book has an "I" at all is one decision, made once.** Trade history
-works with an authorial presence and works without one. What does not work is
-arriving at one in chapter 3. A first-person passage with no precedent reads as
-an intrusion; the same passage, in a book whose introduction has already put the
-author on the page, reads as a return. So the real question is not whether the
-Chicago passage is good — it is whether the introduction establishes a voice
-that the passage can come back to.
+**This is not the same as having no authorial voice, and the two must not get
+confused.** The book still judges, weighs, decides what matters, and tells the
+reader when the evidence will not settle something. That voice is the whole
+argument of "the hazard the apparatus creates" above — connective tissue,
+interpretation, and the because and the which-meant-that are the author working,
+and none of it requires the word "I". Trade history does this routinely.
+Removing the first person removes a device, not a point of view. A book with no
+"I" and no judgment either would be the claim-shaped failure named above,
+arrived at from a different direction.
 
-Three options:
+The practical difference: the periodization argument opening the book is now
+made on the evidence of how the literature carved the period up, rather than
+from anyone's vantage. That is the harder version and the better one — it was
+always a historiography argument, and standpoint would have been doing rhetorical
+work the sources should do.
 
-1. **No first person in the chapters.** Personal material lives in the
-   introduction's account of why this book exists, and nowhere else.
-2. **An established presence.** The introduction puts the author on the page,
-   and a handful of chapters — Chicago among them — use it deliberately.
-3. **A single marked exception**, flagged to the reader as such.
+**Chicago familiarity: a working note, not a passage.** There is genuine local
+familiarity behind chapter 03. It stays on this side of the manuscript. What it
+legitimately does:
 
-I'd recommend 2. It costs one paragraph in the introduction and it converts the
-Chicago material from an anomaly into the thing the book was already doing. It
-also gives the periodization argument a place to sit: the case that the decade
-falls between two ill-fitting labels is more persuasive from someone visibly
-standing somewhere than from a disembodied narrator.
+- **Directs attention.** Knowing which questions about a city are interesting is
+  worth a great deal at the research stage and costs the reader nothing.
+- **Opens doors.** Q03-3 and Q03-4 — who paid, what share of losses was insured,
+  and what happened to the people burned out as against the property — are
+  reading-room questions rather than bibliography questions. None of the five
+  long-lead archival questions in `question-triage.md` is a Chicago one, and
+  Chicago is the one city where the author can walk in. Worth exploiting early;
+  it is free research capacity.
 
-**Standpoint is not evidence.** Knowing a city is not knowing what happened in
-it in 1871. Personal and local knowledge is framing in exactly the sense rule 6
-means, and should be handled the same way: it may open a chapter, it may not
-support a claim, and no sentence resting on it may assert anything about the
-1870s that lacks a `CLAIMS.md` row. The failure mode is specific and easy to
-miss — local familiarity produces confident-sounding detail about streets,
-distances, and neighbourhood character that is really about the city now.
+What it may never do:
 
-**The retitle helps here.** Chapter 03 is *Chicago Rebuilt*, not the fire. The
-fire is one night in 1871 and nobody alive has a relationship with it. The
-rebuilt city is a place someone can actually stand in, and the chapter's
-subject is precisely the thing the author has a genuine connection to. That is
-a better fit than it would have been under the old slug.
+- **Appear as evidence.** Knowing a city is not knowing what happened in it in
+  1871. Every sentence in chapter 03 needs a `CLAIMS.md` row exactly as if the
+  author had never been there.
+- **Leak in as texture.** This is the failure mode to actually watch for, and it
+  survives the no-first-person decision intact — it does not need an "I" to
+  happen. Local familiarity produces confident, unsourced detail about streets,
+  distances, grades, sightlines, and neighbourhood character, written in the
+  third person and reading as research. It is the most plausible-sounding
+  unsourced prose this book is likely to generate, which by the standard in
+  `AGENTS.md` makes it the most damaging. Chapter 03 deserves a harder look at
+  revision than any other chapter for exactly this reason.
 
-**One collision to resolve.** If a personal Chicago passage counts as
-present-day material under the convention in `thesis.md`, it spends the
-machines thread's single allowed in-chapter passage — and `thesis.md` also
-proposes spending that slot on Erewhon's afterlife. Both are machines. Either
-the two are ranked, or authorial standpoint is ruled a separate category from
-present-day parallel and budgeted separately. This needs an answer before either
-gets written, not after.
+**One consequence, resolved.** The collision previously flagged here is gone:
+with no personal passage competing for it, the machines thread's single allowed
+present-day passage is free, and Erewhon's afterlife is the obvious claimant if
+Q04-5 supports one.
 
-**A practical note.** Proximity is a research asset, not just a voice question.
-Q03-3 and Q03-4 — who paid, what share of losses was insured, and what happened
-to the people burned out as against the property — are the kind of questions
-that get answered in a reading room rather than from a bibliography. None of the
-five long-lead archival questions in `question-triage.md` is a Chicago one, and
-Chicago is the one city where the author can walk in. Worth exploiting early.
+**The retitle still helps.** Chapter 03 is *Chicago Rebuilt*, not the fire. The
+fire is one night in 1871; the rebuilt city is the thing that is still standing
+and still legible, which is what the familiarity is actually familiarity with.
+The chapter's subject and the author's advantage point at the same object.
 
 ## Conventions to settle early
 

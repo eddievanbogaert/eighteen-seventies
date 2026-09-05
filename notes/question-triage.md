@@ -232,12 +232,12 @@ Decisions that are authorial rather than sourced are recorded in `thesis.md`:
   **Settled: race and citizenship.**
 - **D-2** — "invention" or "machines" for thread 3. **Settled: machines**, and
   nothing is renamed.
-- **D-3** — whether the book has an authorial first person at all, raised by
-  the personal Chicago material proposed for chapter 03. **Open**, and it is
-  upstream of chapter 03 in the way Q11-1 is upstream of chapter 11.
+- **D-3** — whether the book has an authorial first person. **Settled: none.**
+  The Chicago familiarity behind chapter 03 stays a working note; it directs
+  research and opens archives but never reaches the prose.
 
-Each would be category **A** if numbered. With D-3 open, the live authorial
-total is five rather than four.
+Each would be category **A** if numbered. All three are settled, so the live
+authorial total is the four in the table.
 
 ## Maintenance
 

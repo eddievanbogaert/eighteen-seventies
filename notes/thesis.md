@@ -120,12 +120,18 @@ Machines are the term the present-day conversation about industrialisation
 actually runs on, so the word does the connective work "invention" would not;
 and Butler is a live thread in that conversation rather than a period curio.
 
-**D-3 — the first person, and Chicago. Open.** See "The first person" in
-`voice-and-shape.md`. The author has personal and local grounding in Chicago
-and wants to use it lightly in chapter 03. The decision is not whether that one
-passage is good — it is whether this book has an authorial "I" at all, because
-a first-person passage appearing once in chapter 3 with no precedent reads as
-an intrusion rather than a standpoint.
+**D-3 — no explicit first person. Settled.** The book has no authorial "I",
+in the chapters or the introduction. The personal and local familiarity behind
+chapter 03 stays on this side of the manuscript: it directs research attention
+and opens archives, and it never appears in the prose or supports a claim. See
+"The first person" in `voice-and-shape.md` for what follows.
+
+Two things this decision does not mean. It does not remove the authorial voice
+— the book still judges, weighs, and tells the reader where the evidence stops,
+none of which needs the word "I". And it does not remove the risk the
+familiarity carries: unsourced local texture written in the third person is
+harder to catch than a first-person passage, not easier, so chapter 03 needs
+more scrutiny at revision rather than less.
 
 ## Erewhon's afterlife, and what it is not yet
 
@@ -152,8 +158,9 @@ running to the present is not a 3,000-word chapter, and it does not fold neatly
 in with Verne. That proposal is now conditional on Q04-5 coming back thin.
 
 Under the presentism convention above, this afterlife is the obvious candidate
-for the machines thread's one deliberate present-day passage. Spending it here
-means not spending it on Menlo Park or the telephone.
+for the machines thread's one deliberate present-day passage, and with D-3
+settled nothing else competes for the slot. Spending it here means not spending
+it on Menlo Park or the telephone.
 
 ## Consequences not yet acted on
 
@@ -165,4 +172,6 @@ rather than tests of the premise; the drafting blockers in
 reference to names is about individuals in the scandal and was correctly left
 alone.
 
-What remains open is D-3, and the source work behind Q04-5.
+D-1, D-2 and D-3 are all settled. What remains open is the source work behind
+Q04-5, and the running risk that chapter 03 picks up unsourced local texture,
+which is a revision problem rather than a decision.
