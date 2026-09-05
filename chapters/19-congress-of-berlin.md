@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [empire]
 status: stub
 sources: []
-open_questions: []
+open_questions: [Q19-1, Q19-2, Q19-3, Q19-4, Q19-5, Q19-6]
 ---
 
 # The Congress of Berlin

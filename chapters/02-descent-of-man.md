@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [race]
 status: stub
 sources: []
-open_questions: []
+open_questions: [Q02-1, Q02-2, Q02-3, Q02-4]
 ---
 
 # Darwin, The Descent of Man

@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [empire]
 status: stub
 sources: []
-open_questions: []
+open_questions: [Q14-1, Q14-2, Q14-3, Q14-4, Q14-5, Q14-6, Q14-7]
 ---
 
 # The Great Famine in India

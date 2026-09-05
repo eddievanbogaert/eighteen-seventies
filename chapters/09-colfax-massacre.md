@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [race]
 status: stub
 sources: []
-open_questions: []
+open_questions: [Q09-1, Q09-2, Q09-3, Q09-4, Q09-5, Q09-6]
 ---
 
 # The Colfax Massacre

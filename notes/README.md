@@ -29,6 +29,8 @@ which is the point of having it.
 - `voice-and-shape.md` — audience, register, what a finished chapter looks
   like, the length budget, and where to start drafting. Editorial proposals,
   none of them binding.
-- `question-triage.md` — all 120 questions in `/research/QUESTIONS.md` sorted
-  by what they block, the nine that are thesis-critical, and a suggested
+- `question-triage.md` — all 122 questions in `/research/QUESTIONS.md` sorted
+  by what they block, the seven that are thesis-critical, and a suggested
   critical path. Goes stale as questions close; `QUESTIONS.md` is authoritative.
+  The counts in that sentence are checked by `tools/check.py`, because they had
+  already drifted once.

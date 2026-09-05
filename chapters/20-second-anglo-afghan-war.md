@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [empire]
 status: stub
 sources: []
-open_questions: []
+open_questions: [Q20-1, Q20-2, Q20-3, Q20-4, Q20-5, Q20-6]
 ---
 
 # The Second Anglo-Afghan War

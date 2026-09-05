@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [race]
 status: stub
 sources: []
-open_questions: []
+open_questions: [Q15-1, Q15-2, Q15-3, Q15-4, Q15-5, Q15-6]
 ---
 
 # The 1876 Election and the Compromise of 1877

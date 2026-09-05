@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [empire]
 status: stub
 sources: []
-open_questions: []
+open_questions: [Q16-1, Q16-2, Q16-3, Q16-4, Q16-5, Q16-6]
 ---
 
 # The Satsuma Rebellion
