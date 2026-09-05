@@ -27,10 +27,12 @@ carry the sequence and smaller events fold in around them.
 | `/research` | `CLAIMS.md` and `QUESTIONS.md` — the verification ledger and the open questions. | The book's real engine. |
 | `/primary` | Transcribed primary text, with provenance. | Transcription only, no commentary. |
 | `/notes` | Thinking, conventions, structural decisions, historiography, loose ends. | Anything unverified goes here. |
+| `/tools` | `check.py`, which enforces the mechanical half of the rules, and its tests. | Run it before you commit. |
 
 `AGENTS.md` at the root holds the binding rules. Read it before writing
 anything, and note that "binding" is meant literally rather than as
-encouragement.
+encouragement. `BACKLOG.md` holds the task list, sorted by who can move each
+item, and points into `/notes/question-triage.md` for research sequence.
 
 ## The workflow
 
@@ -58,6 +60,24 @@ In practice, for any chapter:
 6. **Record what you could not settle.** Disagreements among historians get
    written into the chapter as disagreements. Gaps in the sources get stated
    plainly. Both are content, not embarrassments.
+7. **Run the checks.** `python3 tools/check.py`, which needs nothing installed.
+
+## What the checks do
+
+`tools/check.py` enforces the half of the rules a script can reach: that every
+`source_key` in `CLAIMS.md` exists in the manifest, that no chapter cites a
+source without a verified row behind it, that a chapter with an unverified date
+range does not state a year in its prose, that no page number or ISBN has
+appeared anywhere, that the question list and its triage table agree, and that
+counts stated in prose still match what they count. `python3
+tools/check.py --list` prints the full account, including what it cannot
+check. `python3 tools/test_check.py` breaks the repository twenty-two
+different ways to confirm the checker notices.
+
+It cannot tell whether a claim is true, whether a source says what a row says
+it says, or whether `read: "y"` means anyone opened the book. Those checks are
+human and they are the ones that matter. The script exists so that attention
+is not spent on the mechanical ones.
 
 ## Chapter frontmatter
 
