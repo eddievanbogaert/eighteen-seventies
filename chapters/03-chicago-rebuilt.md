@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [machines]
 status: stub
 sources: []
-open_questions: []
+open_questions: [Q03-1, Q03-2, Q03-3, Q03-4, Q03-5]
 ---
 
 # Chicago Rebuilt

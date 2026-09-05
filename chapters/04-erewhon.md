@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [machines]
 status: stub
 sources: []
-open_questions: []
+open_questions: [Q04-1, Q04-2, Q04-3, Q04-4, Q04-5]
 ---
 
 # Butler, Erewhon

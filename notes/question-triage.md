@@ -1,6 +1,6 @@
 # Question triage
 
-All 121 questions in `/research/QUESTIONS.md`, sorted by what they block rather
+All 122 questions in `/research/QUESTIONS.md`, sorted by what they block rather
 than by what they ask. Nothing here answers a question — triage is a judgment
 about sequence, not a finding, and no question below is any closer to closed
 than it was.
@@ -22,7 +22,7 @@ any of them.
 
 | ch | gate (G) | parallel (P) | authorial (A) | convention (C) | thesis (T) |
 | --- | --- | --- | --- | --- | --- |
-| — | QX-3, QX-4, QX-5 | | | QX-1, QX-2 | |
+| — | QX-3, QX-4, QX-5 | | QX-6 | QX-1, QX-2 | |
 | 01 | Q01-1, Q01-2, Q01-3 | Q01-4 | | | **Q01-3** |
 | 02 | Q02-1, Q02-2, Q02-3 | Q02-4 | | | |
 | 03 | Q03-1, Q03-2 | Q03-3, Q03-4, Q03-5 | | | |
@@ -45,7 +45,7 @@ any of them.
 | 20 | Q20-1, Q20-2, Q20-4, Q20-5 | Q20-3 | Q20-6 | | **Q20-4** |
 | 21 | Q21-1, Q21-2, Q21-3, Q21-4, Q21-6 | Q21-5 | | | |
 
-**Distribution: 85 gate, 26 parallel, 4 authorial, 6 convention.**
+**Distribution: 85 gate, 26 parallel, 5 authorial, 6 convention.**
 
 Seventy per cent of the questions block drafting. That is not a problem with the
 triage, it is the design working — the questions were deliberately written so
@@ -167,14 +167,17 @@ these too late to succeed. Start them in week one and let them run in the
 background, because the cost of starting them late is that the honest gap
 becomes the only available option rather than the true one.
 
-**4. The six conventions are cheap now and expensive later.** QX-1 calendars,
-QX-2 currency conversion, Q06-4 which Verne translation, Q16-4 Japanese
+**4. The conventions are cheap now and expensive later.** QX-1 calendars, QX-2
+currency conversion, Q06-4 which Verne translation, Q16-4 Japanese
 romanisation and name order, Q18-5 Nez Perce naming, Q19-4 Balkan and Ottoman
-place names — plus the British/American spelling question raised in
-`voice-and-shape.md`, which is not yet a numbered question and should be. Each
-is one decision. Each, if made after 100,000 words exist, is a manual sweep of
-the whole manuscript. They can be answered late in the *research*, but they
-should be answered before there is much *prose*.
+place names — plus British versus American spelling, which this file previously
+noted was not numbered and should be. It now is, as **QX-6**. It is triaged
+**A** rather than **C**, because it is the only one of the seven that no source
+can settle: the other six depend on what the sources for those chapters do, and
+spelling depends on nobody but the author and eventually a publisher. Each is
+one decision. Each, if made after 100,000 words exist, is a manual sweep of the
+whole manuscript. They can be answered late in the *research*, but they should
+be answered before there is much *prose*.
 
 Q18-5 and Q19-4 additionally are not neutral choices, as Q19-4 says outright.
 They should be made deliberately and stated to the reader, not defaulted into by
@@ -225,7 +228,7 @@ before there is an architecture made of finished prose.
 
 ## Author decisions not in QUESTIONS.md
 
-The table above accounts for all 121 numbered questions and nothing else.
+The table above accounts for all 122 numbered questions and nothing else.
 Decisions that are authorial rather than sourced are recorded in `thesis.md`:
 
 - **D-1** — "race and citizenship" or "citizenship" in the thesis line.
@@ -238,8 +241,9 @@ Decisions that are authorial rather than sourced are recorded in `thesis.md`:
   on purpose until chapters 12 and 07 exist, since voice decisions made before
   prose are the ones that get regretted.
 
-Each would be category **A** if numbered. With D-3b deliberately deferred, the
-live authorial total is five rather than four.
+Each would be category **A** if numbered. Five questions now carry that
+category in the table — Q11-1, Q13-6, Q15-6, Q20-6 and the newly numbered
+QX-6 — so with D-3b deliberately deferred the live authorial total is six.
 
 ## Maintenance
 

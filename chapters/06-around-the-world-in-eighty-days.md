@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [machines]
 status: stub
 sources: []
-open_questions: []
+open_questions: [Q06-1, Q06-2, Q06-3, Q06-4, Q06-5]
 ---
 
 # Verne, Around the World in Eighty Days

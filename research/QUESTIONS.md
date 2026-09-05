@@ -33,6 +33,17 @@ a source is content" note in `AGENTS.md`.
   the introduction's periodization argument — that the years to 1877 are filed
   as late Reconstruction and the rest absorbed into a thirty-year Gilded Age —
   and that argument needs the labels' history, not an assertion about them.
+- **QX-6** **Authorial, not research.** British or American spelling and
+  punctuation, decided once and recorded with the date of the decision. Raised
+  in `notes/voice-and-shape.md`, which notes that the repository is currently
+  written in British forms throughout, that ten of the twenty-one chapters are
+  American in subject, and that a US trade publisher will impose US style at
+  copyedit regardless. It sits with the authorial questions rather than the
+  conventions because it is the only one of the six that no source can settle:
+  calendars, currency, romanisation, place names, and Nez Perce naming all
+  depend on what the sources for those chapters do, and this depends on nobody
+  but the author and eventually a publisher. Cheap now; a manual sweep of the
+  whole manuscript later.
 
 ## Q01 — The Franco-Prussian War
 
