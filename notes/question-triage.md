@@ -1,6 +1,6 @@
 # Question triage
 
-All 120 questions in `/research/QUESTIONS.md`, sorted by what they block rather
+All 121 questions in `/research/QUESTIONS.md`, sorted by what they block rather
 than by what they ask. Nothing here answers a question — triage is a judgment
 about sequence, not a finding, and no question below is any closer to closed
 than it was.
@@ -26,7 +26,7 @@ any of them.
 | 01 | Q01-1, Q01-2, Q01-3 | Q01-4 | | | **Q01-3** |
 | 02 | Q02-1, Q02-2, Q02-3 | Q02-4 | | | |
 | 03 | Q03-1, Q03-2 | Q03-3, Q03-4, Q03-5 | | | |
-| 04 | Q04-1, Q04-3, Q04-4 | Q04-2 | | | **Q04-4** |
+| 04 | Q04-1, Q04-3, Q04-4, Q04-5 | Q04-2 | | | **Q04-4** |
 | 05 | Q05-1, Q05-2, Q05-3, Q05-5 | Q05-4 | | | |
 | 06 | Q06-1, Q06-2, Q06-3 | Q06-5 | | Q06-4 | |
 | 07 | Q07-1, Q07-2, Q07-3 | Q07-4, Q07-5 | | | **Q07-5** |
@@ -45,7 +45,7 @@ any of them.
 | 20 | Q20-1, Q20-2, Q20-4, Q20-5 | Q20-3 | Q20-6 | | **Q20-4** |
 | 21 | Q21-1, Q21-2, Q21-3, Q21-4, Q21-6 | Q21-5 | | | |
 
-**Distribution: 84 gate, 26 parallel, 4 authorial, 6 convention.**
+**Distribution: 85 gate, 26 parallel, 4 authorial, 6 convention.**
 
 Seventy per cent of the questions block drafting. That is not a problem with the
 triage, it is the design working — the questions were deliberately written so
@@ -66,8 +66,8 @@ nothing in it has a memorable name. That claim has been cut from the thesis and
 demoted to introduction material — see `thesis.md`. Both questions are still
 worth answering and neither changes category in the table above, but they now
 inform one section of the introduction rather than testing the book's premise,
-which is a much smaller job for them to do. Their wording in `QUESTIONS.md`
-still describes them as tests of the premise and should be revised.
+which is a much smaller job for them to do. Both have been reworded in
+`QUESTIONS.md` to say so.
 
 **Does the money thread leave America? — Q01-3, Q07-5, Q10-3, Q20-4.** These
 read as four unrelated questions in four chapters and they are one question in
@@ -120,9 +120,15 @@ whether a chapter exists.
 
 **Q04-4 — was Erewhon actually read in the 1870s?** If it was little read, the
 chapter's claim is about anticipation, not influence — a different argument.
-This also decides whether chapters 04 and 06 should merge into one chapter on
-what the decade's fiction knew about machines, which `voice-and-shape.md`
-argues for on length grounds.
+
+Its companion **Q04-5**, on the book's later reception, is new and is a gate for
+the same reason: the author's case for this chapter may rest on a
+twentieth-century afterlife rather than on 1870s readership, and until that is
+sourced the chapter does not know what it argues. The two must not be allowed to
+merge — an afterlife is evidence that Butler saw something worth seeing, never
+evidence that anyone in 1872 was listening. See `thesis.md`. Between them these
+two also decide whether chapters 04 and 06 merge, which `voice-and-shape.md` now
+treats as conditional rather than recommended.
 
 ## Four clusters worth working as units
 
@@ -217,19 +223,21 @@ Steps 1 through 4 are mostly mechanical and mostly parallelisable. Step 5 is the
 one that could change the book's architecture, which is why it should happen
 before there is an architecture made of finished prose.
 
-## Two author decisions not in QUESTIONS.md
+## Author decisions not in QUESTIONS.md
 
-The table above accounts for all 120 numbered questions and nothing else. Two
-further decisions exist and are recorded in `thesis.md` rather than
-`/research/QUESTIONS.md`, because they are authorial rather than sourced:
+The table above accounts for all 121 numbered questions and nothing else.
+Decisions that are authorial rather than sourced are recorded in `thesis.md`:
 
-- **D-1** — whether the thesis line's "citizenship" stands against the thread's
-  "race and citizenship."
-- **D-2** — whether "invention" or "machines" governs thread 3, and whether the
-  thread should be renamed.
+- **D-1** — "race and citizenship" or "citizenship" in the thesis line.
+  **Settled: race and citizenship.**
+- **D-2** — "invention" or "machines" for thread 3. **Settled: machines**, and
+  nothing is renamed.
+- **D-3** — whether the book has an authorial first person at all, raised by
+  the personal Chicago material proposed for chapter 03. **Open**, and it is
+  upstream of chapter 03 in the way Q11-1 is upstream of chapter 11.
 
-Both would be category **A** if they were numbered. Counted in, the authorial
-total is six rather than four.
+Each would be category **A** if numbered. With D-3 open, the live authorial
+total is five rather than four.
 
 ## Maintenance
 

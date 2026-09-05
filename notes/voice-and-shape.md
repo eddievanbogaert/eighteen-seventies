@@ -129,13 +129,14 @@ tentpoles is a lot**, and five of them have to be 3,000-word chapters. A
 3,000-word chapter is a section that has been promoted. Worth asking, per
 chapter, whether it is a chapter or a part of one.
 
-The clearest candidate for merging is **04 (Erewhon) and 06 (Verne)**. Both are
-novels, both sit on the machines thread, both are dated 1872–73, and they are
-two apart in the sequence. One chapter about what the decade's fiction knew
-about machines is stronger than two thin ones about a novel each — and it opens
-a slot. Note that Q04-4 bears directly on this: if Erewhon was little read at
-the time, chapter 04's claim is about anticipation rather than influence, which
-is a different argument and travels better inside a combined chapter than alone.
+The clearest candidate for merging was **04 (Erewhon) and 06 (Verne)** — both
+novels, both machines, both 1872–73, two apart in the sequence. **That proposal
+is now conditional.** If Q04-5 comes back with a documented afterlife for the
+"Book of the Machines", chapter 04 has to carry both an 1872 reading and a
+reception history running to the present, which is not a 3,000-word chapter and
+does not fold in neatly beside Verne. Merge only if Q04-5 comes back thin.
+Q04-4 still bears on it either way: if Erewhon was little read in the 1870s,
+chapter 04's claim is about anticipation rather than influence.
 
 If a slot does open, the two obvious uses are the 1875 gap and the missing
 money-thread chapter, both described below.
@@ -161,6 +162,63 @@ point the book most needs it. The gold standard's arrival in Europe has no
 tentpole; it survives only as questions inside other chapters (Q01-3, Q07-5,
 Q10-3). If the answers to those come back strong, a European money chapter has
 a good claim on any slot that opens.
+
+## The first person
+
+The author has personal and local grounding in Chicago and wants to use it
+lightly in chapter 03. Worth separating three things that will otherwise get
+decided by accident.
+
+**Whether the book has an "I" at all is one decision, made once.** Trade history
+works with an authorial presence and works without one. What does not work is
+arriving at one in chapter 3. A first-person passage with no precedent reads as
+an intrusion; the same passage, in a book whose introduction has already put the
+author on the page, reads as a return. So the real question is not whether the
+Chicago passage is good — it is whether the introduction establishes a voice
+that the passage can come back to.
+
+Three options:
+
+1. **No first person in the chapters.** Personal material lives in the
+   introduction's account of why this book exists, and nowhere else.
+2. **An established presence.** The introduction puts the author on the page,
+   and a handful of chapters — Chicago among them — use it deliberately.
+3. **A single marked exception**, flagged to the reader as such.
+
+I'd recommend 2. It costs one paragraph in the introduction and it converts the
+Chicago material from an anomaly into the thing the book was already doing. It
+also gives the periodization argument a place to sit: the case that the decade
+falls between two ill-fitting labels is more persuasive from someone visibly
+standing somewhere than from a disembodied narrator.
+
+**Standpoint is not evidence.** Knowing a city is not knowing what happened in
+it in 1871. Personal and local knowledge is framing in exactly the sense rule 6
+means, and should be handled the same way: it may open a chapter, it may not
+support a claim, and no sentence resting on it may assert anything about the
+1870s that lacks a `CLAIMS.md` row. The failure mode is specific and easy to
+miss — local familiarity produces confident-sounding detail about streets,
+distances, and neighbourhood character that is really about the city now.
+
+**The retitle helps here.** Chapter 03 is *Chicago Rebuilt*, not the fire. The
+fire is one night in 1871 and nobody alive has a relationship with it. The
+rebuilt city is a place someone can actually stand in, and the chapter's
+subject is precisely the thing the author has a genuine connection to. That is
+a better fit than it would have been under the old slug.
+
+**One collision to resolve.** If a personal Chicago passage counts as
+present-day material under the convention in `thesis.md`, it spends the
+machines thread's single allowed in-chapter passage — and `thesis.md` also
+proposes spending that slot on Erewhon's afterlife. Both are machines. Either
+the two are ranked, or authorial standpoint is ruled a separate category from
+present-day parallel and budgeted separately. This needs an answer before either
+gets written, not after.
+
+**A practical note.** Proximity is a research asset, not just a voice question.
+Q03-3 and Q03-4 — who paid, what share of losses was insured, and what happened
+to the people burned out as against the property — are the kind of questions
+that get answered in a reading room rather than from a bibliography. None of the
+five long-lead archival questions in `question-triage.md` is a Chicago one, and
+Chicago is the one city where the author can walk in. Worth exploiting early.
 
 ## Conventions to settle early
 

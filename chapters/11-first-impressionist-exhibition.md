@@ -38,6 +38,6 @@ _Framing only, never evidence. Empty._
   sits outside the four. Either answer is fine; the file should not stay silent.
 - Verify `date_range` against a source and log the row in `/research/CLAIMS.md`.
 - The group's own name for itself, the name the critics gave it, and the name
-  that stuck are three different things. This matters more than usual, given
-  the book's thesis about the decade's unmemorable names.
+  that stuck are three different things. Establish all three, and which came
+  from where, before any of them is used. Q11-4 is where that gets settled.
 - Open questions: `/research/QUESTIONS.md` → Q11.

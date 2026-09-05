@@ -7,7 +7,7 @@ material below is unverified and stays in `/notes` per rule 3.
 ## Current statement
 
 > **Working thesis:** The 1870s installed the operating system of the modern
-> world: money, citizenship, invention, empire.
+> world: money, race and citizenship, machines, empire.
 
 This is the whole of it. It replaced a longer paragraph that also claimed the
 decade is forgotten because nothing in it has a memorable name, together with
@@ -95,61 +95,74 @@ is a holding pen — the place a tempting parallel is parked so it can be
 reviewed as rhetoric — and for most chapters the correct final state of that
 section is empty.
 
-## Open author decisions
+## Decisions
 
-Neither is a research question, so neither belongs in `/research/QUESTIONS.md`
-with the sourced questions. Both are decisions only the author makes, and both
-need making on purpose, because a reader who notices either will read it as a
-position.
+**D-1 — "race and citizenship", not "citizenship". Settled.** The thesis line
+carries the full thread name. The compression to "citizenship" was rejected on
+two grounds: on the material, race is not a subtopic of citizenship in thread
+2's chapters — for several of them the point is that citizenship was being
+defined *by* race — and a reader who noticed the word missing from the one
+sentence stating what the book is about would have read the omission as a
+position. The author adds a second reason: the full name is also the better
+rhyme with the 2020s, which is the introduction's business rather than the
+thesis's, but is not a reason to weaken the thesis line.
 
-**D-1 — "citizenship" or "race and citizenship"?** The thesis line names four
-systems: money, citizenship, invention, empire. Thread 2 is named "race and
-citizenship" in the README table and shorthanded to `race` in the frontmatter
-vocabulary and in `AGENTS.md`. The thesis line therefore compresses it in a
-direction the rest of the repository does not.
+**D-2 — "machines", not "invention". Settled.** The thread keeps its name and
+the thesis line now uses it. Nothing is renamed; the README table, `AGENTS.md`,
+and the five `threads: [machines]` values were already consistent and stay as
+they are.
 
-The compression is not neutral. Thread 2's chapters are *The Descent of Man*,
-Colfax, the Comstock Act, the 1876 election and the Compromise of 1877, and
-Chief Joseph's surrender. On any reading, race is not a subtopic of citizenship
-in that list — for several of those chapters the point is precisely that
-citizenship was being defined *by* race, and a reader who notices the word
-missing from the thesis will not read it as brevity. Decide whether the
-compression stands, and if it does, decide it knowing that.
+The case for "invention" is recorded in case it returns: Menlo Park is arguably
+about invention becoming an industry rather than about any machine, and the
+Bell chapter is about a patent, which is the legal construction of priority.
+The author's reasons for keeping "machines" are stronger for this book.
+Machines are the term the present-day conversation about industrialisation
+actually runs on, so the word does the connective work "invention" would not;
+and Butler is a live thread in that conversation rather than a period curio.
 
-Options: restore "race and citizenship" in the thesis line; keep "citizenship"
-and rename the thread to match; or keep both as they are and accept that the
-thesis line and the thread table use different names for the same thread.
+**D-3 — the first person, and Chicago. Open.** See "The first person" in
+`voice-and-shape.md`. The author has personal and local grounding in Chicago
+and wants to use it lightly in chapter 03. The decision is not whether that one
+passage is good — it is whether this book has an authorial "I" at all, because
+a first-person passage appearing once in chapter 3 with no precedent reads as
+an intrusion rather than a standpoint.
 
-**D-2 — "invention" or "machines"?** Same shape, lower stakes, and the argument
-may run the other way. The thesis line says "invention"; the thread is named
-`machines` in the frontmatter vocabulary, the README table, and `AGENTS.md`.
+## Erewhon's afterlife, and what it is not yet
 
-There is a real case that "invention" is the better name for what thread 3
-actually contains. Menlo Park is about invention becoming an industry — a
-laboratory, a payroll, a method — rather than about any machine, and the
-telephone chapter is about a patent, which is to say about the legal
-construction of priority rather than about a device. Q13-2 and Q13-5 both point
-at that reading; Q12-1 and Q12-2 do too. Against it: Chicago rebuilt, Erewhon,
-and Verne sit more comfortably under machines than under invention.
+Recorded as unverified recall, not as findings. The author notes that Butler is
+the Butler in "Butlerian Jihad", and believes Butler surfaces in Turing and in
+Orwell, with the recall explicitly marked uncertain.
 
-Decide which term governs, and whether the thread should be renamed. If it is
-renamed, the change touches the README table, `AGENTS.md`'s thread vocabulary,
-and the `threads` frontmatter value in five chapter files — none of which
-should happen piecemeal.
+This is exactly the material rule 2 exists for. It is now **Q04-5** in
+`/research/QUESTIONS.md`, with each of the three claims listed separately
+because each can fail separately, and none of it may be used until sourced.
+
+If it holds, it changes chapter 04's argument. Q04-4 sets up a choice between
+influence and anticipation on the basis of 1870s readership. A documented
+twentieth-century afterlife is a third thing: not evidence that Erewhon mattered
+in 1872, but evidence that what it saw was worth seeing. Those must not be
+allowed to blur — a chapter that reaches for Dune and Turing to establish that
+Butler was influential *in the 1870s* has committed the error the whole
+apparatus is built to prevent. The afterlife is a reason the chapter is
+interesting, not evidence about its decade.
+
+It also weakens the proposal in `voice-and-shape.md` to merge chapters 04 and
+06. A chapter that has to carry both an 1872 reading and a reception history
+running to the present is not a 3,000-word chapter, and it does not fold neatly
+in with Verne. That proposal is now conditional on Q04-5 coming back thin.
+
+Under the presentism convention above, this afterlife is the obvious candidate
+for the machines thread's one deliberate present-day passage. Spending it here
+means not spending it on Menlo Park or the telephone.
 
 ## Consequences not yet acted on
 
-Recorded, not done, because they fall outside `/notes`:
+All of the reconciliations previously listed here have been made:
+`QUESTIONS.md` QX-5 and Q21-6 now describe themselves as introduction material
+rather than tests of the premise; the drafting blockers in
+`chapters/11-first-impressionist-exhibition.md` and
+`chapters/21-specie-resumption.md` no longer invoke the cut claim. Chapter 05's
+reference to names is about individuals in the scandal and was correctly left
+alone.
 
-- `/research/QUESTIONS.md` QX-5 and Q21-6 are both phrased as tests of the cut
-  premise — QX-5 says outright that "the thesis rests on the claim that this
-  period lacks a memorable name," and Q21-6 refers to "the book's closing claim
-  about unmemorable names." Neither claim is now in the thesis. The questions
-  are still worth answering, but as introduction material rather than as tests
-  of the premise, and their wording should be revised to say so.
-- `chapters/11-first-impressionist-exhibition.md` and
-  `chapters/21-specie-resumption.md` each contain a drafting blocker written in
-  terms of "the book's thesis about the decade's unmemorable names." Both need
-  rewording against the current thesis.
-- `chapters/05-credit-mobilier.md` refers to names in a different sense
-  (individuals named in the scandal) and is unaffected.
+What remains open is D-3, and the source work behind Q04-5.

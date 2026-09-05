@@ -3,7 +3,7 @@
 A trade history of the 1870s, for general readers.
 
 **Working thesis:** The 1870s installed the operating system of the modern
-world: money, citizenship, invention, empire.
+world: money, race and citizenship, machines, empire.
 
 **Four threads** run through the whole book rather than getting four separate
 sections:
