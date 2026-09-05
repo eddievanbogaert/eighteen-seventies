@@ -23,3 +23,9 @@ which is the point of having it.
 
 - `chapter-order.md` — the chronology, why chapters sit where they do, and the
   ordering questions still open.
+- `voice-and-shape.md` — audience, register, what a finished chapter looks
+  like, the length budget, and where to start drafting. Editorial proposals,
+  none of them binding.
+- `question-triage.md` — all 120 questions in `/research/QUESTIONS.md` sorted
+  by what they block, the nine that are thesis-critical, and a suggested
+  critical path. Goes stale as questions close; `QUESTIONS.md` is authoritative.
