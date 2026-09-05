@@ -2,12 +2,8 @@
 
 A trade history of the 1870s, for general readers.
 
-**Working thesis:** the 1870s is the decade when the modern world's operating
-system gets installed, and it is forgotten precisely because nothing in it has
-a memorable name. The gold standard arrives without a slogan. The telephone
-arrives as a patent dispute. Reconstruction ends in a procedural compromise
-nobody can name. The decade's biggest events are the ones that sound like
-paperwork.
+**Working thesis:** The 1870s installed the operating system of the modern
+world: money, citizenship, invention, empire.
 
 **Four threads** run through the whole book rather than getting four separate
 sections:

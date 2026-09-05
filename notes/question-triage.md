@@ -22,7 +22,7 @@ any of them.
 
 | ch | gate (G) | parallel (P) | authorial (A) | convention (C) | thesis (T) |
 | --- | --- | --- | --- | --- | --- |
-| — | QX-3, QX-4, QX-5 | | | QX-1, QX-2 | **QX-5** |
+| — | QX-3, QX-4, QX-5 | | | QX-1, QX-2 | |
 | 01 | Q01-1, Q01-2, Q01-3 | Q01-4 | | | **Q01-3** |
 | 02 | Q02-1, Q02-2, Q02-3 | Q02-4 | | | |
 | 03 | Q03-1, Q03-2 | Q03-3, Q03-4, Q03-5 | | | |
@@ -43,7 +43,7 @@ any of them.
 | 18 | Q18-1, Q18-2, Q18-3, Q18-4, Q18-6 | | | Q18-5 | |
 | 19 | Q19-1, Q19-2, Q19-3, Q19-6 | Q19-5 | | Q19-4 | |
 | 20 | Q20-1, Q20-2, Q20-4, Q20-5 | Q20-3 | Q20-6 | | **Q20-4** |
-| 21 | Q21-1, Q21-2, Q21-3, Q21-4, Q21-6 | Q21-5 | | | **Q21-6** |
+| 21 | Q21-1, Q21-2, Q21-3, Q21-4, Q21-6 | Q21-5 | | | |
 
 **Distribution: 84 gate, 26 parallel, 4 authorial, 6 convention.**
 
@@ -55,24 +55,19 @@ to a first chapter.** The reading has to happen.
 
 The useful part is that the gates cluster, and the clusters cut across chapters.
 
-## The nine thesis-critical questions
+## The seven thesis-critical questions
 
 These are the ones where a particular answer costs more than a rewrite of one
 chapter.
 
-**The premise itself — QX-5 and Q21-6.** The book's hook is that the decade has
-no memorable name and its biggest events sound like paperwork. QX-5 asks
-whether that is true of the period or only of later memory of it; Q21-6 asks the
-same thing at the exact point the book chose to end. If contemporaries had a
-vivid name for the decade, or if specie resumption was front-page news for
-weeks, the premise doesn't collapse but it does change shape — from *nobody
-noticed* to *we forgot*, which is a quieter and harder book to sell. **Worth
-answering before much prose exists**, because every chapter will be written in
-the light of whichever version is true.
-
-One wrinkle: the README makes two claims that QX-5 tests as one. That the
-*decade* lacks a name and that its *events* sound like paperwork are separable,
-and the second could hold while the first fails. Worth splitting the question.
+**Two questions have left this list.** QX-5 and Q21-6 were thesis-critical
+under the previous framing, which claimed the decade is forgotten because
+nothing in it has a memorable name. That claim has been cut from the thesis and
+demoted to introduction material — see `thesis.md`. Both questions are still
+worth answering and neither changes category in the table above, but they now
+inform one section of the introduction rather than testing the book's premise,
+which is a much smaller job for them to do. Their wording in `QUESTIONS.md`
+still describes them as tests of the premise and should be revised.
 
 **Does the money thread leave America? — Q01-3, Q07-5, Q10-3, Q20-4.** These
 read as four unrelated questions in four chapters and they are one question in
@@ -112,9 +107,9 @@ still actionable.
 **Q14-7 — did readers in Britain and America know about the famine at the
 time?** The connected-decade thesis wants a yes. A no is not a failure; it is a
 different and arguably better argument — that the decade was connected
-materially while being invisible to the people living in it, which is a
-stronger version of the paperwork thesis, not a weaker one. Either answer is
-usable. Guessing is not.
+materially while being invisible to the people living in it — which would make
+the installation the thesis describes something that happened to people rather
+than something they watched. Either answer is usable. Guessing is not.
 
 **Q11-6 — is there any sourced link between the Impressionists and the machines
 thread?** `MANIFEST.md` already concedes there is no source in the
@@ -179,20 +174,23 @@ Q18-5 and Q19-4 additionally are not neutral choices, as Q19-4 says outright.
 They should be made deliberately and stated to the reader, not defaulted into by
 whichever source happened to be open.
 
-## Three questions that are quietly about the book's real subject
+## Three questions about how things got named
 
-Not thesis-critical, but they rhyme with the thesis in a way worth noticing,
-because a book about how things get named has three separate case studies of
-naming sitting in its question list already:
+Not thesis-critical, and less central than they were — the thesis no longer
+makes a claim about naming. But the introduction still carries the
+periodization argument in `thesis.md`, which is itself about a label that does
+not fit, and three case studies of naming are already sitting in the question
+list:
 
 - **Q09-6** — when the event's usage shifted from "riot" to "massacre."
 - **Q11-4** — which review, which critic, and what wording produced
   "impressionist."
 - **Q13-5** — whether "invention factory" was contemporary or applied later.
 
-Three chapters, three threads, one mechanism. If the book wants a motif that
-isn't a present-day parallel, this is it, and it costs nothing extra because the
-questions are being asked anyway.
+Three chapters, three threads, one mechanism. If the introduction wants
+something to rhyme with beyond the two ill-fitting period labels, this is it,
+and it costs nothing extra because the questions are being asked anyway. It
+should stay a motif and not creep back toward being an argument.
 
 ## Suggested critical path
 
@@ -202,8 +200,9 @@ Roughly in order, with the slow things started early rather than done early.
    else waits on them.
 2. **Batch-verify the 21 date ranges** (cluster 1). Flips 21 flags, closes 21
    blockers, settles three structural questions.
-3. **Answer QX-5**, and split it into its two claims first. Test the premise
-   before writing 100,000 words in its light.
+3. **Answer QX-5**, now for the introduction rather than for the premise. Less
+   urgent than it was, but it feeds the periodization argument in `thesis.md`
+   and that argument opens the book.
 4. **Acquire and transcribe the out-of-copyright primary texts** (cluster 2).
 5. **Run the money-crosses-borders cluster** — Q01-3, Q07-5, Q10-3, Q20-4 —
    and decide the thread structure on the result. Q01-3 and Q07-5 can be read
@@ -217,6 +216,20 @@ Roughly in order, with the slow things started early rather than done early.
 Steps 1 through 4 are mostly mechanical and mostly parallelisable. Step 5 is the
 one that could change the book's architecture, which is why it should happen
 before there is an architecture made of finished prose.
+
+## Two author decisions not in QUESTIONS.md
+
+The table above accounts for all 120 numbered questions and nothing else. Two
+further decisions exist and are recorded in `thesis.md` rather than
+`/research/QUESTIONS.md`, because they are authorial rather than sourced:
+
+- **D-1** — whether the thesis line's "citizenship" stands against the thread's
+  "race and citizenship."
+- **D-2** — whether "invention" or "machines" governs thread 3, and whether the
+  thread should be renamed.
+
+Both would be category **A** if they were numbered. Counted in, the authorial
+total is six rather than four.
 
 ## Maintenance
 

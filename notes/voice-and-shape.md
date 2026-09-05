@@ -9,22 +9,27 @@ Everything here is provisional and belongs to the author to overrule.
 
 ## The problem this book has that other books do not
 
-The thesis says the 1870s is forgotten because nothing in it has a memorable
-name, and that the decade's biggest events are the ones that sound like
-paperwork. Taken seriously, that is a statement about the raw material: **the
-subject will not supply narrative energy.** Most trade history borrows momentum
-from its events. A battle, a murder, a race, a trial — the reader arrives
-already wanting to know what happens. This book has deliberately selected
-events that resist that, and then made their resistance the argument.
+Look at what the tentpole list actually consists of: a statute, a patent
+filing, a corporate fraud, a procedural compromise, a resumption of payments on
+a scheduled date. **The subject will not supply narrative energy.** Most trade
+history borrows momentum from its events — a battle, a murder, a race, a trial,
+where the reader arrives already wanting to know what happens. This book has
+selected events that resist that.
+
+That was formerly an argument the thesis made explicitly, and the thesis no
+longer makes it; see `thesis.md`. The craft problem is unaffected, because it
+was never really a consequence of the framing. It is a property of the
+material, and it would be true of these twenty-one chapters whatever the book
+said about itself on page one.
 
 So the prose has to supply what the subject won't. That single fact should
 govern every decision about voice.
 
 The wrong response is to import drama the events don't have. Applied to a
 statute, "and then, astonishingly" reads as padding, and readers detect padding
-faster than they detect anything else. It is also self-defeating: a book whose
-thesis is that these events sound boring cannot spend its prose insisting they
-were thrilling.
+faster than they detect anything else. It is also self-defeating: a book that
+chose these events because of what they installed, not because of how they
+played, cannot spend its prose insisting they played thrillingly.
 
 The right response is a different pleasure altogether — **the pleasure of the
 mechanism.** Not "this was dramatic" but "here is how it actually worked, and
@@ -32,7 +37,7 @@ you did not know, and now you do." The Coinage Act is not exciting. The
 discovery that one clause quietly withdrew a right nobody had noticed they held
 is genuinely exciting, and it is exciting *because* it is undramatic. That is
 the register the book is looking for, and it is available in every chapter,
-because it is the same register the thesis is written in.
+because installation is what the thesis says the decade was doing.
 
 ## The hazard the apparatus creates
 
@@ -92,15 +97,16 @@ skip the last page of every chapter. In the finished book the parallels should
 either dissolve into the prose or appear in the few places they are genuinely
 earned.
 
-Which raises the budget question. Rule 6 permits parallels as framing and the
-README calls them the hook. Craft says they should be **rare**: a book that
-nods at the present in every chapter is arguing by analogy whatever its rules
-say, and it dates fast — a book published in 2027 that keeps glancing at 2026
-reads as stale by 2030, and stale in a way that makes the history look
-credulous too. A suggested cap, for the author to set or reject: no more than
-five or six in the whole book, weighted toward the introduction and conclusion
-where the reader expects the author to be arguing, and never twice in one
-chapter.
+Which raises the budget question — **now settled, in `thesis.md`:** present-day
+material is confined to the introduction, a coda, and at most one deliberate
+passage per thread, and does not get distributed through the narrative
+chapters. That supersedes the looser cap this file previously proposed.
+
+The reasoning behind wanting a cap at all still holds and is worth keeping: a
+book that nods at the present in every chapter is arguing by analogy whatever
+its rules say, and it dates fast — a book published in 2027 that keeps glancing
+at 2026 reads as stale by 2030, and stale in a way that makes the history look
+credulous too.
 
 ## Length, and whether there are too many chapters
 
@@ -145,7 +151,7 @@ in 1874, none in 1875, four in 1876. Whatever else is true, a book called *the
 1870s* currently has a two-year hole in its middle and a pile-up at either edge
 of it. Either something belongs in 1875 or the book should say why the decade
 went quiet — and "why the middle of the decade is quiet" is, if it holds, an
-extremely good chapter for this particular thesis.
+extremely good chapter for a book about what the decade installed.
 
 **The money thread is entirely American.** Coinage Act, Crédit Mobilier, the
 Panic, the Railroad Strike, resumption — five of five, all United States. The
@@ -181,8 +187,8 @@ voice gets found, and the job is to find it at manageable risk.
 **Draft chapter 12, Bell's patent, first.** It exercises every muscle the book
 needs, on the subject where the sources are most tractable:
 
-- It is a paperwork event — a filing — that every reader thinks they already
-  know, which is the book's thesis in miniature.
+- It is a filing — a piece of administrative paper — that every reader thinks
+  they already know, and one of the four systems begins there.
 - It has a clean documented mechanism (Q12-1).
 - It has a genuine live dispute the chapter must record rather than settle
   (Q12-3), so the rule 4 technique gets tested early.
@@ -192,8 +198,9 @@ needs, on the subject where the sources are most tractable:
 - Its scope is contained, and `bruce-bell` and `john-network-nation` are both
   squarely on it.
 
-**Then chapter 07, the Coinage Act.** This is the thesis chapter — the purest
-case of something that sounds like paperwork and reset the world. If the voice
+**Then chapter 07, the Coinage Act.** This is the thesis chapter — the money
+system being installed in a single statute, with nothing about the prose
+supplied by the event. If the voice
 found in chapter 12 survives contact with the Coinage Act, the book works. If
 it doesn't, better to learn that in month two than in month fourteen.
 

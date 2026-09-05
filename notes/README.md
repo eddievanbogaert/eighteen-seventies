@@ -21,6 +21,9 @@ which is the point of having it.
 
 ## Current files
 
+- `thesis.md` — the working thesis, what it stopped claiming and why, the
+  conventions that follow from it, and the two open author decisions the thesis
+  line raises. Start here; it governs the other two.
 - `chapter-order.md` — the chronology, why chapters sit where they do, and the
   ordering questions still open.
 - `voice-and-shape.md` — audience, register, what a finished chapter looks
