@@ -71,8 +71,9 @@ range does not state a year in its prose, that no page number or ISBN has
 appeared anywhere, that the question list and its triage table agree, and that
 counts stated in prose still match what they count. `python3
 tools/check.py --list` prints the full account, including what it cannot
-check. `python3 tools/test_check.py` breaks the repository twenty-two
-different ways to confirm the checker notices.
+check. `python3 tools/test_check.py` breaks the repository on purpose, one
+thing at a time, and confirms the checker notices each one — a check that
+passes because it never looks at anything is worse than no check.
 
 It cannot tell whether a claim is true, whether a source says what a row says
 it says, or whether `read: "y"` means anyone opened the book. Those checks are
@@ -105,6 +106,24 @@ different readers is worse than no flag.
 threads get appended only when a source supports the connection. One chapter,
 the first Impressionist exhibition, has no home thread yet and its list is
 deliberately empty.
+
+`open_questions` lists the chapter's own question IDs from
+`/research/QUESTIONS.md`. The two files have to agree, and `check.py` enforces
+it, so closing a question is a two-file edit.
+
+`status` moves along a ladder tied to verification rather than to word count:
+
+| status | means |
+| --- | --- |
+| `stub` | No narrative content. Where every chapter is now. |
+| `gates-closed` | Every gate question for the chapter is answered. See `/notes/question-triage.md`. |
+| `drafting` | Prose exists and is incomplete. |
+| `drafted` | Prose is complete. Says nothing about whether it is sourced. |
+| `verified` | Every assertion in the chapter carries a `verified: "y"` row. |
+
+That ladder is an agent proposal awaiting the author's confirmation — see
+`BACKLOG.md` B-08 and B-14. `check.py` accepts only these five values, so
+changing the vocabulary means changing one list in one file.
 
 ## Current state
 
