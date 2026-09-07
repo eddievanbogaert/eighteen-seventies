@@ -1,7 +1,7 @@
 # Chapter order
 
 The book runs straight chronologically, 1870 to 1879, with the four threads
-recurring rather than sectioned. Twenty-one tentpole chapters carry the
+recurring rather than sectioned. Twenty tentpole chapters carry the
 chronology; other events fold in around them.
 
 **This ordering is provisional and was built from recall, not from sources.**
@@ -25,19 +25,24 @@ wrong order, an argument about influence between them can be exactly backwards.
 | 08 | Comstock Act | 1873 | race |
 | 09 | Colfax Massacre | 1873 | race |
 | 10 | Panic of 1873 | 1873 to 1879 | money |
-| 11 | First Impressionist exhibition | 1874 | *unassigned* |
-| 12 | Bell patents the telephone | 1876 | machines |
-| 13 | Edison opens Menlo Park | 1876 to 1879 | machines |
-| 14 | Great Famine in India | 1876 to 1878 | empire |
-| 15 | 1876 election and Compromise of 1877 | 1876 to 1877 | race |
-| 16 | Satsuma Rebellion | 1877 | empire |
-| 17 | Great Railroad Strike | 1877 | money |
-| 18 | Chief Joseph's surrender | 1877 | race |
-| 19 | Congress of Berlin | 1878 | empire |
-| 20 | Second Anglo-Afghan War | 1878 to 1880 | empire |
-| 21 | Resumption of specie payments | 1879-01 | money |
+| 11 | Bell patents the telephone | 1876 | machines |
+| 12 | Edison opens Menlo Park | 1876 to 1879 | machines |
+| 13 | Great Famine in India | 1876 to 1878 | empire |
+| 14 | 1876 election and Compromise of 1877 | 1876 to 1877 | race |
+| 15 | Satsuma Rebellion | 1877 | empire |
+| 16 | Great Railroad Strike | 1877 | money |
+| 17 | Chief Joseph's surrender | 1877 | race |
+| 18 | Congress of Berlin | 1878 | empire |
+| 19 | Second Anglo-Afghan War | 1878 to 1880 | empire |
+| 20 | Resumption of specie payments | 1879-01 | money |
 
-Thread distribution: money 5, race 5, machines 5, empire 5, unassigned 1.
+Thread distribution: money 5, race 5, machines 5, empire 5.
+
+Twenty chapters, four threads, five each. That is an exact balance and it is
+worth naming as a suspicious fact rather than a pleasing one: it is an artifact
+of the author's sort, not a discovered property of the decade. If the reading
+in `question-triage.md`'s money cluster produces a European money chapter, the
+balance breaks, and the balance should not be an argument for refusing it.
 
 ## Where this departs from the brief's list, and why
 
@@ -66,14 +71,14 @@ span's start, sits at its most consequential moment, or gets broken into
 pieces distributed through the decade. Breaking them up serves chronology and
 costs narrative momentum; leaving them whole does the reverse. Not yet decided.
 
-**Chapter 20 runs past the decade.** The Second Anglo-Afghan War continues
+**Chapter 19 runs past the decade.** The Second Anglo-Afghan War continues
 beyond 1879. Either the chapter stops at the decade line and the war ends
-offstage, or the book's frame stretches for one chapter. See Q20-6.
+offstage, or the book's frame stretches for one chapter. See Q19-6.
 
 **Chapter 09 has a long legal tail.** The Colfax prosecution and the Supreme
 Court decision that followed fall outside the chapter's date range but are
 most of its significance. Options: extend the chapter, plant the outcome in
-chapter 15, or use an epilogue. See Q09-3, Q09-4.
+chapter 14, or use an epilogue. See Q09-3, Q09-4.
 
 **The famine's placement is an argument, not just a date.** Placing it before
 the election puts a British imperial catastrophe next to an American
@@ -82,12 +87,29 @@ decade. That is a reason to be suspicious of it: the arrangement should follow
 from the chronology, not from how well it flatters the argument. Check the
 dates first, then decide.
 
-**Chapter 11's home thread is unassigned.** The author's sort of the tentpoles
-covers twenty of the twenty-one and does not place the first Impressionist
-exhibition. Its `threads` list is deliberately empty rather than guessed, and
-it needs an authorial decision: assign it a home thread, or make it an
-explicit interlude outside the four. Machines is the obvious guess and the
-guess has not been made. See Q11-1.
+**The decade now has a two-year hole in the middle.** This is the consequence
+of cutting the Impressionist chapter, and it is the one thing about that
+decision that needs watching. The exhibition was dated 1874 and was the only
+tentpole that fell in that year, so the sequence now runs from four chapters in
+1873 straight to 1876. No tentpole lands in 1874 or 1875 at all.
+
+Three of the span chapters — Chicago, the Panic, and to a degree the famine —
+cover those years, so the book does not literally skip them. But covering a
+year inside a chapter about something else is not the same as the reader
+feeling that time pass, and a book whose whole argument is that a decade was
+consequential should not have its middle be a place where nothing happens.
+
+Two ways out, and they are not exclusive. The first is to break up a span
+chapter so that the depression years get their own beat, which is the same
+decision as the multi-year chapter problem above and would be settled by the
+same choice. The second is that 1875 already has a candidate the brief did not
+list — the Specie Payment Resumption Act, which chapter 20 needs anyway and
+which is currently offstage, since the act and the resumption it scheduled are
+four years apart. See QX-13 and Q20-1.
+
+Neither option should be taken because the hole is uncomfortable. If the
+depression years were genuinely a trough, the honest book says so and uses the
+shape.
 
 ## Conventions still to fix
 
@@ -95,9 +117,9 @@ Each of these has to be decided once and applied everywhere. All are recorded
 as questions rather than settled here, because each depends on what the
 sources for the relevant chapters actually do.
 
-- Japanese romanisation and name order — chapter 16, Q16-4.
-- Place names in the Balkans and the Ottoman territories — chapter 19, Q19-4.
-- Nez Perce naming, including the people's own name and Joseph's — chapter 18,
-  Q18-5.
+- Japanese romanisation and name order — chapter 15, Q15-4.
+- Place names in the Balkans and the Ottoman territories — chapter 18, Q18-4.
+- Nez Perce naming, including the people's own name and Joseph's — chapter 17,
+  Q17-5.
 - Calendar discrepancies across Russia, the Ottoman Empire, and Japan — QX-1.
 - Whether period sums get modern equivalents — QX-2.

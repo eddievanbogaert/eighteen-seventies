@@ -139,7 +139,7 @@ else. A blanket ban would force overclaiming in the two places this book is
 most exposed: gap sentences, where the impersonal form turns "no source was
 available to me" into a much larger and probably false claim about the world's
 archives, and rule 4 judgments, where it asserts a consensus that does not
-exist. Revisit once chapters 12 and 07 are drafted; a chapter of real prose
+exist. Revisit once chapters 11 and 07 are drafted; a chapter of real prose
 settles this better than deciding in advance.
 
 Judgment and epistemic visibility are unaffected and run at full strength. This
@@ -147,13 +147,12 @@ book needs more epistemic visibility than most trade history, because rule 4 and
 "absence of a source is content" both require a narrator visible enough to be
 doing the reporting.
 
-**One inherited sentence to rule on.** `AGENTS.md`, illustrating "absence of a
-source is content", offers: "The Afghan side of this war is thinly covered in
-the sources I can read." It is the only first person in the repository. It came
-from the scaffolding pass rather than from the author, so it carries no
-authorial intent and should not be treated as precedent. Under D-3b it is a
-good illustration and can stay — but as a deliberate keep, not an inherited
-one. Amending the binding rules is the author's call either way.
+**One inherited sentence, now ruled on.** `AGENTS.md`, illustrating "absence of
+a source is content", used to offer: "The Afghan side of this war is thinly
+covered in the sources I can read." It was the only first person in the
+repository, and it came from the scaffolding pass rather than from the author.
+Removed per D-5. See that entry for why the replacement is not simply the same
+sentence with the "I" deleted.
 
 ## Erewhon's afterlife, and what it is not yet
 
@@ -187,14 +186,81 @@ it on Menlo Park or the telephone.
 ## Consequences not yet acted on
 
 All of the reconciliations previously listed here have been made:
-`QUESTIONS.md` QX-5 and Q21-6 now describe themselves as introduction material
-rather than tests of the premise; the drafting blockers in
-`chapters/11-first-impressionist-exhibition.md` and
-`chapters/21-specie-resumption.md` no longer invoke the cut claim. Chapter 05's
-reference to names is about individuals in the scandal and was correctly left
-alone.
+`QUESTIONS.md` QX-5 and Q20-6 now describe themselves as introduction material
+rather than tests of the premise, and the drafting blocker in
+`chapters/20-specie-resumption.md` no longer invokes the cut claim. The other
+chapter that invoked it was the first Impressionist exhibition, which has since
+been cut entirely under D-4. Chapter 05's reference to names is about
+individuals in the scandal and was correctly left alone.
 
-D-1, D-2 and D-3a are settled. Open: D-3b, which is deliberately deferred until
-there is prose to test it against; the source work behind Q04-5; and the
-running risk that chapter 03 picks up unsourced local texture, which is a
-revision problem rather than a decision.
+## D-4 to D-10 — the seven rulings
+
+Decided in one pass, and recorded here because a decision that is not written
+down gets relitigated. `BACKLOG.md` carries the implementation detail for each;
+this is the ruling and its reasoning.
+
+**D-4 — the first Impressionist exhibition is not a chapter.** The material is
+rolled in as support and colour elsewhere. This resolves what had been two
+questions — whether the chapter had a home thread, and whether any sourced link
+to the machines thread existed — by removing the thing they were about. Twenty
+chapters now, five per thread.
+
+Two consequences follow, and neither is settled by the ruling itself. The
+questions the chapter was carrying are still worth answering, so they moved to
+the cross-cutting block as QX-8 to QX-12 and now need a host chapter, which is
+QX-7. And the exhibition was the only tentpole dated 1874, so the decade now
+has no tentpole in either 1874 or 1875. `voice-and-shape.md` had already
+flagged the middle of the decade as nearly empty; this made it properly empty.
+That is QX-13.
+
+The honest note is that the second consequence is a real cost. Cutting a
+chapter for good reasons can still leave the book worse shaped, and the fix is
+not to reinstate the chapter but to decide what those two years contain.
+
+**D-5 — no first person in `AGENTS.md`.** The illustration now reads "the
+sources this book could reach". Worth recording why it is not "the sources
+available", which was the obvious edit: that phrasing removes the first person
+and simultaneously converts a modest claim about one research process into a
+claim about what exists in the world, which is larger, unverifiable, and
+probably false. The rule now spells that out, because the trade is easy to make
+by accident and the sentence is a template other gap sentences will copy.
+
+This does not decide D-3b. That is about the book's prose and remains deferred
+until there is prose to test.
+
+**D-6 — rule 1 covers assertions of fact, not reasoning.** Taken from
+`voice-and-shape.md` with two edits. "Sequence" is struck from the list of
+things needing no row: in a chronological history the order of events is a
+matter of fact and rule 1 covers it, and leaving that word in would have been a
+hole wide enough to drive an unsourced narrative through. And an anti-loophole
+paragraph is added, because a section distinguishing fact from interpretation
+without one is a licence to relabel.
+
+**D-7 — American spelling.** Applied across the repository. Quotations, titles,
+and quoted period usage keep their own spelling. QX-6 stays in `QUESTIONS.md`
+with the answer recorded rather than being deleted, so that a drafter looking
+for the convention finds it where the question was.
+
+**D-8 — the status ladder is ratified.** `stub`, `researching`, `drafting`,
+`drafted`, `verified`. Tied to verification rather than word count, and
+enforced by `check.py`.
+
+**D-9 — running `tools/check.py` is required before a commit.** Step 8 of the
+working procedure. Recorded as provisional, which is what "for now" means: the
+case for the rule rests entirely on the script being fast and dependency-free.
+If it ever becomes slow or fragile, the rule should be revisited rather than
+endured, because a required check that hurts to run is a check people learn to
+work around.
+
+**D-10 — the `verified` column in `CLAIMS.md` takes quotes.** For uniformity
+only. The original reason for quoting flags — that bare `y` and `n` are
+booleans to a YAML 1.1 parser — genuinely does not apply to a markdown table
+cell, and `AGENTS.md` now names the three places the quoted form is required
+rather than implying the parser is why.
+
+## Still open
+
+D-3b, deliberately deferred until there is prose to test it against. QX-7 and
+QX-13, both created by D-4 and both authorial. The source work behind Q04-5.
+And the running risk that chapter 03 picks up unsourced local texture, which is
+a revision problem rather than a decision.

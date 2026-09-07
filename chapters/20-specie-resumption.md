@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [money]
 status: stub
 sources: []
-open_questions: [Q21-1, Q21-2, Q21-3, Q21-4, Q21-5, Q21-6]
+open_questions: [Q20-1, Q20-2, Q20-3, Q20-4, Q20-5, Q20-6]
 ---
 
 # The Resumption of Specie Payments
@@ -35,8 +35,8 @@ _Framing only, never evidence. Empty._
   system the decade installed is complete on a scheduled date. Whatever the
   chapter claims for that day it must earn from evidence rather than assert —
   including the claim that little happened, which is a finding needing
-  documentation like any other. See Q21-4.
+  documentation like any other. See Q20-4.
 - The greenback price series that shows convergence to par is the load-bearing
   quantitative evidence here. Establish the series and its source before the
   argument leans on it.
-- Open questions: `/research/QUESTIONS.md` → Q21.
+- Open questions: `/research/QUESTIONS.md` → Q20.

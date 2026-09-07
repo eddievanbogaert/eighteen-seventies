@@ -33,7 +33,7 @@ provenance is not usable as evidence.
   a translation, and the translator is part of the provenance.
 - Text that reaches us through an interpreter, a stenographer, or a
   journalist's reconstruction is a record of a transmission, not a record of
-  what was said. Say so in the provenance. Chapter 18's surrender speech is
+  what was said. Say so in the provenance. Chapter 17's surrender speech is
   the book's hardest case of this.
 
 ## Currently empty

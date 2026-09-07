@@ -85,30 +85,30 @@ CASES = [
     (
         "question dropped from the triage table",
         "notes/question-triage.md",
-        "| 12 | Q12-1, Q12-2, Q12-3, Q12-4 | Q12-5 | | | |",
-        "| 12 | Q12-1, Q12-2, Q12-3 | Q12-5 | | | |",
+        "| 11 | Q11-1, Q11-2, Q11-3, Q11-4 | Q11-5 | | | |",
+        "| 11 | Q11-1, Q11-2, Q11-3 | Q11-5 | | | |",
         "not in the triage table",
     ),
     (
         "stated distribution no longer matches the table",
         "notes/question-triage.md",
-        "**Distribution: 85 gate, 26 parallel, 5 authorial, 6 convention.**",
-        "**Distribution: 84 gate, 26 parallel, 5 authorial, 6 convention.**",
-        "stated gate count is 84",
+        "**Distribution: 81 gate, 30 parallel, 6 authorial, 6 convention.**",
+        "**Distribution: 80 gate, 30 parallel, 6 authorial, 6 convention.**",
+        "stated gate count is 80",
     ),
     (
         "stated question total drifts",
         "notes/question-triage.md",
+        "All 123 questions in",
         "All 122 questions in",
-        "All 121 questions in",
-        "but QUESTIONS.md has 122",
+        "but QUESTIONS.md has 123",
     ),
     (
         "thesis-critical count drifts",
         "notes/README.md",
-        "the seven that are thesis-critical",
+        "the six that are thesis-critical",
         "the nine that are thesis-critical",
-        "but the triage table marks 7",
+        "but the triage table marks 6",
     ),
     (
         "chapter-order date disagrees with the chapter file",
@@ -120,21 +120,21 @@ CASES = [
     (
         "chapter-order home thread disagrees with the chapter file",
         "notes/chapter-order.md",
-        "| 16 | Satsuma Rebellion | 1877 | empire |",
-        "| 16 | Satsuma Rebellion | 1877 | machines |",
+        "| 15 | Satsuma Rebellion | 1877 | empire |",
+        "| 15 | Satsuma Rebellion | 1877 | machines |",
         "home thread 'machines' disagrees",
     ),
     (
         "unverified year asserted in chapter prose",
-        "chapters/12-bell-telephone-patent.md",
+        "chapters/11-bell-telephone-patent.md",
         "  Filing, granting, and first successful transmission are three dates.",
         "  The patent was granted in March 1876.",
         "year 1876 in prose",
     ),
     (
         "page number in a chapter",
-        "chapters/12-bell-telephone-patent.md",
-        "- Open questions: `/research/QUESTIONS.md` → Q12.",
+        "chapters/11-bell-telephone-patent.md",
+        "- Open questions: `/research/QUESTIONS.md` → Q11.",
         "- See bruce-bell, pp. 142-148.",
         "a page number",
     ),
@@ -204,7 +204,7 @@ CASES = [
     (
         "manifest relevance cites a chapter that does not exist",
         "sources/MANIFEST.md",
-        "money; ch 07, 10, 21 — its series begin at 1867",
+        "money; ch 07, 10, 20 — its series begin at 1867",
         "money; ch 07, 10, 22 — its series begin at 1867",
         "relevance cites chapter 22, which does not exist",
     ),
@@ -216,10 +216,17 @@ CASES = [
         "does not list voice-and-shape.md",
     ),
     (
+        "unquoted verified flag in the claims ledger",
+        "research/CLAIMS.md",
+        '| friedman-schwartz-monetary-history | "n" |',
+        "| friedman-schwartz-monetary-history | n |",
+        "AGENTS.md requires the quoted form here too",
+    ),
+    (
         "duplicate question id",
         "research/QUESTIONS.md",
-        "- **Q12-5** How fast did installation",
-        "- **Q12-4** How fast did installation",
+        "- **Q11-5** How fast did installation",
+        "- **Q11-4** How fast did installation",
         "duplicate question id",
     ),
 ]
@@ -257,6 +264,10 @@ def main() -> int:
                 ROOT, repo, ignore=shutil.ignore_patterns(".git", "__pycache__")
             )
             target = repo / rel
+            if not target.exists():
+                failures.append(f"{name}: fixture file no longer exists: {rel}")
+                print(f"SKIP  {name} (fixture file gone)")
+                continue
             text = target.read_text(encoding="utf-8")
             if find not in text:
                 failures.append(f"{name}: fixture text not found in {rel}: {find!r}")

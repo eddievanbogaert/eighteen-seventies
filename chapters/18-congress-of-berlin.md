@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [empire]
 status: stub
 sources: []
-open_questions: [Q19-1, Q19-2, Q19-3, Q19-4, Q19-5, Q19-6]
+open_questions: [Q18-1, Q18-2, Q18-3, Q18-4, Q18-5, Q18-6]
 ---
 
 # The Congress of Berlin
@@ -37,4 +37,4 @@ _Framing only, never evidence. Empty._
 - Place names in this chapter have several forms each, depending on whose
   claim you honour. Fix a convention, record it in `/notes`, and note that the
   choice is not neutral.
-- Open questions: `/research/QUESTIONS.md` → Q19.
+- Open questions: `/research/QUESTIONS.md` → Q18.

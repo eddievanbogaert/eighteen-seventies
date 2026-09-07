@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [machines]
 status: stub
 sources: []
-open_questions: [Q13-1, Q13-2, Q13-3, Q13-4, Q13-5, Q13-6]
+open_questions: [Q12-1, Q12-2, Q12-3, Q12-4, Q12-5, Q12-6]
 ---
 
 # Edison Opens Menlo Park
@@ -36,4 +36,4 @@ _Framing only, never evidence. Empty._
   originate is contested and must be recorded as contested.
 - The "invention factory" framing is largely retrospective. Separate what the
   laboratory was from what it was later said to have been.
-- Open questions: `/research/QUESTIONS.md` → Q13.
+- Open questions: `/research/QUESTIONS.md` → Q12.

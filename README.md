@@ -15,7 +15,7 @@ sections:
 | **machines** | Chicago rebuilt, Erewhon, Verne, Bell's telephone patent, Edison at Menlo Park |
 | **empire** | the Franco-Prussian War, the Satsuma Rebellion, the Indian famine, Afghanistan, the Congress of Berlin |
 
-The book is a straight chronology, 1870 to 1879. Twenty-one tentpole chapters
+The book is a straight chronology, 1870 to 1879. Twenty tentpole chapters
 carry the sequence and smaller events fold in around them.
 
 ## Repository layout
@@ -105,9 +105,11 @@ parsers and strings to others, and a flag that means different things to
 different readers is worse than no flag.
 
 `threads[0]` is the chapter's home thread, assigned by the author. Further
-threads get appended only when a source supports the connection. One chapter,
-the first Impressionist exhibition, has no home thread yet and its list is
-deliberately empty.
+threads get appended only when a source supports the connection. Every chapter
+currently has a home thread. A chapter may carry an empty `threads` list, but
+only alongside `thread_assignment: unassigned`, which records that no thread
+has been chosen yet rather than that the field was forgotten; `check.py`
+rejects an empty list without it.
 
 `open_questions` lists the chapter's own question IDs from
 `/research/QUESTIONS.md`. The two files have to agree, and `check.py` enforces
@@ -129,7 +131,7 @@ changing the vocabulary means changing one list in one file.
 
 ## Current state
 
-Scaffolding only. Twenty-one chapter stubs with no narrative content, a
+Scaffolding only. Twenty chapter stubs with no narrative content, a
 bibliography of works to acquire, and roughly a hundred open questions.
 `CLAIMS.md` holds one illustrative row and no verified claims. `/primary` is
 empty. Nothing has been read.
