@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [empire]
 status: stub
 sources: []
-open_questions: [Q14-1, Q14-2, Q14-3, Q14-4, Q14-5, Q14-6, Q14-7]
+open_questions: [Q13-1, Q13-2, Q13-3, Q13-4, Q13-5, Q13-6, Q13-7]
 ---
 
 # The Great Famine in India
@@ -37,4 +37,4 @@ _Framing only, never evidence. Empty._
 - This is the chapter where the author's distance from the material is
   greatest. Weight primary and Indian-authored sources accordingly, and log in
   `/research/QUESTIONS.md` what is being read in translation or at second hand.
-- Open questions: `/research/QUESTIONS.md` → Q14.
+- Open questions: `/research/QUESTIONS.md` → Q13.

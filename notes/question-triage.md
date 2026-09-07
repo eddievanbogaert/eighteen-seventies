@@ -1,6 +1,6 @@
 # Question triage
 
-All 122 questions in `/research/QUESTIONS.md`, sorted by what they block rather
+All 123 questions in `/research/QUESTIONS.md`, sorted by what they block rather
 than by what they ask. Nothing here answers a question — triage is a judgment
 about sequence, not a finding, and no question below is any closer to closed
 than it was.
@@ -22,7 +22,7 @@ any of them.
 
 | ch | gate (G) | parallel (P) | authorial (A) | convention (C) | thesis (T) |
 | --- | --- | --- | --- | --- | --- |
-| — | QX-3, QX-4, QX-5 | | QX-6 | QX-1, QX-2 | |
+| — | QX-3, QX-4, QX-5 | QX-8, QX-9, QX-10, QX-11, QX-12 | QX-6, QX-7, QX-13 | QX-1, QX-2 | |
 | 01 | Q01-1, Q01-2, Q01-3 | Q01-4 | | | **Q01-3** |
 | 02 | Q02-1, Q02-2, Q02-3 | Q02-4 | | | |
 | 03 | Q03-1, Q03-2 | Q03-3, Q03-4, Q03-5 | | | |
@@ -33,34 +33,39 @@ any of them.
 | 08 | Q08-1, Q08-2, Q08-4 | Q08-3, Q08-5 | | | |
 | 09 | Q09-1, Q09-2, Q09-3, Q09-4, Q09-5 | Q09-6 | | | |
 | 10 | Q10-1, Q10-4, Q10-6 | Q10-2, Q10-3, Q10-5 | | | **Q10-3** |
-| 11 | Q11-2, Q11-3, Q11-4, Q11-6 | Q11-5 | Q11-1 | | **Q11-6** |
-| 12 | Q12-1, Q12-2, Q12-3, Q12-4 | Q12-5 | | | |
-| 13 | Q13-1, Q13-2, Q13-3, Q13-4 | Q13-5 | Q13-6 | | |
-| 14 | Q14-1, Q14-2, Q14-3, Q14-4, Q14-5, Q14-6 | Q14-7 | | | **Q14-7** |
-| 15 | Q15-1, Q15-2, Q15-3, Q15-4, Q15-5 | | Q15-6 | | |
-| 16 | Q16-1, Q16-2, Q16-3 | Q16-5, Q16-6 | | Q16-4 | |
-| 17 | Q17-1, Q17-2, Q17-4, Q17-5, Q17-6 | Q17-3 | | | |
-| 18 | Q18-1, Q18-2, Q18-3, Q18-4, Q18-6 | | | Q18-5 | |
-| 19 | Q19-1, Q19-2, Q19-3, Q19-6 | Q19-5 | | Q19-4 | |
-| 20 | Q20-1, Q20-2, Q20-4, Q20-5 | Q20-3 | Q20-6 | | **Q20-4** |
-| 21 | Q21-1, Q21-2, Q21-3, Q21-4, Q21-6 | Q21-5 | | | |
+| 11 | Q11-1, Q11-2, Q11-3, Q11-4 | Q11-5 | | | |
+| 12 | Q12-1, Q12-2, Q12-3, Q12-4 | Q12-5 | Q12-6 | | |
+| 13 | Q13-1, Q13-2, Q13-3, Q13-4, Q13-5, Q13-6 | Q13-7 | | | **Q13-7** |
+| 14 | Q14-1, Q14-2, Q14-3, Q14-4, Q14-5 | | Q14-6 | | |
+| 15 | Q15-1, Q15-2, Q15-3 | Q15-5, Q15-6 | | Q15-4 | |
+| 16 | Q16-1, Q16-2, Q16-4, Q16-5, Q16-6 | Q16-3 | | | |
+| 17 | Q17-1, Q17-2, Q17-3, Q17-4, Q17-6 | | | Q17-5 | |
+| 18 | Q18-1, Q18-2, Q18-3, Q18-6 | Q18-5 | | Q18-4 | |
+| 19 | Q19-1, Q19-2, Q19-4, Q19-5 | Q19-3 | Q19-6 | | **Q19-4** |
+| 20 | Q20-1, Q20-2, Q20-3, Q20-4, Q20-6 | Q20-5 | | | |
 
-**Distribution: 85 gate, 26 parallel, 5 authorial, 6 convention.**
+**Distribution: 81 gate, 30 parallel, 6 authorial, 6 convention.**
 
-Seventy per cent of the questions block drafting. That is not a problem with the
+Two thirds of the questions block drafting. That is not a problem with the
 triage, it is the design working — the questions were deliberately written so
 they could not be closed by remembering something, and a question like that is
 usually a gate. The honest reading of this table is that **there is no shortcut
 to a first chapter.** The reading has to happen.
 
+The gate share fell when the Impressionist chapter was cut. Four of its
+questions were gates on a chapter that no longer exists; as unplaced color
+they are parallel work, answerable while whichever chapter absorbs them is
+drafted. Nothing was answered — the questions moved category because the thing
+they blocked went away.
+
 The useful part is that the gates cluster, and the clusters cut across chapters.
 
-## The seven thesis-critical questions
+## The six thesis-critical questions
 
 These are the ones where a particular answer costs more than a rewrite of one
 chapter.
 
-**Two questions have left this list.** QX-5 and Q21-6 were thesis-critical
+**Three questions have left this list.** QX-5 and Q20-6 were thesis-critical
 under the previous framing, which claimed the decade is forgotten because
 nothing in it has a memorable name. That claim has been cut from the thesis and
 demoted to introduction material — see `thesis.md`. Both questions are still
@@ -69,7 +74,18 @@ inform one section of the introduction rather than testing the book's premise,
 which is a much smaller job for them to do. Both have been reworded in
 `QUESTIONS.md` to say so.
 
-**Does the money thread leave America? — Q01-3, Q07-5, Q10-3, Q20-4.** These
+The third was the Impressionist chapter's machines question, which asked
+whether any sourced link existed between that painting and industrial change.
+It was thesis-critical because a no meant the chapter had no thread and might
+not survive — the whole question was a test of the chapter's right to
+exist. The author
+has since ruled that the chapter does not survive regardless: the material is
+rolled in as support and color elsewhere. The question itself is still worth
+asking — color that asserts an unsourced connection is still asserting an
+unsourced connection — and it survives as QX-12, but it no longer decides
+anything structural.
+
+**Does the money thread leave America? — Q01-3, Q07-5, Q10-3, Q19-4.** These
 read as four unrelated questions in four chapters and they are one question in
 four costumes: the war indemnity and German currency reform, other countries
 changing standard in the same years, the Vienna and Berlin side of the panic,
@@ -88,35 +104,27 @@ change rather than the evidence.
 covered — `flandreau-glitter-of-gold` is aimed squarely at the indemnity-to-
 currency-reform link, `eichengreen-globalizing-capital` at the standard change
 in international frame, with `clark-iron-kingdom` on the German side. But
-nothing in the bibliography answers Q10-3 or Q20-4. The one chapter 10 entry,
+nothing in the bibliography answers Q10-3 or Q19-4. The one chapter 10 entry,
 `wicker-banking-panics`, is titled *Banking Panics of the Gilded Age* — an
 American period label, so on its title alone it is an American book; nothing in
 the manifest covers the Vienna and Berlin events of 1873 as part of the same
-crisis. And for Q20-4 — whether the Afghan war was paid for from the
-British exchequer or from Indian revenues — the chapter 20 entries are military
+crisis. And for Q19-4 — whether the Afghan war was paid for from the
+British exchequer or from Indian revenues — the chapter 19 entries are military
 and narrative history (`robson-road-to-kabul`, `hopkirk-great-game`,
 `barfield-afghanistan`); none of them is a source about war finance.
 
 So the two questions that would extend the money thread furthest from America
-are the two with nothing behind them. That is worth adding to the "Gaps this
-list does not cover" section of `MANIFEST.md`, which currently doesn't mention
-either. Finding those sources is prerequisite work for a structural decision,
-not detail-gathering, and it should start early enough that a null result is
-still actionable.
+are the two with nothing behind them. Both are now recorded in the "Gaps this
+list does not cover" section of `MANIFEST.md`. Finding those sources is
+prerequisite work for a structural decision, not detail-gathering, and it
+should start early enough that a null result is still actionable.
 
-**Q14-7 — did readers in Britain and America know about the famine at the
+**Q13-7 — did readers in Britain and America know about the famine at the
 time?** The connected-decade thesis wants a yes. A no is not a failure; it is a
 different and arguably better argument — that the decade was connected
 materially while being invisible to the people living in it — which would make
 the installation the thesis describes something that happened to people rather
 than something they watched. Either answer is usable. Guessing is not.
-
-**Q11-6 — is there any sourced link between the Impressionists and the machines
-thread?** `MANIFEST.md` already concedes there is no source in the
-bibliography for this, because the connection is currently an assumption. If
-the answer is no, chapter 11 has no thread, and the decision in Q11-1 becomes:
-make it an explicit interlude, or drop it. Cheap to check, and it determines
-whether a chapter exists.
 
 **Q04-4 — was Erewhon actually read in the 1870s?** If it was little read, the
 chapter's claim is about anticipation, not influence — a different argument.
@@ -132,18 +140,18 @@ treats as conditional rather than recommended.
 
 ## Four clusters worth working as units
 
-**1. The 21 date verifications are one task, not twenty-one.** Every stub's
+**1. The 20 date verifications are one task, not twenty.** Every stub's
 drafting blockers open with "verify `date_range` and log the row." Done in a
-single pass against two or three reliable chronologies, this flips 21 flags,
-closes 21 blockers, and settles three of the open structural problems in
+single pass against two or three reliable chronologies, this flips 20 flags,
+closes 20 blockers, and settles three of the open structural problems in
 `chapter-order.md` at the same time: whether Darwin really precedes Chicago,
 whether the famine's move earlier survives contact with its actual dates, and
-whether chapter 20 runs past the decade. It is the highest-leverage single
+whether chapter 19 runs past the decade. It is the highest-leverage single
 action available in the repository right now, and it is a few days of work
 rather than a few months.
 
 **2. The `/primary` transcription targets are one acquisition push.** Q02-2,
-Q07-1, Q08-1, Q19-2 and Q21-1 all say some version of "get the text into
+Q07-1, Q08-1, Q18-2 and Q20-1 all say some version of "get the text into
 `/primary`." Most of the corresponding manifest entries — the Coinage Act and
 Comstock Act texts, `darwin-descent`, `butler-erewhon`, `joseph-indian-view`,
 `howard-nez-perce-joseph` — are out of copyright and straightforwardly
@@ -151,7 +159,7 @@ obtainable, as `/primary/README.md` already notes. One push empties this
 category and unblocks every rule 5 dependency at once.
 
 **3. The five long-lead archival questions should start first, not last.**
-Q09-5, Q14-6, Q17-6, Q18-6 and Q20-5 all ask for the words of the people the
+Q09-5, Q13-6, Q16-6, Q17-6 and Q19-5 all ask for the words of the people the
 events happened to — Black accounts of Colfax, Indian-authored accounts of the
 famine, strikers' own words, Nez Perce accounts, Afghan-side sources. The
 manifest is explicit that these are archival and not bibliographic; they will
@@ -168,8 +176,8 @@ background, because the cost of starting them late is that the honest gap
 becomes the only available option rather than the true one.
 
 **4. The conventions are cheap now and expensive later.** QX-1 calendars, QX-2
-currency conversion, Q06-4 which Verne translation, Q16-4 Japanese
-romanisation and name order, Q18-5 Nez Perce naming, Q19-4 Balkan and Ottoman
+currency conversion, Q06-4 which Verne translation, Q15-4 Japanese
+romanization and name order, Q17-5 Nez Perce naming, Q18-4 Balkan and Ottoman
 place names — plus British versus American spelling, which this file previously
 noted was not numbered and should be. It now is, as **QX-6**. It is triaged
 **A** rather than **C**, because it is the only one of the seven that no source
@@ -179,7 +187,7 @@ one decision. Each, if made after 100,000 words exist, is a manual sweep of the
 whole manuscript. They can be answered late in the *research*, but they should
 be answered before there is much *prose*.
 
-Q18-5 and Q19-4 additionally are not neutral choices, as Q19-4 says outright.
+Q17-5 and Q18-4 additionally are not neutral choices, as Q18-4 says outright.
 They should be made deliberately and stated to the reader, not defaulted into by
 whichever source happened to be open.
 
@@ -192,14 +200,20 @@ not fit, and three case studies of naming are already sitting in the question
 list:
 
 - **Q09-6** — when the event's usage shifted from "riot" to "massacre."
-- **Q11-4** — which review, which critic, and what wording produced
+- **QX-10** — which review, which critic, and what wording produced
   "impressionist."
-- **Q13-5** — whether "invention factory" was contemporary or applied later.
+- **Q12-5** — whether "invention factory" was contemporary or applied later.
 
-Three chapters, three threads, one mechanism. If the introduction wants
-something to rhyme with beyond the two ill-fitting period labels, this is it,
-and it costs nothing extra because the questions are being asked anyway. It
-should stay a motif and not creep back toward being an argument.
+One mechanism seen three times. If the introduction wants something to rhyme
+with beyond the two ill-fitting period labels, this is it, and it costs nothing
+extra because the questions are being asked anyway. It should stay a motif and
+not creep back toward being an argument.
+
+Cutting the Impressionist chapter arguably strengthened this rather than
+weakening it. QX-10 is now a question with no chapter of its own, which makes
+the introduction the most likely place for it to land. What the answer is
+remains a matter for a source; QX-10 is phrased to make that unavoidable, and
+nothing here should be read as anticipating it.
 
 ## Suggested critical path
 
@@ -207,28 +221,31 @@ Roughly in order, with the slow things started early rather than done early.
 
 1. **Open the five archival enquiries** (cluster 3). They are slow and nothing
    else waits on them.
-2. **Batch-verify the 21 date ranges** (cluster 1). Flips 21 flags, closes 21
+2. **Batch-verify the 20 date ranges** (cluster 1). Flips 20 flags, closes 20
    blockers, settles three structural questions.
 3. **Answer QX-5**, now for the introduction rather than for the premise. Less
    urgent than it was, but it feeds the periodization argument in `thesis.md`
    and that argument opens the book.
 4. **Acquire and transcribe the out-of-copyright primary texts** (cluster 2).
-5. **Run the money-crosses-borders cluster** — Q01-3, Q07-5, Q10-3, Q20-4 —
+5. **Run the money-crosses-borders cluster** — Q01-3, Q07-5, Q10-3, Q19-4 —
    and decide the thread structure on the result. Q01-3 and Q07-5 can be read
-   now; Q10-3 and Q20-4 need sources found first, so start the search for them
+   now; Q10-3 and Q19-4 need sources found first, so start the search for them
    alongside step 1.
-6. **Decide Q11-1 and Q11-6 together.** Whether chapter 11 exists is upstream
-   of what thread it belongs to.
-7. **Draft chapter 12**, per `voice-and-shape.md`, to find the voice.
+6. **Answer QX-7** — which chapter absorbs the Impressionist material. This
+   replaces what was a two-part decision about whether that chapter existed.
+   The author has settled the larger half: it does not. Where the material goes
+   is a smaller question, but it is still upstream of five questions that
+   currently have no chapter to belong to.
+7. **Draft chapter 11**, per `voice-and-shape.md`, to find the voice.
 8. **Draft chapter 07**, to find out whether the voice survives the Coinage Act.
 
-Steps 1 through 4 are mostly mechanical and mostly parallelisable. Step 5 is the
+Steps 1 through 4 are mostly mechanical and mostly parallelizable. Step 5 is the
 one that could change the book's architecture, which is why it should happen
 before there is an architecture made of finished prose.
 
 ## Author decisions not in QUESTIONS.md
 
-The table above accounts for all 122 numbered questions and nothing else.
+The table above accounts for all 123 numbered questions and nothing else.
 Decisions that are authorial rather than sourced are recorded in `thesis.md`:
 
 - **D-1** — "race and citizenship" or "citizenship" in the thesis line.
@@ -238,11 +255,11 @@ Decisions that are authorial rather than sourced are recorded in `thesis.md`:
 - **D-3a** — biographical presence in the prose. **Settled: none.**
 - **D-3b** — whether the first person is available at all. **Provisional:**
   available only where removing it would make the sentence less true. Held open
-  on purpose until chapters 12 and 07 exist, since voice decisions made before
+  on purpose until chapters 11 and 07 exist, since voice decisions made before
   prose are the ones that get regretted.
 
 Each would be category **A** if numbered. Five questions now carry that
-category in the table — Q11-1, Q13-6, Q15-6, Q20-6 and the newly numbered
+category in the table — Q11-1, Q12-6, Q14-6, Q19-6 and the newly numbered
 QX-6 — so with D-3b deliberately deferred the live authorial total is six.
 
 ## Maintenance

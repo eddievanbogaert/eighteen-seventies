@@ -15,7 +15,7 @@ sections:
 | **machines** | Chicago rebuilt, Erewhon, Verne, Bell's telephone patent, Edison at Menlo Park |
 | **empire** | the Franco-Prussian War, the Satsuma Rebellion, the Indian famine, Afghanistan, the Congress of Berlin |
 
-The book is a straight chronology, 1870 to 1879. Twenty-one tentpole chapters
+The book is a straight chronology, 1870 to 1879. Twenty tentpole chapters
 carry the sequence and smaller events fold in around them.
 
 ## Repository layout
@@ -50,7 +50,7 @@ In practice, for any chapter:
 2. **Get the sources.** Find them in `/sources/MANIFEST.md`, acquire them,
    read them, and flip `acquired` and `read` to `"y"` — honestly. A source
    marked read that was skimmed is worse than one marked unread.
-3. **Transcribe the primary text.** Anything to be quoted or characterised
+3. **Transcribe the primary text.** Anything to be quoted or characterized
    closely goes into `/primary` first, with provenance.
 4. **Log the claims.** Each specific assertion becomes a row in
    `/research/CLAIMS.md` with its source key, marked `verified: y` only once
@@ -61,6 +61,9 @@ In practice, for any chapter:
    written into the chapter as disagreements. Gaps in the sources get stated
    plainly. Both are content, not embarrassments.
 7. **Run the checks.** `python3 tools/check.py`, which needs nothing installed.
+   This is required rather than encouraged — `AGENTS.md` step 8 — and a failing
+   run means one of the binding rules is being broken, not that a file is
+   formatted oddly.
 
 ## What the checks do
 
@@ -105,9 +108,11 @@ parsers and strings to others, and a flag that means different things to
 different readers is worse than no flag.
 
 `threads[0]` is the chapter's home thread, assigned by the author. Further
-threads get appended only when a source supports the connection. One chapter,
-the first Impressionist exhibition, has no home thread yet and its list is
-deliberately empty.
+threads get appended only when a source supports the connection. Every chapter
+currently has a home thread. A chapter may carry an empty `threads` list, but
+only alongside `thread_assignment: unassigned`, which records that no thread
+has been chosen yet rather than that the field was forgotten; `check.py`
+rejects an empty list without it.
 
 `open_questions` lists the chapter's own question IDs from
 `/research/QUESTIONS.md`. The two files have to agree, and `check.py` enforces
@@ -123,13 +128,13 @@ it, so closing a question is a two-file edit.
 | `drafted` | Prose is complete. Says nothing about whether it is sourced. |
 | `verified` | Every assertion in the chapter carries a `verified: "y"` row. |
 
-That ladder is an agent proposal awaiting the author's confirmation — see
-`BACKLOG.md` B-08 and B-14. `check.py` accepts only these five values, so
-changing the vocabulary means changing one list in one file.
+The ladder is ratified — D-8 in `notes/thesis.md`, via `BACKLOG.md` B-08 and
+B-14. `check.py` accepts only these five values, so changing the vocabulary
+means changing one list in one file.
 
 ## Current state
 
-Scaffolding only. Twenty-one chapter stubs with no narrative content, a
+Scaffolding only. Twenty chapter stubs with no narrative content, a
 bibliography of works to acquire, and roughly a hundred open questions.
 `CLAIMS.md` holds one illustrative row and no verified claims. `/primary` is
 empty. Nothing has been read.

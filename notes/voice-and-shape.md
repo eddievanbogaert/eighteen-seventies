@@ -19,7 +19,7 @@ selected events that resist that.
 That was formerly an argument the thesis made explicitly, and the thesis no
 longer makes it; see `thesis.md`. The craft problem is unaffected, because it
 was never really a consequence of the framing. It is a property of the
-material, and it would be true of these twenty-one chapters whatever the book
+material, and it would be true of these twenty chapters whatever the book
 said about itself on page one.
 
 So the prose has to supply what the subject won't. That single fact should
@@ -59,7 +59,7 @@ under rule 1 will feel that every clause needs a row and will write around the
 ones that can't have one. That instinct produces a safe, dead book. I'd suggest
 a line in `AGENTS.md` distinguishing **assertions of fact**, which need rows,
 from **argument, sequence, and interpretation**, which need only to be
-recognisable as the author's reasoning rather than disguised as findings. I
+recognizable as the author's reasoning rather than disguised as findings. I
 haven't added it — amending the binding rules is the author's call.
 
 The related tic to watch for is the hedge-stack: *it seems likely that,
@@ -92,7 +92,7 @@ separately. A working proposal, five moves:
 **"Present-day resonance" should not survive as a section.** As a holding pen
 in the stub it is exactly right — rule 6 wants the parallels quarantined where
 they can be reviewed as rhetoric. But a resonance section at the end of all
-twenty-one chapters becomes a tic by chapter four, and it teaches the reader to
+twenty chapters becomes a tic by chapter four, and it teaches the reader to
 skip the last page of every chapter. In the finished book the parallels should
 either dissolve into the prose or appear in the few places they are genuinely
 earned.
@@ -111,8 +111,8 @@ credulous too.
 ## Length, and whether there are too many chapters
 
 Trade history for general readers runs roughly 90,000–120,000 words. At 110,000
-with about 8,000 for introduction and conclusion, twenty-one chapters average
-4,850 words — call it sixteen printed pages each.
+with about 8,000 for introduction and conclusion, twenty chapters average
+5,100 words — call it seventeen printed pages each.
 
 They should not actually be uniform. A workable tiered budget:
 
@@ -120,14 +120,20 @@ They should not actually be uniform. A workable tiered budget:
 | --- | --- | --- | --- |
 | major | 4 | ~7,000 | 28,000 |
 | standard | 12 | ~5,000 | 60,000 |
-| short | 5 | ~3,000 | 15,000 |
+| short | 4 | ~3,000 | 12,000 |
 | front and back matter | — | — | ~8,000 |
-| | | | **~111,000** |
+| | | | **~108,000** |
 
-The numbers matter less than what the arithmetic exposes: **twenty-one
-tentpoles is a lot**, and five of them have to be 3,000-word chapters. A
-3,000-word chapter is a section that has been promoted. Worth asking, per
-chapter, whether it is a chapter or a part of one.
+The numbers matter less than what the arithmetic exposes: **twenty tentpoles is
+still a lot**, and four of them have to be 3,000-word chapters. A 3,000-word
+chapter is a section that has been promoted. Worth asking, per chapter, whether
+it is a chapter or a part of one.
+
+Cutting the Impressionist chapter took one slot out of the short tier and left
+about 3,000 words of headroom against the 110,000 target. That is roughly one
+short chapter, which is exactly what QX-13 asks about: the same cut that
+created the room also created the 1874–75 hole that might want filling. The
+headroom should not be spent just because it exists.
 
 The clearest candidate for merging was **04 (Erewhon) and 06 (Verne)** — both
 novels, both machines, both 1872–73, two apart in the sequence. **That proposal
@@ -147,12 +153,15 @@ Neither is a research finding — both fall out of the repository's own tables,
 and both inherit the caveat that the dates behind them are `date_range_verified:
 "n"`.
 
-**The middle of the decade is nearly empty.** Four tentpoles fall in 1873, one
-in 1874, none in 1875, four in 1876. Whatever else is true, a book called *the
-1870s* currently has a two-year hole in its middle and a pile-up at either edge
-of it. Either something belongs in 1875 or the book should say why the decade
-went quiet — and "why the middle of the decade is quiet" is, if it holds, an
-extremely good chapter for a book about what the decade installed.
+**The middle of the decade is empty.** Four tentpoles fall in 1873, none in
+1874, none in 1875, four in 1876. This observation predates the Impressionist
+chapter's removal, which made it worse: that chapter was the one 1874 tentpole,
+so what was a hole with something in the near edge of it is now two clear
+years. A book called *the 1870s* has a two-year gap in its middle and a pile-up
+at either edge of it. Either something belongs there or the book should say why
+the decade went quiet — and "why the middle of the decade is quiet" is, if it
+holds, an extremely good chapter for a book about what the decade installed.
+Now numbered as QX-13, with candidates in `chapter-order.md`.
 
 **The money thread is entirely American.** Coinage Act, Crédit Mobilier, the
 Panic, the Railroad Strike, resumption — five of five, all United States. The
@@ -193,7 +202,7 @@ places this book is most exposed:
 - **Gap sentences.** *No Afghan-side sources are available* is a claim about the
   world's archives. *No Afghan-language source was available to me* is a claim
   about a research process. The first is bigger, less checkable, and probably
-  false. Five questions — Q09-5, Q14-6, Q17-6, Q18-6, Q20-5 — are likely to end
+  false. Five questions — Q09-5, Q13-6, Q16-6, Q17-6, Q19-5 — are likely to end
   in a sentence of this shape, and the impersonal form of each is a claim the
   book cannot support.
 - **Rule 4 judgments.** Having read both sides and found one more persuasive,
@@ -204,7 +213,7 @@ places this book is most exposed:
   other direction.
 
 **Why provisional.** Voice decisions made before prose exists are the ones that
-get regretted. Revisit after chapters 12 and 07 are drafted, and see whether an
+get regretted. Revisit after chapters 11 and 07 are drafted, and see whether an
 "I" ever actually wanted to appear. The expectation is a handful of uses in the
 whole book, nearly all of them gap sentences — but that is a guess, and one
 chapter of real prose settles it better than any amount of deciding in advance.
@@ -256,16 +265,25 @@ legible, which is what the familiarity is familiarity with.
 
 Cheap now, expensive later.
 
-**Spelling.** The repository is currently written in British forms —
-*characterised, romanisation, recognise, serialisation, demonetisation*. Ten of
-the twenty-one chapters are American in subject, and a US trade publisher will
-impose US style at copyedit regardless. Worth deciding once, now, rather than
-having it done to the manuscript later. (These notes match the existing British
-convention on purpose; if it flips, they flip.)
+**Spelling. Settled: American forms** (D-7, QX-6). The repository was written
+in British forms by the scaffolding passes and has been swept. Ten of the
+twenty chapters are American in subject, and a US trade publisher would impose
+US style at copyedit regardless, so this was a decision about who did the work
+and when rather than about house style.
 
-**The other four** — calendars, currency conversion, Japanese romanisation and
+The sweep was mechanical and its one interesting property is worth recording:
+this paragraph used to illustrate the point with a list of British spellings,
+and a search-and-replace does not know the difference between a word being used
+and a word being exhibited. It rewrote the examples and left the sentence
+claiming the opposite of what it showed. Nothing else in the repository quotes
+a spelling, but the manuscript eventually will — period usage, titles, quoted
+matter — and those are the carve-outs recorded in QX-6. A convention sweep run
+over 100,000 words of quotation without them would introduce silent
+misquotations, which is a rule 1 problem rather than a style one.
+
+**The other four** — calendars, currency conversion, Japanese romanization and
 name order, Balkan place names, Nez Perce naming — are already logged as QX-1,
-QX-2, Q16-4, Q19-4, Q18-5, and are correctly treated as things the sources
+QX-2, Q15-4, Q18-4, Q17-5, and are correctly treated as things the sources
 should decide rather than the author. See `question-triage.md`; they are late
 questions that must not be forgotten, which is a different thing from unimportant.
 
@@ -274,16 +292,16 @@ questions that must not be forgotten, which is a different thing from unimportan
 The first drafted chapter is not really about that chapter. It is where the
 voice gets found, and the job is to find it at manageable risk.
 
-**Draft chapter 12, Bell's patent, first.** It exercises every muscle the book
+**Draft chapter 11, Bell's patent, first.** It exercises every muscle the book
 needs, on the subject where the sources are most tractable:
 
 - It is a filing — a piece of administrative paper — that every reader thinks
   they already know, and one of the four systems begins there.
-- It has a clean documented mechanism (Q12-1).
+- It has a clean documented mechanism (Q11-1).
 - It has a genuine live dispute the chapter must record rather than settle
-  (Q12-3), so the rule 4 technique gets tested early.
+  (Q11-3), so the rule 4 technique gets tested early.
 - It has the book's second-most-famous quotation, with an explicit instruction
-  that nothing about it goes in from memory (Q12-4), so quotation discipline
+  that nothing about it goes in from memory (Q11-4), so quotation discipline
   gets tested early too.
 - Its scope is contained, and `bruce-bell` and `john-network-nation` are both
   squarely on it.
@@ -291,20 +309,20 @@ needs, on the subject where the sources are most tractable:
 **Then chapter 07, the Coinage Act.** This is the thesis chapter — the money
 system being installed in a single statute, with nothing about the prose
 supplied by the event. If the voice
-found in chapter 12 survives contact with the Coinage Act, the book works. If
+found in chapter 11 survives contact with the Coinage Act, the book works. If
 it doesn't, better to learn that in month two than in month fourteen.
 
 **Not chapter 09 or 18 first**, tempting as they are. Colfax and Chief Joseph
 carry their own moral and narrative weight; they would come easily and would
 teach nothing about the problem the rest of the book actually has. They are
 also the two chapters where getting it wrong costs the most, and they deserve a
-practised writer rather than a searching one. Chapter 18's surrender speech in
+practiced writer rather than a searching one. Chapter 17's surrender speech in
 particular should be attempted late, after the transmission-history discipline
 has been rehearsed somewhere cheaper.
 
 ## What this file is not
 
 It is not a style sheet, and it shouldn't become one until there is prose to
-style. Revisit it after chapters 12 and 07 exist, when the voice is a real
+style. Revisit it after chapters 11 and 07 exist, when the voice is a real
 thing on a page rather than a proposal in a note, and throw out whatever the
 drafting disproved.

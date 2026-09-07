@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [empire]
 status: stub
 sources: []
-open_questions: [Q16-1, Q16-2, Q16-3, Q16-4, Q16-5, Q16-6]
+open_questions: [Q15-1, Q15-2, Q15-3, Q15-4, Q15-5, Q15-6]
 ---
 
 # The Satsuma Rebellion
@@ -29,8 +29,8 @@ _Framing only, never evidence. Empty._
 ## Drafting blockers
 
 - Verify `date_range` against a source and log the row in `/research/CLAIMS.md`.
-- Fix a romanisation standard and a name-order convention for Japanese names,
+- Fix a romanization standard and a name-order convention for Japanese names,
   record it in `/notes`, and apply it consistently across the book.
 - Almost everything popularly known about this rebellion in English arrives
   through later legend and film. Nothing enters the draft on that basis.
-- Open questions: `/research/QUESTIONS.md` → Q16.
+- Open questions: `/research/QUESTIONS.md` → Q15.

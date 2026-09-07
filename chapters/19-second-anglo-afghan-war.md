@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [empire]
 status: stub
 sources: []
-open_questions: [Q20-1, Q20-2, Q20-3, Q20-4, Q20-5, Q20-6]
+open_questions: [Q19-1, Q19-2, Q19-3, Q19-4, Q19-5, Q19-6]
 ---
 
 # The Second Anglo-Afghan War
@@ -37,4 +37,4 @@ _Framing only, never evidence. Empty._
   They are frequently conflated.
 - The Afghan side of this war is poorly served in English-language sources.
   Log that as a gap in `/research/QUESTIONS.md` rather than writing around it.
-- Open questions: `/research/QUESTIONS.md` → Q20.
+- Open questions: `/research/QUESTIONS.md` → Q19.

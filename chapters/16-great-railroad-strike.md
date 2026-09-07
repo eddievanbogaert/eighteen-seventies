@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [money]
 status: stub
 sources: []
-open_questions: [Q17-1, Q17-2, Q17-3, Q17-4, Q17-5, Q17-6]
+open_questions: [Q16-1, Q16-2, Q16-3, Q16-4, Q16-5, Q16-6]
 ---
 
 # The Great Railroad Strike of 1877
@@ -33,7 +33,7 @@ _Framing only, never evidence. Empty._
   the chapter follows and say why in `/notes`.
 - Casualty counts vary by city and by source, and the press reporting was
   partisan on both sides. Figures carry provenance or stay out.
-- There was no central organisation to speak for the strikers, which means the
+- There was no central organization to speak for the strikers, which means the
   surviving record is disproportionately the record of those who put the strike
   down. Say so in the text rather than inheriting the bias.
-- Open questions: `/research/QUESTIONS.md` → Q17.
+- Open questions: `/research/QUESTIONS.md` → Q16.

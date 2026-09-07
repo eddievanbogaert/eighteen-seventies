@@ -33,17 +33,72 @@ a source is content" note in `AGENTS.md`.
   the introduction's periodization argument — that the years to 1877 are filed
   as late Reconstruction and the rest absorbed into a thirty-year Gilded Age —
   and that argument needs the labels' history, not an assertion about them.
-- **QX-6** **Authorial, not research.** British or American spelling and
-  punctuation, decided once and recorded with the date of the decision. Raised
-  in `notes/voice-and-shape.md`, which notes that the repository is currently
-  written in British forms throughout, that ten of the twenty-one chapters are
-  American in subject, and that a US trade publisher will impose US style at
-  copyedit regardless. It sits with the authorial questions rather than the
-  conventions because it is the only one of the six that no source can settle:
-  calendars, currency, romanisation, place names, and Nez Perce naming all
-  depend on what the sources for those chapters do, and this depends on nobody
-  but the author and eventually a publisher. Cheap now; a manual sweep of the
-  whole manuscript later.
+- **QX-6** **Authorial, not research. Answered: American spelling** (D-7 in
+  `notes/thesis.md`). Raised in `notes/voice-and-shape.md`, which noted that
+  the repository was then written in British forms, that ten of the twenty
+  chapters are American in subject, and that a US trade publisher would impose
+  US style at copyedit regardless. It sat with the authorial questions rather
+  than the conventions because it was the only one of the six that no source
+  could settle: calendars, currency, romanization, place names, and Nez Perce
+  naming all depend on what the sources for those chapters do, and this
+  depended on nobody but the author and eventually a publisher.
+
+  Applied across the repository in one pass, which is why the answer is
+  recorded here instead of the question being deleted — a convention that is
+  decided but not findable gets re-decided. Two carve-outs, and they are
+  permanent rather than pending: quoted matter and titles of works keep the
+  spelling they were published with, and period usage quoted as period usage
+  keeps its own. A nineteenth-century British source silently Americanized
+  inside quotation marks is a misquotation, which rule 1 covers.
+
+### The Impressionists, unplaced
+
+The first Impressionist exhibition was a tentpole and is no longer a chapter.
+The author's ruling is that the material is rolled in as support and color
+elsewhere, so these questions survive their chapter and have no home yet. They
+sit here rather than in a chapter block because until QX-7 is answered there is
+no chapter block to sit in.
+
+Two questions from the old chapter are gone rather than moved. One asked which
+of the four threads the chapter belonged to, which the ruling answers: none, it
+is not a chapter. The other made a thesis-critical test of whether a sourced
+link existed between this painting and the machines thread, and that test
+mattered only while the chapter's existence depended on the answer. The
+underlying question survives as QX-12, demoted, because material used as color
+still may not assert an unsourced connection.
+
+- **QX-7** **Authorial, not research.** Which chapter absorbs this material,
+  and in what role? It could support the machines thread, sit in the
+  introduction's argument about how things got named, or be spread thin across
+  several chapters. The answer governs how much of the rest of this block needs
+  answering, and nothing here can be drafted until it exists.
+- **QX-8** What was the exhibiting society's actual name, who organized it,
+  and how many artists showed?
+- **QX-9** What were the dates and the venue, and how did the show relate
+  institutionally to the official Salon?
+- **QX-10** What is the documented origin of the term "impressionist" as
+  applied to this group — which review, which critic, what wording? This is one
+  of the three naming case studies the introduction's periodization argument
+  can draw on, so it survives the chapter's removal with its usefulness intact.
+- **QX-11** What did it cost to mount, who bought anything, and what does that
+  say about the dealer market then forming?
+- **QX-12** What technical and industrial changes in materials, optics, or
+  transport are documented as bearing on this painting? No longer a test of
+  whether a chapter exists, but still the difference between color that is
+  sourced and color that is assumed.
+
+### The middle of the decade
+
+- **QX-13** **Authorial, with a research half.** No tentpole falls in 1874 or
+  1875 now that the Impressionist chapter is gone. Does the middle of the
+  decade need a chapter of its own, and if so what is it? The research half is
+  what those two years actually contain: whether the post-panic depression has
+  documented events of its own — bank failures, wage cuts, unemployment, relief
+  politics — or whether it is genuinely a trough in which the notable thing is
+  duration rather than incident. The obvious candidate is the Specie Payment
+  Resumption Act of 1875, which chapter 20 already depends on and currently
+  keeps offstage, since the act and the resumption it scheduled are four years
+  apart. See `notes/chapter-order.md` and Q20-1.
 
 ## Q01 — The Franco-Prussian War
 
@@ -63,7 +118,7 @@ a source is content" note in `AGENTS.md`.
   first edition, and how does the second edition differ?
 - **Q02-2** What does the book actually argue about human races, in its own
   words? Transcribe the relevant passages into `/primary` before
-  characterising them.
+  characterizing them.
 - **Q02-3** How did Darwin's stated views on race and slavery relate to the
   uses made of his work by others in the 1870s? Desmond and Moore argue for a
   specific relationship; what is the counter-position?
@@ -119,7 +174,7 @@ a source is content" note in `AGENTS.md`.
 
 ## Q06 — Verne, Around the World in Eighty Days
 
-- **Q06-1** What are the serialisation dates and venue, and the book
+- **Q06-1** What are the serialization dates and venue, and the book
   publication date and publisher?
 - **Q06-2** Was the eighty-day itinerary achievable in fact at the date of
   writing, and what source establishes the real timetables?
@@ -137,7 +192,7 @@ a source is content" note in `AGENTS.md`.
   text into `/primary`.
 - **Q07-2** What is the legislative history: who drafted the silver
   provisions, what did the debates address, and how long did passage take?
-- **Q07-3** On the "Crime of '73" question — was the demonetisation understood
+- **Q07-3** On the "Crime of '73" question — was the demonetization understood
   by the legislators who voted for it? Which historians hold which position,
   and what evidence does each side rest on? This is a rule 4 case and the
   chapter must record the dispute rather than pick.
@@ -161,7 +216,7 @@ a source is content" note in `AGENTS.md`.
   act? If comparable restrictions already existed, the chapter's claim changes
   from novelty to consolidation.
 - **Q08-5** Who opposed it at the time, and on what grounds — and were those
-  grounds ones a modern reader would recognise?
+  grounds ones a modern reader would recognize?
 
 ## Q09 — The Colfax Massacre
 
@@ -196,183 +251,165 @@ a source is content" note in `AGENTS.md`.
 - **Q10-6** What is the relationship, if any, between the panic and the
   monetary legislation of 1873? Sequence alone will not establish it.
 
-## Q11 — The First Impressionist Exhibition
+## Q11 — Bell Patents the Telephone
 
-- **Q11-1** **Structural, for the author, not a research question.** Which of
-  the four threads is this chapter's home — or is it deliberately outside them?
-  It is the only tentpole not assigned in the author's sort, and the chapter
-  cannot be drafted without an answer.
-- **Q11-2** What was the exhibiting society's actual name, who organised it,
-  and how many artists showed?
-- **Q11-3** What were the dates and the venue, and how did the show relate
-  institutionally to the official Salon?
-- **Q11-4** What is the documented origin of the term "impressionist" as
-  applied to this group — which review, which critic, what wording?
-- **Q11-5** What did it cost to mount, who bought anything, and what does that
-  say about the dealer market then forming?
-- **Q11-6** What technical and industrial changes in materials, optics, or
-  transport are documented as bearing on this painting? Only a sourced answer
-  connects this chapter to the machines thread; an assumed one does not.
-
-## Q12 — Bell Patents the Telephone
-
-- **Q12-1** What are the filing date, grant date, and patent number, and what
+- **Q11-1** What are the filing date, grant date, and patent number, and what
   does the specification claim?
-- **Q12-2** What are the competing priority claims, who advanced them, and how
+- **Q11-2** What are the competing priority claims, who advanced them, and how
   were they resolved in law?
-- **Q12-3** What is the evidence for and against the allegation of irregularity
+- **Q11-3** What is the evidence for and against the allegation of irregularity
   in the patent office? Shulman argues one way; what is the response from
   Bell's biographers? Rule 4 applies.
-- **Q12-4** What is the documented source for the first-transmission sentence,
+- **Q11-4** What is the documented source for the first-transmission sentence,
   and what exactly does that source say? Nothing about this quotation goes in
   from memory.
-- **Q12-5** How fast did installation actually proceed in the late 1870s, and
+- **Q11-5** How fast did installation actually proceed in the late 1870s, and
   what does John's account give for the business's early shape?
 
-## Q13 — Edison Opens Menlo Park
+## Q12 — Edison Opens Menlo Park
 
-- **Q13-1** When did the laboratory open, and what does that date mean — land
+- **Q12-1** When did the laboratory open, and what does that date mean — land
   purchase, construction, occupancy, or first work done?
-- **Q13-2** How was it staffed and financed, and who besides Edison did the
-  work? The names matter for the argument about industrialised invention.
-- **Q13-3** What are the documented dates and claims for the phonograph, and
+- **Q12-2** How was it staffed and financed, and who besides Edison did the
+  work? The names matter for the argument about industrialized invention.
+- **Q12-3** What are the documented dates and claims for the phonograph, and
   what did the first machine actually do?
-- **Q13-4** On the lamp: what did Edison's work in 1878-79 consist of, what
+- **Q12-4** On the lamp: what did Edison's work in 1878-79 consist of, what
   were the rival claims, and how does the current scholarship apportion
   credit? Contested, so record the contest.
-- **Q13-5** Is the "invention factory" characterisation contemporary or
+- **Q12-5** Is the "invention factory" characterization contemporary or
   retrospective? A source must date the framing.
-- **Q13-6** How should this chapter interleave with chapters 14 through 21,
+- **Q12-6** How should this chapter interleave with chapters 13 through 20,
   given that it spans them? A structural question for `/notes/chapter-order.md`.
 
-## Q14 — The Great Famine in India
+## Q13 — The Great Famine in India
 
-- **Q14-1** What regions were affected, in what years, and what does the best
+- **Q13-1** What regions were affected, in what years, and what does the best
   source use as the famine's start and end?
-- **Q14-2** What mortality estimates exist, who produced them, from what data,
+- **Q13-2** What mortality estimates exist, who produced them, from what data,
   and why do they differ so widely? The spread is the chapter's substance.
-- **Q14-3** What was the administration's declared policy on relief, in its own
+- **Q13-3** What was the administration's declared policy on relief, in its own
   documents, and what was done in practice?
-- **Q14-4** What is the documented record on grain exports during the famine
+- **Q13-4** What is the documented record on grain exports during the famine
   years, and what do the disputing parties each make of it?
-- **Q14-5** How does Davis's argument differ from the position it argues
+- **Q13-5** How does Davis's argument differ from the position it argues
   against, and where does the current scholarship stand? Do not let one
   forceful book stand in for the field.
-- **Q14-6** What Indian-authored contemporary accounts and later scholarship
+- **Q13-6** What Indian-authored contemporary accounts and later scholarship
   are available, and which are accessible in translation or in English?
-- **Q14-7** What did readers in Britain and the United States know about this
+- **Q13-7** What did readers in Britain and the United States know about this
   at the time, and from what coverage? The book's argument about the decade's
   interconnection needs an answer here.
 
-## Q15 — The 1876 Election and the Compromise of 1877
+## Q14 — The 1876 Election and the Compromise of 1877
 
-- **Q15-1** What were the disputed returns, state by state, and what is the
+- **Q14-1** What were the disputed returns, state by state, and what is the
   evidentiary basis for each dispute?
-- **Q15-2** What was the commission that resolved it, how was it composed, and
+- **Q14-2** What was the commission that resolved it, how was it composed, and
   by what authority?
-- **Q15-3** On the compromise: what is the documentary evidence for a bargain,
+- **Q14-3** On the compromise: what is the documentary evidence for a bargain,
   what did the older account claim, and how has it been revised? Which
   historians hold which position now? Rule 4 case.
-- **Q15-4** What actually happened to federal troops in the South in 1877, as
+- **Q14-4** What actually happened to federal troops in the South in 1877, as
   against the shorthand of "withdrawal"?
-- **Q15-5** What is the documented scale of violence and suppression of Black
+- **Q14-5** What is the documented scale of violence and suppression of Black
   voting in the 1876 campaign, and in which sources?
-- **Q15-6** How does this chapter avoid the ending it is being pulled toward —
+- **Q14-6** How does this chapter avoid the ending it is being pulled toward —
   Reconstruction "ends" in 1877 — if the sources treat that as too tidy?
 
-## Q16 — The Satsuma Rebellion
+## Q15 — The Satsuma Rebellion
 
-- **Q16-1** What are the rebellion's start and end dates, and what were its
+- **Q15-1** What are the rebellion's start and end dates, and what were its
   stated grievances in its participants' own documents?
-- **Q16-2** What were the government's military forces and methods, and what
+- **Q15-2** What were the government's military forces and methods, and what
   does the best source say about why the outcome went as it did?
-- **Q16-3** What preceding reforms bore on samurai status and income, and on
+- **Q15-3** What preceding reforms bore on samurai status and income, and on
   what dates? The connection to the empire thread depends on these specifics.
-- **Q16-4** What romanisation and name-order convention will the book use, and
+- **Q15-4** What romanization and name-order convention will the book use, and
   what do the chosen sources use?
-- **Q16-5** Which English-language sources rest on Japanese-language
+- **Q15-5** Which English-language sources rest on Japanese-language
   scholarship and which do not? Relevant to how much weight each can carry.
-- **Q16-6** What is documented about Saigō's death, as distinct from the later
+- **Q15-6** What is documented about Saigō's death, as distinct from the later
   legend of it?
 
-## Q17 — The Great Railroad Strike of 1877
+## Q16 — The Great Railroad Strike of 1877
 
-- **Q17-1** Where did it begin, on what date, and over what immediate grievance?
-- **Q17-2** Which cities saw the most serious events, and what is the best
+- **Q16-1** Where did it begin, on what date, and over what immediate grievance?
+- **Q16-2** Which cities saw the most serious events, and what is the best
   source for each? This was not one strike.
-- **Q17-3** What casualty figures exist by city, from what sources, and how
+- **Q16-3** What casualty figures exist by city, from what sources, and how
   reliable is the reporting?
-- **Q17-4** What was the legal and military basis for the response — state
+- **Q16-4** What was the legal and military basis for the response — state
   militia, federal troops, private force — and what precedent did it set?
-- **Q17-5** What connects the strike to the wage conditions of the post-1873
+- **Q16-5** What connects the strike to the wage conditions of the post-1873
   depression, in documented terms rather than assumed ones?
-- **Q17-6** What do strikers' own words survive in, and where? The archive is
+- **Q16-6** What do strikers' own words survive in, and where? The archive is
   weighted toward those who suppressed the strike; the chapter needs to know
   by how much.
 
-## Q18 — Chief Joseph's Surrender
+## Q17 — Chief Joseph's Surrender
 
-- **Q18-1** What is the transmission history of the surrender speech: who
+- **Q17-1** What is the transmission history of the surrender speech: who
   interpreted it, who wrote it down, when was it published, and how do the
   versions differ? Nothing about this quotation is used until this is answered
   in full and the text is in `/primary`.
-- **Q18-2** Who has questioned the speech's authenticity, on what grounds, and
+- **Q17-2** Who has questioned the speech's authenticity, on what grounds, and
   what is the response?
-- **Q18-3** What is the documented route and duration of the flight that
+- **Q17-3** What is the documented route and duration of the flight that
   preceded the surrender?
-- **Q18-4** What terms were reportedly offered at the surrender, by whom, and
+- **Q17-4** What terms were reportedly offered at the surrender, by whom, and
   what happened instead?
-- **Q18-5** What was Joseph's own name, and the people's name for themselves,
+- **Q17-5** What was Joseph's own name, and the people's name for themselves,
   and what spellings do the sources and the present-day tribal governments use?
-- **Q18-6** What Nez Perce accounts of these events exist, in what form, and
+- **Q17-6** What Nez Perce accounts of these events exist, in what form, and
   who collected them?
 
-## Q19 — The Congress of Berlin
+## Q18 — The Congress of Berlin
 
-- **Q19-1** What were the dates, who attended, and what was the congress
+- **Q18-1** What were the dates, who attended, and what was the congress
   convened to settle?
-- **Q19-2** What did the resulting treaty provide, in its own text, and how did
+- **Q18-2** What did the resulting treaty provide, in its own text, and how did
   it differ from the treaty it replaced? Both texts into `/primary`.
-- **Q19-3** What was the war and the crisis that preceded it, in documented
+- **Q18-3** What was the war and the crisis that preceded it, in documented
   sequence?
-- **Q19-4** Which territories changed status, and what place-name conventions
+- **Q18-4** Which territories changed status, and what place-name conventions
   will the book use for them? The choice is not neutral and should be stated.
-- **Q19-5** What is the scholarly assessment of the settlement's durability,
+- **Q18-5** What is the scholarly assessment of the settlement's durability,
   and how much of the standard account is retrospective reading from 1914?
-- **Q19-6** What is the documented relationship, if any, between this congress
+- **Q18-6** What is the documented relationship, if any, between this congress
   and the subsequent partition of Africa? An assumed continuity between the
   two Berlin meetings is exactly the error this chapter must avoid.
 
-## Q20 — The Second Anglo-Afghan War
+## Q19 — The Second Anglo-Afghan War
 
-- **Q20-1** What are the war's phases and dates, and what does the best source
+- **Q19-1** What are the war's phases and dates, and what does the best source
   treat as its end?
-- **Q20-2** What was the stated casus belli, and what do the sources say about
+- **Q19-2** What was the stated casus belli, and what do the sources say about
   the actual strategic reasoning?
-- **Q20-3** What was the Russian dimension, and what evidence exists for the
+- **Q19-3** What was the Russian dimension, and what evidence exists for the
   British reading of Russian intentions being accurate or not?
-- **Q20-4** What did the war cost, and who paid — the British exchequer or
+- **Q19-4** What did the war cost, and who paid — the British exchequer or
   Indian revenues? This is the connection to the money thread and it needs a
   figure with a provenance.
-- **Q20-5** What Afghan-side sources exist, and what is available in English?
+- **Q19-5** What Afghan-side sources exist, and what is available in English?
   If the answer is very little, that is a finding to state in the chapter.
-- **Q20-6** Does the chapter stop at the end of 1879 or follow the war out?
+- **Q19-6** Does the chapter stop at the end of 1879 or follow the war out?
   Structural, for `/notes/chapter-order.md`.
 
-## Q21 — The Resumption of Specie Payments
+## Q20 — The Resumption of Specie Payments
 
-- **Q21-1** What act mandated resumption, when did it pass, and what did it
+- **Q20-1** What act mandated resumption, when did it pass, and what did it
   require?
-- **Q21-2** What was done between passage and the effective date to prepare —
+- **Q20-2** What was done between passage and the effective date to prepare —
   gold accumulation, bond sales, retirement of notes — and on what figures?
-- **Q21-3** What is the greenback-to-gold price series for the 1870s, who
+- **Q20-3** What is the greenback-to-gold price series for the 1870s, who
   compiled it, and from what quotations? This is the chapter's load-bearing
   evidence.
-- **Q21-4** What happened on and immediately after the effective date? A
+- **Q20-4** What happened on and immediately after the effective date? A
   non-event is a finding, but it has to be documented as one rather than
   asserted for effect.
-- **Q21-5** Who opposed resumption, what did they predict, and were they wrong?
-- **Q21-6** What did the contemporary press call this, and how much attention
+- **Q20-5** Who opposed resumption, what did they predict, and were they wrong?
+- **Q20-6** What did the contemporary press call this, and how much attention
   did it get? Feeds the introduction's periodization argument rather than the
   thesis. However much or little notice resumption drew, the amount has to come
   from the record rather than from what the ending would like to be true.

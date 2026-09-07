@@ -6,7 +6,7 @@ never in `/chapters` (rule 3 in `AGENTS.md`).
 What belongs here:
 
 - Structural and editorial decisions, and the reasoning behind them.
-- Conventions the whole book must apply consistently: romanisation, name
+- Conventions the whole book must apply consistently: romanization, name
   order, place names, calendars, currency.
 - Records of historiographical disagreement, worked out at length before the
   chapter compresses them.
@@ -29,8 +29,8 @@ which is the point of having it.
 - `voice-and-shape.md` — audience, register, what a finished chapter looks
   like, the length budget, and where to start drafting. Editorial proposals,
   none of them binding.
-- `question-triage.md` — all 122 questions in `/research/QUESTIONS.md` sorted
-  by what they block, the seven that are thesis-critical, and a suggested
+- `question-triage.md` — all 123 questions in `/research/QUESTIONS.md` sorted
+  by what they block, the six that are thesis-critical, and a suggested
   critical path. Goes stale as questions close; `QUESTIONS.md` is authoritative.
   The counts in that sentence are checked by `tools/check.py`, because they had
   already drifted once.

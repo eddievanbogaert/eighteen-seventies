@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [race]
 status: stub
 sources: []
-open_questions: [Q18-1, Q18-2, Q18-3, Q18-4, Q18-5, Q18-6]
+open_questions: [Q17-1, Q17-2, Q17-3, Q17-4, Q17-5, Q17-6]
 ---
 
 # Chief Joseph's Surrender
@@ -38,4 +38,4 @@ _Framing only, never evidence. Empty._
   English ones. Establish spellings from a source, not from recall.
 - What followed the surrender contradicts the terms reportedly offered at it.
   Decide whether that belongs here or in an epilogue.
-- Open questions: `/research/QUESTIONS.md` → Q18.
+- Open questions: `/research/QUESTIONS.md` → Q17.

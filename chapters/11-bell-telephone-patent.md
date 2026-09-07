@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [machines]
 status: stub
 sources: []
-open_questions: [Q12-1, Q12-2, Q12-3, Q12-4, Q12-5]
+open_questions: [Q11-1, Q11-2, Q11-3, Q11-4, Q11-5]
 ---
 
 # Bell Patents the Telephone
@@ -36,4 +36,4 @@ _Framing only, never evidence. Empty._
 - The famous first-call sentence is one of the most misquoted lines of the
   century. It does not go in the draft except transcribed from a documented
   source in `/primary`.
-- Open questions: `/research/QUESTIONS.md` → Q12.
+- Open questions: `/research/QUESTIONS.md` → Q11.

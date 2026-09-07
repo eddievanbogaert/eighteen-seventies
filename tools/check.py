@@ -410,11 +410,13 @@ def check_claims(sources, chapters, report: Report):
                 f"source_key '{source_key}' is not in sources/MANIFEST.md — "
                 "a claim may not cite a source the book does not have",
             )
-        # AGENTS.md names frontmatter and MANIFEST.md for the quoted form and
-        # does not name CLAIMS.md, so both spellings are accepted here.
         flag = unquote(verified)
-        if flag not in {"y", "n"}:
-            report.error(path, line_no, f"verified is '{verified}', must be y or n")
+        if verified not in ('"y"', '"n"'):
+            report.error(
+                path, line_no,
+                f'verified is {verified or "empty"}, must be "y" or "n" with '
+                "quotes — AGENTS.md requires the quoted form here too",
+            )
         number = chapter.zfill(2)
         if number not in chapters:
             report.error(path, line_no, f"chapter '{chapter}' does not exist")
@@ -680,7 +682,7 @@ def check_cross_references(question_ids, chapters, report: Report):
 
     The notes files, the drafting blockers, the manifest and the acquisition
     worksheet all point at questions by id. A reference to a question that was
-    renumbered or closed is silent rot: it reads as rigour and leads nowhere.
+    renumbered or closed is silent rot: it reads as rigor and leads nowhere.
     """
     known = set(question_ids)
     for path in sorted(ROOT.rglob("*.md")):

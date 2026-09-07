@@ -64,7 +64,7 @@ this book" and "decide this" produces the illusion of progress.
       **Done when:** no manifest row carries a bare flag, and `check.py`
       enforces it.
 
-- [x] **B-04 — Populate every chapter's `open_questions` frontmatter.** All 21
+- [x] **B-04 — Populate every chapter's `open_questions` frontmatter.** All 20
       chapters carry `open_questions: []` while `QUESTIONS.md` holds 116
       chapter-specific questions. The field exists to make a chapter's blockers
       legible from the chapter, and leaving it empty means the only route from a
@@ -75,7 +75,7 @@ this book" and "decide this" produces the illusion of progress.
 
 - [x] **B-05 — Record the two unsourced money questions in the manifest's gaps
       section.** `question-triage.md` establishes that Q10-3 (the Vienna and
-      Berlin side of the 1873 panic) and Q20-4 (who paid for the Afghan war)
+      Berlin side of the 1873 panic) and Q19-4 (who paid for the Afghan war)
       have nothing behind them in the bibliography, and notes that this belongs
       in `MANIFEST.md`'s own list of gaps, where it is currently absent. These
       are two of the four questions that decide whether the money thread leaves
@@ -84,9 +84,9 @@ this book" and "decide this" produces the illusion of progress.
 
 - [x] **B-06 — Number the spelling question.** `voice-and-shape.md` raises
       British versus American forms and `question-triage.md` says outright that
-      it "is not yet a numbered question and should be". Ten of twenty-one
-      chapters are American in subject and the repository is currently written
-      in British forms throughout.
+      it "is not yet a numbered question and should be". Ten of twenty
+      chapters are American in subject and the repository was at that point
+      written in British forms throughout. Since answered by D-7 — see B-13.
       **Done when:** it exists as **QX-6**, is placed in the triage table, and
       every count that moves has moved with it.
 
@@ -119,88 +119,104 @@ this book" and "decide this" produces the illusion of progress.
       `drafting` → `drafted` → `verified` (every assertion carries a
       `verified: "y"` row).
       **Done when:** the ladder is documented and `check.py` accepts only those
-      values — done — **and B-14 has confirmed it.** Still open, because this is
-      an agent proposal about the author's process: the vocabulary is agent
-      work, the adoption is not.
+      values — done — **and B-14 has confirmed it** — done, D-8. The vocabulary
+      was agent work and the adoption was not, which is why it waited.
 
-## Ready now — author
+## Decided — author
 
-Nothing here needs an agent first. Each is small, and each is currently
-blocking or shaping something larger.
+The author ruled on all seven of these in one pass. Each entry records the
+ruling and what was changed, because a decision that is not written down gets
+relitigated by the next session. The rulings themselves are recorded as D-4
+through D-10 in `thesis.md`.
 
-- [ ] **B-09 — Q11-1: does chapter 11 exist, and in which thread?** The first
-      Impressionist exhibition is the only tentpole with no home thread. Q11-6
-      asks whether any sourced link to the machines thread exists and the
-      manifest already concedes there is none in the bibliography, so the
-      honest sequence is: decide whether the chapter survives as an explicit
-      interlude outside the four threads, or drops. Cheap to decide, and it
-      determines whether four gate questions are worth asking at all.
+- [x] **B-09 — does the Impressionist chapter exist, and in which thread?**
+      Decided: it does not. The material is rolled in as support and color
+      elsewhere. The chapter file is deleted, chapters 12 through 21 are
+      renumbered 11 through 20, and the exhibition's surviving questions moved
+      to the cross-cutting block as QX-8 through QX-12 with QX-7 added to ask
+      which chapter absorbs them. Two questions were retired rather than moved:
+      the thread assignment, which the ruling answers, and the thesis-critical
+      test of whether the chapter had a sourced link to the machines thread,
+      which mattered only while the chapter's existence was in question. The
+      underlying question survives as QX-12, demoted from gate to parallel.
+      Thesis-critical questions fall from seven to six.
+
+      The cut had one consequence worth flagging back: the exhibition was the
+      only tentpole dated 1874, so the sequence now runs from four 1873
+      chapters straight to 1876 and no tentpole falls in 1874 or 1875. That is
+      recorded as QX-13 with two candidate remedies in
+      `notes/chapter-order.md`, and it is a new author decision rather than a
+      settled one.
 
 - [ ] **B-10 — D-3b: hold or resolve the first-person test.**
-      `notes/thesis.md` defers this until chapters 12 and 07 exist, which is
+      `notes/thesis.md` defers this until chapters 11 and 07 exist, which is
       the right call. Listed so that it is a live deferral rather than a
       forgotten one, and so nobody drafts under a ban that was never imposed.
 
-- [ ] **B-11 — The inherited first person in `AGENTS.md`.** The sentence
-      illustrating "absence of a source is content" reads "the sources I can
-      read". It is the only first person in the repository, it came from the
-      scaffolding pass rather than from the author, and `thesis.md` rules that
-      under D-3b it is a good illustration but should be a deliberate keep
-      rather than an inherited one. Keep it or neutralise it; either way it
-      stops being an accident.
+- [x] **B-11 — the inherited first person in `AGENTS.md`.** Decided: remove
+      it. The illustration now reads "the sources this book could reach". Note
+      that this was not a straight deletion — "the sources available" would
+      have removed the first person and quietly upgraded a claim about one
+      research process into a claim about the world's archives, which is a
+      bigger assertion than the original and an unverifiable one. The rule now
+      says so explicitly, so the next drafter does not make that trade by
+      accident. Does not pre-empt B-10, which is about the book's prose rather
+      than about one sentence in a rules file.
 
-- [ ] **B-12 — Rule 1 versus interpretation.** `voice-and-shape.md` makes the
-      strongest craft argument in the repository: a drafter working under rule 1
-      will feel every clause needs a `CLAIMS.md` row, will write around the ones
-      that cannot have one, and will produce claim-shaped prose — true, careful,
-      inert. It proposes a line in `AGENTS.md` distinguishing assertions of
-      fact, which need rows, from argument and interpretation, which need only
-      to read as the author's reasoning rather than as findings. It was not
-      added, correctly, because amending binding rules is the author's call.
-      This is the item on the list most likely to affect whether the finished
-      book is readable.
+- [x] **B-12 — rule 1 versus interpretation.** Decided: take it, with edits.
+      The section is in `AGENTS.md` under "Rows are for assertions of fact,
+      not for reasoning." Two edits to what `voice-and-shape.md` proposed.
+      First, the proposed text listed "sequence" among the things needing no
+      row. In a chronological history that is a hole big enough to drive an
+      unsourced narrative through — the order in which things happened is a
+      matter of fact and rule 1 covers it — so "sequence" is gone and
+      "emphasis, structure" took its place. Second, an anti-loophole
+      paragraph: if a sentence could be checked against a source it is an
+      assertion of fact however it is dressed. Without that, the section is a
+      license to relabel claims as interpretation, which would make it a net
+      loss over having no section at all.
 
-- [ ] **B-13 — Spelling convention (QX-6).** British or American forms, decided
-      once. A US trade publisher will impose US style at copyedit regardless,
-      and the notes are currently written in British forms on purpose so that
-      they flip together. One decision now, a full-manuscript sweep later.
+- [x] **B-13 — spelling convention (QX-6).** Decided: American forms. Swept
+      across the repository in one pass. QX-6 is answered rather than open, and
+      the question is retained in `QUESTIONS.md` with the ruling recorded, since
+      a decided convention still needs to be findable by whoever is drafting.
+      What the sweep did not touch: quotations, titles of works, and quoted
+      period usage, which keep their own spelling and always will.
 
-- [ ] **B-14 — Confirm or reject B-08's status ladder.** Process vocabulary,
-      so the author's to adopt.
+- [x] **B-14 — B-08's status ladder.** Confirmed. The ladder is ratified rather
+      than proposed, and `check.py` enforces the vocabulary.
 
-- [ ] **B-22 — Whether `tools/check.py` becomes a rule.** It exists and it
-      passes, but nothing obliges anyone to run it, which is the same weakness
-      it was built to fix one level up. A line in `AGENTS.md` requiring a clean
-      run before a commit would close that, and amending the binding rules is
-      the author's call. Worth noting what it would cost: nothing, since the
-      script has no dependencies and takes well under a second.
+- [x] **B-22 — whether `tools/check.py` becomes a rule.** Required, for now.
+      Step 8 of the working procedure in `AGENTS.md`: run it, leave it passing,
+      before every commit. Recorded as provisional in D-9, since the honest
+      case for it rests on the script staying fast and staying free of
+      dependencies, and a rule requiring a slow or fragile tool would be worse
+      than no rule.
 
-- [ ] **B-23 — Whether `CLAIMS.md`'s `verified` column takes quotes too.**
-      `AGENTS.md` requires the quoted `"y"`/`"n"` form in chapter frontmatter
-      and in `MANIFEST.md`, and does not mention `CLAIMS.md`, whose `verified`
-      column currently carries a bare `n`. The stated reason for quoting — that
-      bare `y` and `n` are booleans to a YAML 1.1 parser — does not apply to a
-      markdown table cell, so the rule as written may be exactly right and the
-      ledger may be fine as it stands. But the ledger is now the one place in
-      the repository where a verification flag is written differently from
-      everywhere else. `check.py` accepts either spelling there on purpose,
-      pending a ruling.
+- [x] **B-23 — whether `CLAIMS.md`'s `verified` column takes quotes too.**
+      Decided: quote it, for uniformity. Done, and `check.py` now requires the
+      quoted form there rather than accepting either. It caused no other
+      issues; the ledger has one example row, so the change was a single cell.
+      The reasoning in the original entry still stands — the YAML argument
+      genuinely does not apply to a table cell — so the rule now rests on
+      uniformity, which is a weaker but sufficient reason, and `AGENTS.md`
+      names all three locations rather than implying a parser-driven one.
 
 ## Blocked on reading
 
 Every item here is waiting on the same thing: books in hand. `check.py` will
 refuse to let any of it reach a chapter early, which is the point.
 
-- [ ] **B-15 — Batch-verify all 21 `date_range` values.** The single
+- [ ] **B-15 — Batch-verify all 20 `date_range` values.** The single
       highest-leverage research action available, and `question-triage.md`
       cluster 1 explains why: one pass against two or three reliable
-      chronologies flips 21 flags, closes the first drafting blocker in all 21
+      chronologies flips 20 flags, closes the first drafting blocker in all 20
       chapters, and settles three of the open structural problems in
       `chapter-order.md` — whether Darwin really precedes Chicago, whether the
-      famine's move earlier survives its actual dates, and whether chapter 20
+      famine's move earlier survives its actual dates, and whether chapter 19
       runs past the decade. Needs a source, so it is not agent work; it is the
       first thing to do with one.
-      **Done when:** 21 `CLAIMS.md` rows exist, 21 flags read `"y"`, and
+      **Done when:** 20 `CLAIMS.md` rows exist, 20 flags read `"y"`, and
       `chapter-order.md` records what the verification changed.
 
 - [ ] **B-16 — Acquire and transcribe the out-of-copyright primary texts.**
@@ -211,23 +227,23 @@ refuse to let any of it reach a chapter early, which is the point.
       Depends on B-07 for routes.
 
 - [ ] **B-17 — The money-crosses-borders cluster: Q01-3, Q07-5, Q10-3,
-      Q20-4.** Four questions in four chapters that are one question in four
+      Q19-4.** Four questions in four chapters that are one question in four
       costumes, and the only cluster that can change the book's architecture:
       the money thread is five American chapters, the empire thread five
       non-American ones, so the threads currently partition by geography at
       exactly the point the connected-decade argument needs them not to.
       Q01-3 and Q07-5 can be read as soon as `flandreau-glitter-of-gold` and
-      `eichengreen-globalizing-capital` arrive. Q10-3 and Q20-4 need a source
+      `eichengreen-globalizing-capital` arrive. Q10-3 and Q19-4 need a source
       to be *found* first — see B-18.
       **Done when:** all four are answered or recorded as null, and the thread
       structure is decided on the result rather than around it.
 
-- [ ] **B-18 — Find sources for Q10-3 and Q20-4.** A bibliography search, not
+- [ ] **B-18 — Find sources for Q10-3 and Q19-4.** A bibliography search, not
       a reading task, and it should start early enough that a null result is
       still actionable: the two questions that would carry the money thread
       furthest from America are the two with nothing behind them. Q10-3 wants
       the Vienna and Berlin events of 1873 treated as part of the same crisis;
-      Q20-4 wants war finance, and all three chapter 20 entries are military or
+      Q19-4 wants war finance, and all three chapter 19 entries are military or
       narrative history.
 
 - [ ] **B-19 — QX-5 and the periodization argument.** Now introduction
@@ -246,8 +262,8 @@ refuse to let any of it reach a chapter early, which is the point.
 
 ## Blocked on archives
 
-- [ ] **B-21 — Open the five long-lead enquiries: Q09-5, Q14-6, Q17-6, Q18-6,
-      Q20-5.** Black accounts of Colfax, Indian-authored accounts of the
+- [ ] **B-21 — Open the five long-lead enquiries: Q09-5, Q13-6, Q16-6, Q17-6,
+      Q19-5.** Black accounts of Colfax, Indian-authored accounts of the
       famine, strikers' own words, Nez Perce accounts, Afghan-side sources.
       These want repositories, databases, translation, and in some cases a
       reply from someone whose response time nobody controls.
@@ -272,7 +288,7 @@ late.
   unusually good chapter for a book about installation. Downstream of B-15,
   since the dates behind the observation are unverified.
 
-- **Twenty-one tentpoles is a lot.** `voice-and-shape.md`'s length budget forces
+- **Twenty tentpoles is still a lot.** `voice-and-shape.md`'s length budget forces
   five chapters to about 3,000 words, and a 3,000-word chapter is a section that
   has been promoted. Worth asking per chapter whether it is a chapter. Any slot
   that opens has two claimants already: the 1875 gap, and a European money
@@ -280,7 +296,7 @@ late.
 
 ## Not on this list, deliberately
 
-**Drafting.** Chapters 12 and 07 are where the voice gets found, per
+**Drafting.** Chapters 11 and 07 are where the voice gets found, per
 `voice-and-shape.md`, and both sit behind their gate questions. Nothing in the
 repository is closer to draftable than it was, and an agent that produced a
 chapter tonight would be producing exactly the fluent unsourced prose the
