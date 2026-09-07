@@ -54,19 +54,32 @@ prohibits asserting. They may be used to sort files. They may not be restated
 in prose, and they may not be trusted, until a `CLAIMS.md` row verifies them
 and the flag flips to `"y"`.
 
+**Rows are for assertions of fact, not for reasoning.** Rule 1 covers what a
+source could confirm or refute: dates, figures, names, quotations. It does not
+cover argument, emphasis, structure, or interpretation, and those need no row.
+The connective tissue — the because, the which meant that, the and so nobody
+noticed — is the author working, and it is what the reader is paying for. The
+test is not whether a sentence has a row behind it but whether it is disguised
+as a finding. Interpretation offered as the author's reasoning is honest; the
+same interpretation delivered in the voice of the sources is not.
+
+This is not a loophole. If a sentence could be checked against a source, it is
+an assertion of fact and rule 1 applies however the sentence is dressed. The
+order in which things happened is a matter of fact, not of structure, and needs
+rows like any other date.
+
 **The `y`/`n` flags are quoted strings, deliberately.** Bare `y` and `n` are
 boolean `true` and `false` to a YAML 1.1 parser and bare strings to some
 others. A verification flag that changes meaning depending on what reads it is
-not a verification flag. Write `"y"` and `"n"` with the quotes, here and in
-`/sources/MANIFEST.md`.
+not a verification flag. Write `"y"` and `"n"` with the quotes: in chapter
+frontmatter, in `/sources/MANIFEST.md`, and in the `verified` column of
+`/research/CLAIMS.md`.
 
 **`threads[0]` is the home thread and is fixed by the author.** The four
 threads are `money`, `race` (shorthand for race and citizenship), `machines`,
 and `empire`. Each tentpole has one home thread, assigned by the author, and an
 agent does not reassign it. Additional threads may be appended to the list only
-when a sourced connection exists — not because a link seems plausible. One
-chapter, the first Impressionist exhibition, has no home thread yet; leave it
-empty until the author assigns one.
+when a sourced connection exists — not because a link seems plausible.
 
 **Every number is a range until proven otherwise.** Nineteenth-century
 mortality figures, casualty counts, crowd sizes, and unemployment rates are
@@ -75,8 +88,12 @@ reason they differ. A single round number in this book is a defect unless a
 row explains why it is safe.
 
 **Absence of a source is content.** "The Afghan side of this war is thinly
-covered in the sources I can read" is a true and useful sentence. Writing
-around the gap so the reader cannot see it is not.
+covered in the sources this book could reach" is a true and useful sentence.
+Writing around the gap so the reader cannot see it is not. Note what the
+example does and does not claim: the sources *this book could reach* is a
+statement about a research process, and the sources *that exist* would be a
+much larger claim about the world's archives, probably false and certainly
+unverifiable. Gap sentences are held to rule 1 like anything else.
 
 ## Working procedure
 
@@ -86,7 +103,7 @@ Before drafting in a chapter:
    specific to that chapter.
 2. Read the chapter's questions in `/research/QUESTIONS.md`.
 3. Confirm the sources you need are in `/sources/MANIFEST.md` with
-   `acquired: y` and `read: y`. If not, that is the task instead.
+   `acquired: "y"` and `read: "y"`. If not, that is the task instead.
 
 While drafting:
 
@@ -103,6 +120,16 @@ When you cannot verify something:
    source must answer. Leave the gap in the draft marked and visible. Do not
    fill it with a hedge — "some accounts suggest" with no account named is a
    rule 2 violation wearing a disguise.
+
+Before every commit:
+
+8. Run `python3 tools/check.py` and leave it passing. It needs nothing
+   installed and takes under a second. It enforces the mechanical half of these
+   rules — claim-to-manifest integrity, unverified dates appearing in prose,
+   page numbers, dangling question references — and it exists because the rules
+   were previously enforced by good intentions, which let a claim cite a source
+   the book did not have. A failing check is not a formatting complaint; it is
+   one of the rules above being broken.
 
 ## Scope note
 
