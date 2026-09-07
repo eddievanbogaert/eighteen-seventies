@@ -116,7 +116,7 @@ The case for "invention" is recorded in case it returns: Menlo Park is arguably
 about invention becoming an industry rather than about any machine, and the
 Bell chapter is about a patent, which is the legal construction of priority.
 The author's reasons for keeping "machines" are stronger for this book.
-Machines are the term the present-day conversation about industrialisation
+Machines are the term the present-day conversation about industrialization
 actually runs on, so the word does the connective work "invention" would not;
 and Butler is a live thread in that conversation rather than a period curio.
 
@@ -200,7 +200,7 @@ down gets relitigated. `BACKLOG.md` carries the implementation detail for each;
 this is the ruling and its reasoning.
 
 **D-4 — the first Impressionist exhibition is not a chapter.** The material is
-rolled in as support and colour elsewhere. This resolves what had been two
+rolled in as support and color elsewhere. This resolves what had been two
 questions — whether the chapter had a home thread, and whether any sourced link
 to the machines thread existed — by removing the thing they were about. Twenty
 chapters now, five per thread.
@@ -234,7 +234,7 @@ things needing no row: in a chronological history the order of events is a
 matter of fact and rule 1 covers it, and leaving that word in would have been a
 hole wide enough to drive an unsourced narrative through. And an anti-loophole
 paragraph is added, because a section distinguishing fact from interpretation
-without one is a licence to relabel.
+without one is a license to relabel.
 
 **D-7 — American spelling.** Applied across the repository. Quotations, titles,
 and quoted period usage keep their own spelling. QX-6 stays in `QUESTIONS.md`

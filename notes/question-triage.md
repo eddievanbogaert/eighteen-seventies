@@ -53,7 +53,7 @@ usually a gate. The honest reading of this table is that **there is no shortcut
 to a first chapter.** The reading has to happen.
 
 The gate share fell when the Impressionist chapter was cut. Four of its
-questions were gates on a chapter that no longer exists; as unplaced colour
+questions were gates on a chapter that no longer exists; as unplaced color
 they are parallel work, answerable while whichever chapter absorbs them is
 drafted. Nothing was answered — the questions moved category because the thing
 they blocked went away.
@@ -80,8 +80,8 @@ It was thesis-critical because a no meant the chapter had no thread and might
 not survive — the whole question was a test of the chapter's right to
 exist. The author
 has since ruled that the chapter does not survive regardless: the material is
-rolled in as support and colour elsewhere. The question itself is still worth
-asking — colour that asserts an unsourced connection is still asserting an
+rolled in as support and color elsewhere. The question itself is still worth
+asking — color that asserts an unsourced connection is still asserting an
 unsourced connection — and it survives as QX-12, but it no longer decides
 anything structural.
 
@@ -177,7 +177,7 @@ becomes the only available option rather than the true one.
 
 **4. The conventions are cheap now and expensive later.** QX-1 calendars, QX-2
 currency conversion, Q06-4 which Verne translation, Q15-4 Japanese
-romanisation and name order, Q17-5 Nez Perce naming, Q18-4 Balkan and Ottoman
+romanization and name order, Q17-5 Nez Perce naming, Q18-4 Balkan and Ottoman
 place names — plus British versus American spelling, which this file previously
 noted was not numbered and should be. It now is, as **QX-6**. It is triaged
 **A** rather than **C**, because it is the only one of the seven that no source
@@ -239,7 +239,7 @@ Roughly in order, with the slow things started early rather than done early.
 7. **Draft chapter 11**, per `voice-and-shape.md`, to find the voice.
 8. **Draft chapter 07**, to find out whether the voice survives the Coinage Act.
 
-Steps 1 through 4 are mostly mechanical and mostly parallelisable. Step 5 is the
+Steps 1 through 4 are mostly mechanical and mostly parallelizable. Step 5 is the
 one that could change the book's architecture, which is why it should happen
 before there is an architecture made of finished prose.
 

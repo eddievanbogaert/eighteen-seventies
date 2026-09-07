@@ -33,7 +33,7 @@ _Framing only, never evidence. Empty._
   the chapter follows and say why in `/notes`.
 - Casualty counts vary by city and by source, and the press reporting was
   partisan on both sides. Figures carry provenance or stay out.
-- There was no central organisation to speak for the strikers, which means the
+- There was no central organization to speak for the strikers, which means the
   surviving record is disproportionately the record of those who put the strike
   down. Say so in the text rather than inheriting the bias.
 - Open questions: `/research/QUESTIONS.md` → Q16.

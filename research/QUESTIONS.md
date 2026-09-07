@@ -33,22 +33,28 @@ a source is content" note in `AGENTS.md`.
   the introduction's periodization argument — that the years to 1877 are filed
   as late Reconstruction and the rest absorbed into a thirty-year Gilded Age —
   and that argument needs the labels' history, not an assertion about them.
-- **QX-6** **Authorial, not research.** British or American spelling and
-  punctuation, decided once and recorded with the date of the decision. Raised
-  in `notes/voice-and-shape.md`, which notes that the repository is currently
-  written in American forms throughout, that ten of the twenty chapters are
-  American in subject, and that a US trade publisher will impose US style at
-  copyedit regardless. It sits with the authorial questions rather than the
-  conventions because it is the only one of the six that no source can settle:
-  calendars, currency, romanisation, place names, and Nez Perce naming all
-  depend on what the sources for those chapters do, and this depends on nobody
-  but the author and eventually a publisher. Cheap now; a manual sweep of the
-  whole manuscript later.
+- **QX-6** **Authorial, not research. Answered: American spelling** (D-7 in
+  `notes/thesis.md`). Raised in `notes/voice-and-shape.md`, which noted that
+  the repository was then written in British forms, that ten of the twenty
+  chapters are American in subject, and that a US trade publisher would impose
+  US style at copyedit regardless. It sat with the authorial questions rather
+  than the conventions because it was the only one of the six that no source
+  could settle: calendars, currency, romanization, place names, and Nez Perce
+  naming all depend on what the sources for those chapters do, and this
+  depended on nobody but the author and eventually a publisher.
+
+  Applied across the repository in one pass, which is why the answer is
+  recorded here instead of the question being deleted — a convention that is
+  decided but not findable gets re-decided. Two carve-outs, and they are
+  permanent rather than pending: quoted matter and titles of works keep the
+  spelling they were published with, and period usage quoted as period usage
+  keeps its own. A nineteenth-century British source silently Americanized
+  inside quotation marks is a misquotation, which rule 1 covers.
 
 ### The Impressionists, unplaced
 
 The first Impressionist exhibition was a tentpole and is no longer a chapter.
-The author's ruling is that the material is rolled in as support and colour
+The author's ruling is that the material is rolled in as support and color
 elsewhere, so these questions survive their chapter and have no home yet. They
 sit here rather than in a chapter block because until QX-7 is answered there is
 no chapter block to sit in.
@@ -58,7 +64,7 @@ of the four threads the chapter belonged to, which the ruling answers: none, it
 is not a chapter. The other made a thesis-critical test of whether a sourced
 link existed between this painting and the machines thread, and that test
 mattered only while the chapter's existence depended on the answer. The
-underlying question survives as QX-12, demoted, because material used as colour
+underlying question survives as QX-12, demoted, because material used as color
 still may not assert an unsourced connection.
 
 - **QX-7** **Authorial, not research.** Which chapter absorbs this material,
@@ -66,7 +72,7 @@ still may not assert an unsourced connection.
   introduction's argument about how things got named, or be spread thin across
   several chapters. The answer governs how much of the rest of this block needs
   answering, and nothing here can be drafted until it exists.
-- **QX-8** What was the exhibiting society's actual name, who organised it,
+- **QX-8** What was the exhibiting society's actual name, who organized it,
   and how many artists showed?
 - **QX-9** What were the dates and the venue, and how did the show relate
   institutionally to the official Salon?
@@ -78,8 +84,8 @@ still may not assert an unsourced connection.
   say about the dealer market then forming?
 - **QX-12** What technical and industrial changes in materials, optics, or
   transport are documented as bearing on this painting? No longer a test of
-  whether a chapter exists, but still the difference between colour that is
-  sourced and colour that is assumed.
+  whether a chapter exists, but still the difference between color that is
+  sourced and color that is assumed.
 
 ### The middle of the decade
 
@@ -112,7 +118,7 @@ still may not assert an unsourced connection.
   first edition, and how does the second edition differ?
 - **Q02-2** What does the book actually argue about human races, in its own
   words? Transcribe the relevant passages into `/primary` before
-  characterising them.
+  characterizing them.
 - **Q02-3** How did Darwin's stated views on race and slavery relate to the
   uses made of his work by others in the 1870s? Desmond and Moore argue for a
   specific relationship; what is the counter-position?
@@ -168,7 +174,7 @@ still may not assert an unsourced connection.
 
 ## Q06 — Verne, Around the World in Eighty Days
 
-- **Q06-1** What are the serialisation dates and venue, and the book
+- **Q06-1** What are the serialization dates and venue, and the book
   publication date and publisher?
 - **Q06-2** Was the eighty-day itinerary achievable in fact at the date of
   writing, and what source establishes the real timetables?
@@ -186,7 +192,7 @@ still may not assert an unsourced connection.
   text into `/primary`.
 - **Q07-2** What is the legislative history: who drafted the silver
   provisions, what did the debates address, and how long did passage take?
-- **Q07-3** On the "Crime of '73" question — was the demonetisation understood
+- **Q07-3** On the "Crime of '73" question — was the demonetization understood
   by the legislators who voted for it? Which historians hold which position,
   and what evidence does each side rest on? This is a rule 4 case and the
   chapter must record the dispute rather than pick.
@@ -210,7 +216,7 @@ still may not assert an unsourced connection.
   act? If comparable restrictions already existed, the chapter's claim changes
   from novelty to consolidation.
 - **Q08-5** Who opposed it at the time, and on what grounds — and were those
-  grounds ones a modern reader would recognise?
+  grounds ones a modern reader would recognize?
 
 ## Q09 — The Colfax Massacre
 
@@ -265,13 +271,13 @@ still may not assert an unsourced connection.
 - **Q12-1** When did the laboratory open, and what does that date mean — land
   purchase, construction, occupancy, or first work done?
 - **Q12-2** How was it staffed and financed, and who besides Edison did the
-  work? The names matter for the argument about industrialised invention.
+  work? The names matter for the argument about industrialized invention.
 - **Q12-3** What are the documented dates and claims for the phonograph, and
   what did the first machine actually do?
 - **Q12-4** On the lamp: what did Edison's work in 1878-79 consist of, what
   were the rival claims, and how does the current scholarship apportion
   credit? Contested, so record the contest.
-- **Q12-5** Is the "invention factory" characterisation contemporary or
+- **Q12-5** Is the "invention factory" characterization contemporary or
   retrospective? A source must date the framing.
 - **Q12-6** How should this chapter interleave with chapters 13 through 20,
   given that it spans them? A structural question for `/notes/chapter-order.md`.
@@ -319,7 +325,7 @@ still may not assert an unsourced connection.
   does the best source say about why the outcome went as it did?
 - **Q15-3** What preceding reforms bore on samurai status and income, and on
   what dates? The connection to the empire thread depends on these specifics.
-- **Q15-4** What romanisation and name-order convention will the book use, and
+- **Q15-4** What romanization and name-order convention will the book use, and
   what do the chosen sources use?
 - **Q15-5** Which English-language sources rest on Japanese-language
   scholarship and which do not? Relevant to how much weight each can carry.

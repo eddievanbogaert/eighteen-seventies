@@ -23,7 +23,7 @@ provenance is not usable as evidence.
 
 ## Rules for the text itself
 
-- Transcribe exactly, including spelling, capitalisation, and punctuation as
+- Transcribe exactly, including spelling, capitalization, and punctuation as
   they appear. Period spelling is not an error to be corrected.
 - Mark every omission and every insertion visibly, so a later reader can see
   where the transcription departs from the page.

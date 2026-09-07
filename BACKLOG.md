@@ -85,8 +85,8 @@ this book" and "decide this" produces the illusion of progress.
 - [x] **B-06 — Number the spelling question.** `voice-and-shape.md` raises
       British versus American forms and `question-triage.md` says outright that
       it "is not yet a numbered question and should be". Ten of twenty
-      chapters are American in subject and the repository is currently written
-      in British forms throughout.
+      chapters are American in subject and the repository was at that point
+      written in British forms throughout. Since answered by D-7 — see B-13.
       **Done when:** it exists as **QX-6**, is placed in the triage table, and
       every count that moves has moved with it.
 
@@ -119,9 +119,8 @@ this book" and "decide this" produces the illusion of progress.
       `drafting` → `drafted` → `verified` (every assertion carries a
       `verified: "y"` row).
       **Done when:** the ladder is documented and `check.py` accepts only those
-      values — done — **and B-14 has confirmed it.** Still open, because this is
-      an agent proposal about the author's process: the vocabulary is agent
-      work, the adoption is not.
+      values — done — **and B-14 has confirmed it** — done, D-8. The vocabulary
+      was agent work and the adoption was not, which is why it waited.
 
 ## Decided — author
 
@@ -131,7 +130,7 @@ relitigated by the next session. The rulings themselves are recorded as D-4
 through D-10 in `thesis.md`.
 
 - [x] **B-09 — does the Impressionist chapter exist, and in which thread?**
-      Decided: it does not. The material is rolled in as support and colour
+      Decided: it does not. The material is rolled in as support and color
       elsewhere. The chapter file is deleted, chapters 12 through 21 are
       renumbered 11 through 20, and the exhibition's surviving questions moved
       to the cross-cutting block as QX-8 through QX-12 with QX-7 added to ask
@@ -174,7 +173,7 @@ through D-10 in `thesis.md`.
       "emphasis, structure" took its place. Second, an anti-loophole
       paragraph: if a sentence could be checked against a source it is an
       assertion of fact however it is dressed. Without that, the section is a
-      licence to relabel claims as interpretation, which would make it a net
+      license to relabel claims as interpretation, which would make it a net
       loss over having no section at all.
 
 - [x] **B-13 — spelling convention (QX-6).** Decided: American forms. Swept

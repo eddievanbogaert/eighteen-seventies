@@ -29,7 +29,7 @@ _Framing only, never evidence. Empty._
 ## Drafting blockers
 
 - Verify `date_range` against a source and log the row in `/research/CLAIMS.md`.
-- Fix a romanisation standard and a name-order convention for Japanese names,
+- Fix a romanization standard and a name-order convention for Japanese names,
   record it in `/notes`, and apply it consistently across the book.
 - Almost everything popularly known about this rebellion in English arrives
   through later legend and film. Nothing enters the draft on that basis.

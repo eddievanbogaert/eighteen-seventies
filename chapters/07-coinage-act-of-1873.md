@@ -34,5 +34,5 @@ _Framing only, never evidence. Empty._
   disagreement; do not pick a side silently. See the disagreement rule in
   `AGENTS.md`.
 - The statutory text belongs in `/primary`, transcribed, before the draft
-  characterises what the act did.
+  characterizes what the act did.
 - Open questions: `/research/QUESTIONS.md` → Q07.

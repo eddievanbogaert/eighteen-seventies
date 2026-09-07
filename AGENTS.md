@@ -36,7 +36,7 @@ goal; a larger plausible one is the failure mode.
    disagree" with no names attached is not a record of a disagreement.
 
 5. **Prefer primary text pasted into `/primary` over paraphrase from recall.**
-   If a primary source is quoted or characterised, transcribe the passage into
+   If a primary source is quoted or characterized, transcribe the passage into
    `/primary` first, with its provenance, and work from the transcription.
    Paraphrase drifts, and drift in a paraphrase is invisible.
 

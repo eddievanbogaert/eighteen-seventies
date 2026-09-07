@@ -6,7 +6,7 @@ never in `/chapters` (rule 3 in `AGENTS.md`).
 What belongs here:
 
 - Structural and editorial decisions, and the reasoning behind them.
-- Conventions the whole book must apply consistently: romanisation, name
+- Conventions the whole book must apply consistently: romanization, name
   order, place names, calendars, currency.
 - Records of historiographical disagreement, worked out at length before the
   chapter compresses them.

@@ -682,7 +682,7 @@ def check_cross_references(question_ids, chapters, report: Report):
 
     The notes files, the drafting blockers, the manifest and the acquisition
     worksheet all point at questions by id. A reference to a question that was
-    renumbered or closed is silent rot: it reads as rigour and leads nowhere.
+    renumbered or closed is silent rot: it reads as rigor and leads nowhere.
     """
     known = set(question_ids)
     for path in sorted(ROOT.rglob("*.md")):

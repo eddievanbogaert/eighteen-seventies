@@ -122,8 +122,8 @@ Filling these is research work, not recall work:
   industrial change, because that connection is currently an assumption. The
   four entries above are art history and social history; none of them was
   chosen to answer that question. This mattered more when the exhibition was a
-  chapter that needed a thread. Now that the material is unplaced colour it
-  matters differently: colour is where an unsourced connection is least likely
+  chapter that needed a thread. Now that the material is unplaced color it
+  matters differently: color is where an unsourced connection is least likely
   to be challenged. See QX-12.
 - **Chapter 13** has no Indian-authored scholarship on the famine beyond one
   retrospective primary source. See Q13-6.

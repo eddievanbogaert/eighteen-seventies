@@ -33,8 +33,8 @@ _Framing only, never evidence. Empty._
   are different meetings in the same city with similar shorthand names, and
   the confusion is common enough to be a real hazard.
 - The treaty that came out of it, and the earlier treaty it replaced, are both
-  primary texts. Get both into `/primary` before characterising either.
+  primary texts. Get both into `/primary` before characterizing either.
 - Place names in this chapter have several forms each, depending on whose
-  claim you honour. Fix a convention, record it in `/notes`, and note that the
+  claim you honor. Fix a convention, record it in `/notes`, and note that the
   choice is not neutral.
 - Open questions: `/research/QUESTIONS.md` → Q18.

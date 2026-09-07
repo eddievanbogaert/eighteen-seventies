@@ -50,7 +50,7 @@ In practice, for any chapter:
 2. **Get the sources.** Find them in `/sources/MANIFEST.md`, acquire them,
    read them, and flip `acquired` and `read` to `"y"` — honestly. A source
    marked read that was skimmed is worse than one marked unread.
-3. **Transcribe the primary text.** Anything to be quoted or characterised
+3. **Transcribe the primary text.** Anything to be quoted or characterized
    closely goes into `/primary` first, with provenance.
 4. **Log the claims.** Each specific assertion becomes a row in
    `/research/CLAIMS.md` with its source key, marked `verified: y` only once
@@ -61,6 +61,9 @@ In practice, for any chapter:
    written into the chapter as disagreements. Gaps in the sources get stated
    plainly. Both are content, not embarrassments.
 7. **Run the checks.** `python3 tools/check.py`, which needs nothing installed.
+   This is required rather than encouraged — `AGENTS.md` step 8 — and a failing
+   run means one of the binding rules is being broken, not that a file is
+   formatted oddly.
 
 ## What the checks do
 
@@ -125,9 +128,9 @@ it, so closing a question is a two-file edit.
 | `drafted` | Prose is complete. Says nothing about whether it is sourced. |
 | `verified` | Every assertion in the chapter carries a `verified: "y"` row. |
 
-That ladder is an agent proposal awaiting the author's confirmation — see
-`BACKLOG.md` B-08 and B-14. `check.py` accepts only these five values, so
-changing the vocabulary means changing one list in one file.
+The ladder is ratified — D-8 in `notes/thesis.md`, via `BACKLOG.md` B-08 and
+B-14. `check.py` accepts only these five values, so changing the vocabulary
+means changing one list in one file.
 
 ## Current state
 

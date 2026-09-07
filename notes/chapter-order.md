@@ -9,7 +9,7 @@ The dates in each chapter's frontmatter carry `date_range_verified: "n"` for
 that reason. Sorting files by them is fine. Trusting them is not, and
 restating them in prose is a rule 1 violation. Verifying the sequence is
 prerequisite work for the whole book, not a detail: if two chapters are in the
-wrong order, an argument about influence between them can be exactly backwards.
+wrong order, an argument about influence between them can be exactly backward.
 
 ## Current sequence
 
@@ -117,7 +117,7 @@ Each of these has to be decided once and applied everywhere. All are recorded
 as questions rather than settled here, because each depends on what the
 sources for the relevant chapters actually do.
 
-- Japanese romanisation and name order — chapter 15, Q15-4.
+- Japanese romanization and name order — chapter 15, Q15-4.
 - Place names in the Balkans and the Ottoman territories — chapter 18, Q18-4.
 - Nez Perce naming, including the people's own name and Joseph's — chapter 17,
   Q17-5.

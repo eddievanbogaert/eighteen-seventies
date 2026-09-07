@@ -59,7 +59,7 @@ under rule 1 will feel that every clause needs a row and will write around the
 ones that can't have one. That instinct produces a safe, dead book. I'd suggest
 a line in `AGENTS.md` distinguishing **assertions of fact**, which need rows,
 from **argument, sequence, and interpretation**, which need only to be
-recognisable as the author's reasoning rather than disguised as findings. I
+recognizable as the author's reasoning rather than disguised as findings. I
 haven't added it — amending the binding rules is the author's call.
 
 The related tic to watch for is the hedge-stack: *it seems likely that,
@@ -265,14 +265,23 @@ legible, which is what the familiarity is familiarity with.
 
 Cheap now, expensive later.
 
-**Spelling.** The repository is currently written in British forms —
-*characterised, romanisation, recognise, serialisation, demonetisation*. Ten of
-the twenty chapters are American in subject, and a US trade publisher will
-impose US style at copyedit regardless. Worth deciding once, now, rather than
-having it done to the manuscript later. (These notes match the existing British
-convention on purpose; if it flips, they flip.)
+**Spelling. Settled: American forms** (D-7, QX-6). The repository was written
+in British forms by the scaffolding passes and has been swept. Ten of the
+twenty chapters are American in subject, and a US trade publisher would impose
+US style at copyedit regardless, so this was a decision about who did the work
+and when rather than about house style.
 
-**The other four** — calendars, currency conversion, Japanese romanisation and
+The sweep was mechanical and its one interesting property is worth recording:
+this paragraph used to illustrate the point with a list of British spellings,
+and a search-and-replace does not know the difference between a word being used
+and a word being exhibited. It rewrote the examples and left the sentence
+claiming the opposite of what it showed. Nothing else in the repository quotes
+a spelling, but the manuscript eventually will — period usage, titles, quoted
+matter — and those are the carve-outs recorded in QX-6. A convention sweep run
+over 100,000 words of quotation without them would introduce silent
+misquotations, which is a rule 1 problem rather than a style one.
+
+**The other four** — calendars, currency conversion, Japanese romanization and
 name order, Balkan place names, Nez Perce naming — are already logged as QX-1,
 QX-2, Q15-4, Q18-4, Q17-5, and are correctly treated as things the sources
 should decide rather than the author. See `question-triage.md`; they are late
@@ -307,7 +316,7 @@ it doesn't, better to learn that in month two than in month fourteen.
 carry their own moral and narrative weight; they would come easily and would
 teach nothing about the problem the rest of the book actually has. They are
 also the two chapters where getting it wrong costs the most, and they deserve a
-practised writer rather than a searching one. Chapter 17's surrender speech in
+practiced writer rather than a searching one. Chapter 17's surrender speech in
 particular should be attempted late, after the transmission-history discipline
 has been rehearsed somewhere cheaper.
 

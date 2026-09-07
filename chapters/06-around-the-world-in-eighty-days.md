@@ -29,7 +29,7 @@ _Framing only, never evidence. Empty._
 ## Drafting blockers
 
 - Verify `date_range` against a source and log the row in `/research/CLAIMS.md`.
-  Serialisation and book publication are different events with different dates.
+  Serialization and book publication are different events with different dates.
 - Decide whether to quote the French text, a period English translation, or a
   modern one, and record the choice. Translations differ; a quotation is only
   as good as its stated edition.
