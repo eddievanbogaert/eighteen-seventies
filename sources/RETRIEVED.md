@@ -48,4 +48,4 @@ a reader to find the thing.
 
 | source_key | url | retrieved | form | holding | notes |
 | --- | --- | --- | --- | --- | --- |
-| _(none yet)_ | | | | | |
+| butler-erewhon | https://www.gutenberg.org/cache/epub/1906/pg1906.txt | 2026-11-13 | transcription | Project Gutenberg (eBook #1906) | Full text of Erewhon for Q04 transcription. sha256 `9b034d0990931fa4…` cached at `sources/cache/butler-erewhon/9b034d0990931fa4.txt`. |

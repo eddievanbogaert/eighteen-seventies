@@ -23,6 +23,24 @@ Stage 5 is not something an agent can perform. An agent can reach `drafted`
 and no further; `verified` is the author's signature, and the distinction is
 the point of the whole apparatus.
 
+## Which archives actually serve us
+
+Tested, not assumed. Re-test before trusting a row; sites change their minds.
+
+| host | state | notes |
+| --- | --- | --- |
+| `www.gutenberg.org` | **works** | Full plain text, no restrictions. Best route for out-of-copyright books. |
+| `archive.org` | **works** | Search API and item downloads. |
+| `www.govinfo.gov` | **works** | US Statutes at Large and federal documents, as structured JSON. |
+| `fraser.stlouisfed.org` | **works** | Treasury and monetary documents — the money thread's spine. |
+| `patents.google.com` | **partial** | Serves `WebFetch`; returns 503 to an honestly-identified retrieval. Use `WebFetch` for facts; find another copy for transcription. |
+| `www.loc.gov` | **blocked** | 403 to both. Needs another copy or a direct approach to the Library. |
+
+**A site that declines is a site that has declined.** Disguising the request
+with a browser user agent is circumvention, it was tried once here and
+correctly refused by the sandbox, and it does not happen again. The answer to a
+403 is another copy, another institution, or an email — never a costume.
+
 ## Source rules for this phase
 
 Everything that follows is on top of `AGENTS.md`, not instead of it.
@@ -54,7 +72,7 @@ Everything that follows is on top of `AGENTS.md`, not instead of it.
 | **Primary transcriptions** | 0 |
 | **Integrity check** | green — `python3 tools/check.py`, 14 checks; `tools/test_check.py`, 30 cases |
 | **Manuscript length** | 626 words across 21 files, all of it scaffolding |
-| **Blocked on** | network access to the source archives — see below |
+| **Blocked on** | nothing — retrieval works as of session 2 |
 
 ## Working order
 
