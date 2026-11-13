@@ -53,6 +53,8 @@ poison this project.
 | bruce-1877-year-of-violence | Robert V. Bruce | 1877: Year of Violence | 1959 | monograph | "n" | "n" | money; ch 17 — older narrative account |
 | bruce-bell | Robert V. Bruce | Bell: Alexander Graham Bell and the Conquest of Solitude | 1973 | monograph | "n" | "n" | machines; ch 12 |
 | butler-erewhon | Samuel Butler | Erewhon: or, Over the Range | 1872 | primary | "n" | "n" | machines; ch 04 — establish which edition before quoting, see Q04-1 |
+| calandro-grant-panic-1873 | Joseph Calandro | Ulysses S. Grant and the Panic of 1873, Quarterly Journal of Austrian Economics 28:1 | 2025 | article | "y" | "y" | money; ch 10, 21 — a position, not a neutral account: argues Grant's responses were right as measured against Austrian prescriptions. Valuable as a finding aid; its primary figures come via Rothbard and may not be cited from it. See notes/historiography-panic-1873.md. |
+| grant-papers | John Y. Simon (ed.) | The Papers of Ulysses S. Grant | 1967 | primary | "n" | "n" | money; ch 10, 21 — scholarly edition. Vol. 25 wanted: veto message and monetary remarks of 1874. |
 | clark-iron-kingdom | Christopher Clark | Iron Kingdom: The Rise and Downfall of Prussia, 1600-1947 | 2006 | monograph | "n" | "n" | empire, money; ch 01 |
 | clark-painting-of-modern-life | T. J. Clark | The Painting of Modern Life: Paris in the Art of Manet and His Followers | 1984 | monograph | "n" | "n" | ch 11 — argues the social content of the painting |
 | coinage-act-1873-text | United States Congress | Coinage Act of 1873, statute text | 1873 | primary | "n" | "n" | money; ch 07 — transcribe silver provisions into /primary |

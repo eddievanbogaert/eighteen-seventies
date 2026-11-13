@@ -184,6 +184,24 @@ for the machines thread's one deliberate present-day passage, and with D-3
 settled nothing else competes for the slot. Spending it here means not spending
 it on Menlo Park or the telephone.
 
+## D-4 — the money thread's present-day allowance. Open.
+
+The convention above allows one deliberate present-day passage per thread. If
+the money thread takes on the 1874 Currency Bill veto and the 1875 Specie
+Resumption Act, it becomes the longest thread in the book, and one passage
+across six or seven chapters may be tighter than was intended when the rule
+was written for a five-chapter thread.
+
+Raised rather than decided. The agent held a general release from this file
+(see `EXCEPTIONS.md` E-2) and declined to use it here, on the ground that
+proportion between threads is an authorial judgement and that the money thread
+is precisely where the book would date fastest if the budget slipped.
+
+The obvious candidate for whatever the thread is allowed is the Panic of 1873
+against 2008. It is the strongest parallel available to the book and also the
+most overused in the surrounding literature, which argues for spending it once,
+deliberately, and well.
+
 ## Consequences not yet acted on
 
 All of the reconciliations previously listed here have been made:

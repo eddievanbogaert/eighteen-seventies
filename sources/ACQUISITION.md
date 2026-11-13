@@ -1,6 +1,6 @@
 # ACQUISITION
 
-How all 80 sources in `MANIFEST.md` are meant to arrive, and in what order.
+How all 82 sources in `MANIFEST.md` are meant to arrive, and in what order.
 
 The manifest records what the book needs and says nothing about how any of it
 is obtained, so the first real research session would otherwise begin with an
@@ -171,6 +171,10 @@ Provenance for each is in `sources/RETRIEVED.md`.
 - `bell-notebook-1875-1876` — page images from the Library of Congress
   digitisation, retrieved by the author; loc.gov returns 403 to this session.
   Read in part: notebook pp. 38-45.
+- `calandro-grant-panic-1873` — open-access article, retrieved from the
+  journal's own site.
+- `grant-papers` — the Simon edition. Vol. 25 wanted; not yet sought. A
+  library copy or a digitised volume, route not yet determined.
 - `cong-globe-42-3` — page images from congress.gov, which serves the JPEGs
   to a script but 403s the HTML. The index volume is addressed as
   `llcg/108/{block}/{seq:04d}r{seq:03d}.jpeg`; the debates volume is not yet

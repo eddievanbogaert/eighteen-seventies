@@ -89,6 +89,35 @@ it needs an authorial decision: assign it a home thread, or make it an
 explicit interlude outside the four. Machines is the obvious guess and the
 guess has not been made. See Q11-1.
 
+## The 1874-75 hole, and what may fill it
+
+Recorded 2026-11-13. The sequence has four tentpoles in 1873, one in 1874,
+none in 1875 and four in 1876, which leaves the middle of the decade empty on
+the book's own money thread.
+
+Two federal monetary events in those years surfaced from
+`notes/historiography-panic-1873.md`, both unverified and both to be checked
+against the statutes and the record rather than against the article that
+named them:
+
+- **The Currency or Inflation Bill, April 1874**, passed by both houses and
+  vetoed by Grant.
+- **The Specie Resumption Act, January 1875**, the statute that mandated the
+  resumption chapter 21 is about.
+
+The second is the more urgent, because it is not a candidate for a new chapter
+so much as a hole in an existing one. Chapter 21 is dated `1879-01` and treats
+the day resumption took effect. The act requiring it is four years earlier and
+appears nowhere in the chapter list. Q21-1 asks what act mandated resumption
+and when it passed, and the chapter as currently scoped could not answer that
+within its own date range.
+
+Two options, for the author. Open chapter 21's span to 1875-1879, so it covers
+the act and the day. Or give the act its own chapter in 1875, which would fill
+the chronological hole and give the money thread an event in the empty year.
+The second is more work and a better book, if the 1874 veto can carry a
+chapter alongside it.
+
 ## Conventions still to fix
 
 Each of these has to be decided once and applied everywhere. All are recorded

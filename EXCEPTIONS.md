@@ -57,3 +57,43 @@ call to make explicitly, and the right way to do it is to change the rule in
 `AGENTS.md` in the open rather than to soften the checker.
 
 **Expiry.** None set. The exception is tied to the branch, not to a date.
+
+---
+
+## E-2 — Release from `notes/thesis.md`, at the agent's discretion
+
+**Granted:** 2026-11-13, by the author, in session: released from the
+constraints of `thesis.md` "as you see fit."
+**Scope:** `claude/book-draft`.
+
+**Largely unspent, deliberately.** The constraints in `thesis.md` are doing
+work, and the discretion is recorded here rather than exercised, so that a
+later reader does not find the rules quietly gone and wonder when that
+happened.
+
+- **D-1, D-2, D-3a stand.** "Race and citizenship", "machines", and no
+  biographical presence are the author's settled decisions on substance. A
+  release from the file is not a reason to reopen them, and an agent
+  reversing an author's considered calls because it was handed latitude would
+  be a misreading of what latitude is for.
+- **The curricula constraint stands.** It excludes claims that cannot be
+  sourced. That is rule 2 wearing a different hat and is not really
+  `thesis.md`'s to waive.
+- **The operating-system metaphor stays at one use.** Craft, and cheap to
+  keep.
+- **The presentism budget stands, and the release made the case for it
+  stronger rather than weaker.** The article that arrived in the same message
+  opens its section on the 1874 Currency Bill not in 1874 but in 2007-08, and
+  runs the parallel as argument rather than as framing. It is a published,
+  peer-reviewed demonstration of the failure the rule prevents, in a field
+  adjacent to this book's. A constraint is most worth keeping at the moment
+  it starts to bind, and this is that moment: the money thread is where the
+  present-day pull is strongest and where the book would date fastest.
+
+**One question returned to the author rather than decided.** `thesis.md`
+allows one deliberate present-day passage per thread. If the money thread
+grows to include the 1874 veto and the 1875 Resumption Act, it may run to
+seven chapters, and a single passage across all of them may be tighter than
+intended. That is an authorial call about proportion, not a constraint an
+agent should relax on its own initiative while holding the latitude to do so.
+Raised in `notes/thesis.md`.

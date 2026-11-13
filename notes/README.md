@@ -24,6 +24,9 @@ which is the point of having it.
 - `PROGRESS.md` — the resume file: how a chapter gets made, the source rules
   for the drafting phase, current state, and a session log. A session picking
   this project up should read it first.
+- `historiography-panic-1873.md` — notes on Calandro's article on Grant and
+  the panic: what it argues, what it is good for as a finding aid, and what
+  may not be taken from it. Records the 1874-75 structural finding.
 - `pending-provenance.md` — material received but not yet usable, because
   where it came from is unknown. Nothing listed there may be cited.
 - `thesis.md` — the working thesis, what it stopped claiming and why, the
