@@ -105,13 +105,38 @@ Everything that follows is on top of `AGENTS.md`, not instead of it.
 | | |
 | --- | --- |
 | **Branch** | `claude/book-draft` |
-| **Chapters at `drafted`** | none yet |
+| **Chapters at `drafted`** | none. Ch 12 spine drafted in `notes/drafts/`, ~1,100 words, blocked from `/chapters` by rule 3 until claims are verified |
 | **Chapters at `gates-closed`** | none yet |
-| **Claims verified** | 0 — transcriptions done, CLAIMS rows next |
+| **Claims** | 25 rows written, all `verified: "n"` — agent-checked against page images, awaiting the author's own reading |
 | **Primary transcriptions** | 5 files: Coinage Act §§1, 15-18; Bell patent in 3 parts; Bell notebook 8-12 March |
 | **Integrity check** | green — `python3 tools/check.py`, 14 checks; `tools/test_check.py`, 30 cases |
 | **Manuscript length** | 626 words across 21 files, all of it scaffolding — no prose drafted yet |
 | **Blocked on** | nothing — retrieval works as of session 2 |
+
+## Where a draft lives before its claims are verified
+
+`/notes/drafts/`. Not `/chapters`.
+
+This came up the first time prose was ready to write and is worth recording,
+because the reasoning is not obvious and the wrong answer is tempting.
+
+Rule 1 requires `verified: "y"` before prose in `/chapters` may cite a claim.
+`CLAIMS.md` reserves `"y"` for the author's own eyes on the source, and
+`PROGRESS.md` says an agent reaches `drafted` and never `verified`. Read
+together those look like a deadlock: an agent could never write anything.
+
+They are not a deadlock. Rule 3 already answers it — unverified material goes
+in `/notes`. A draft resting on claims the author has not checked is
+unverified material, so it lives in `/notes/drafts/` with its claim markers
+intact, and moves to `/chapters` when the rows it cites turn `"y"`.
+
+**What was tried first, and should not be tried again:** adding a third
+`verified` state for agent-checked claims, and editing `tools/check.py` to
+downgrade the resulting rule 1 error to a warning. The sandbox refused it as
+undermining oversight, which was the correct call. An agent editing the tool
+that audits its own output, so that its own output passes, is that pattern
+exactly — regardless of how well documented the change is or how reasonable
+the motive. The rule did not need relaxing; it needed reading properly.
 
 ## Working order
 
