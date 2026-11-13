@@ -1,6 +1,6 @@
 # ACQUISITION
 
-How all 79 sources in `MANIFEST.md` are meant to arrive, and in what order.
+How all 80 sources in `MANIFEST.md` are meant to arrive, and in what order.
 
 The manifest records what the book needs and says nothing about how any of it
 is obtained, so the first real research session would otherwise begin with an
@@ -171,5 +171,9 @@ Provenance for each is in `sources/RETRIEVED.md`.
 - `bell-notebook-1875-1876` — page images from the Library of Congress
   digitisation, retrieved by the author; loc.gov returns 403 to this session.
   Read in part: notebook pp. 38-45.
+- `cong-globe-42-3` — page images from congress.gov, which serves the JPEGs
+  to a script but 403s the HTML. The index volume is addressed as
+  `llcg/108/{block}/{seq:04d}r{seq:03d}.jpeg`; the debates volume is not yet
+  located.
 - `us-statutes-at-large-v17` — the Library of Congress scan of the 1965
   photoreproduction, supplied by the author via Google Drive. Read in part.

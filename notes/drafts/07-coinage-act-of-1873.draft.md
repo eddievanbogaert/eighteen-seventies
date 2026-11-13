@@ -107,10 +107,21 @@ Whether the men who voted understood it is Q07-3, and it stays open here.
 
 Set down plainly, because the gaps are the honest part of the draft.
 
-The legislative history is unread. Who drafted the silver provisions, what the
-debates addressed, how long passage took — Q07-2, and it requires the
-Congressional Globe for the third session of the Forty-Second Congress, which
-has not been retrieved.
+The legislative history is half-read, which is worse than unread because it
+looks like progress. The Globe's own index gives the skeleton: the measure was
+a House bill, H. R. No. 2934 [C07-015]; on the Senate side it was reported at
+page 203, amendments reported at 363, read at 661, discussed at 668, and
+passed with amendment at 674 [C07-016]; it went to conference, and the
+conference report was concurred in by both chambers before enrolment
+[C07-017].
+
+That is a sequence, not a debate. An index records that a thing was discussed
+and on which page. It does not record what was said, and the question Q07-2
+actually asks — who drafted the silver provisions, and what the chamber
+addressed — is answerable only from the pages themselves, which have not been
+read. The single word "discussed" against page 668, with passage six pages
+later, is at present a fact about the index's conventions rather than a fact
+about the Senate.
 
 The historiography is unread. Q07-3 is a rule 4 case: the positions must be
 named and attributed, and not one of the works in the manifest that bears on
