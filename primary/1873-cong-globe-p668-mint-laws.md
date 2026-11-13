@@ -18,8 +18,14 @@
   `page_numbers.json` gives leaf 667, which is off by one: leaf 667 carries
   printed 667. Checked against the running head on the page.
 - **Transcribed by:** Claude (assistant editor), 2026-11-13.
-- **Not transcribed:** the rest of p. 668, and the continuation of the mint
-  bill proceedings onto later pages.
+- **Also transcribed below:** printed p. 742, the House proceedings of
+  21 January 1873, from the same collection's part 2
+  (`sim_united-states-congress-congressional-globe_1873_0`, 965 leaves,
+  sha256 `…` recorded in `sources/RETRIEVED.md`). In that part, **leaf =
+  printed page − 668**, checked against the running heads of printed 739, 740
+  and 741.
+- **Not transcribed:** the rest of p. 668 and p. 742, and the continuation of
+  the proceedings onto other pages.
 
 ---
 
@@ -98,3 +104,45 @@ statement about this page and these lines only. Whether silver was raised
 elsewhere in the bill's passage is not established, and the proceedings
 continue past this page. Q07-2 and Q07-3 are not closed by one page, and the
 absence of a thing on a page is weaker evidence than its presence.
+
+---
+
+## Printed p. 742 — the House, 21 January 1873
+
+Under the running head "THE CONGRESSIONAL GLOBE. January 21," in the
+fourth column.
+
+> HOUSE OF REPRESENTATIVES.
+>
+> TUESDAY, *January* 21, 1873.
+>
+> The House met at twelve o'clock m. Prayer by the Chaplain, Rev. J. G. BUTLER, D. D.
+>
+> The Journal of yesterday was read and approved.
+>
+> MINTS, ASSAY OFFICES, ETC.
+>
+> The SPEAKER. The bill (H. R. No. 2934) revising and amending the laws relative to the mints, assay offices, and coinage of the United States, which was passed by the House at the last session, being a general codification of the laws on that subject, has come back from the Senate with sundry amendments. The gentleman from Massachusetts [Mr. HOOPER] desires that the amendments be printed, a vote of non-concurrence entered, and a committee of conference ordered.
+>
+> Mr. RANDALL. Let us have the amendments printed, so that we may consider them. Then we shall be competent to say whether we will non-concur or not. I object to non-concurring now in bulk. After they are printed we may find some amendments to which we shall be willing to accede.
+>
+> Mr. L. MYERS. That will be the wiser course.
+>
+> Mr. HOOPER, of Massachusetts. I have no objection to that course.
+>
+> The SPEAKER. The bill with the amendments will be ordered to be printed, if there is no objection.
+>
+> There was no objection, and it was ordered accordingly.
+
+### Observation
+
+**The Speaker characterises the bill from the chair as "a general codification
+of the laws on that subject."** That is how the measure was described to the
+House on the day it came back from the Senate. Mr. Hooper of Massachusetts
+appears here as the member managing it, as he does in the Senate proceedings
+by reference.
+
+Randall's objection is procedural and is the only resistance recorded on this
+page: he declines to non-concur "in bulk" before the amendments are printed,
+and wants to see them first. He does not say what in them concerns him, and
+nothing on this page says either.

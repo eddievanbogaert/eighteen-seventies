@@ -176,10 +176,26 @@ Provenance for each is in `sources/RETRIEVED.md`.
 - `grant-papers` — vol. 25 obtained, supplied by the author from the
   Mississippi State University digitisation.
 - `us-revised-statutes-1874` — obtained, supplied by the author.
-- `cong-globe-42-3` — page images from congress.gov, which serves the JPEGs
-  to a script but 403s the HTML. The index volume is addressed as
-  `llcg/108/{block}/{seq:04d}r{seq:03d}.jpeg`; the debates volume is not yet
-  located.
+- `cong-globe-42-3` — in two places, and the distinction matters.
+
+  **Indexes: congress.gov.** It serves JPEGs to a script and 403s every HTML
+  page, so the viewer's own links cannot be read. The address is
+  `congress.gov/cg/ll/llcg/{vol}/{block}/{seq:04d}r{seq:03d}.jpeg`, where
+  **`vol` is zero-padded to three digits** — `044`, not `44`. That padding
+  cost a long detour: an unpadded sweep of volumes 1-120 found only 107 and
+  108, which are three digits already, and wrongly suggested almost nothing
+  was there. Padded, 43 volumes respond. `block` is the sequence rounded down
+  to a hundred. Every volume reachable this way is an index; the `r` marks
+  roman front matter, page numbers are capped at three digits, and no label
+  form tried reaches an arabic debates page.
+
+  **Debates: the Internet Archive.** The session is there in five parts with
+  page images and OCR, as
+  `sim_united-states-congress-congressional-globe_1873` and `_0`, `_1`, `_2`,
+  `_appendix`. Fetch via `https://archive.org/cors/{id}/{file}`. Part 1 covers
+  printed pp. 2-672 at **leaf = printed page**; part 2 covers pp. 673-1632 at
+  **leaf = printed page - 668**. Both mappings were checked against running
+  heads, because the items' own `page_numbers.json` is off by one.
 - `us-statutes-at-large-v18` — Internet Archive scan. Note: archive.org
   `/download/` redirects to rotating `dn*`/`ia*` storage nodes that the
   session's allowlist cannot track; `https://archive.org/cors/{id}/{file}`
