@@ -107,10 +107,10 @@ Everything that follows is on top of `AGENTS.md`, not instead of it.
 | **Branch** | `claude/book-draft` |
 | **Chapters at `drafted`** | none yet |
 | **Chapters at `gates-closed`** | none yet |
-| **Claims verified** | 0 |
-| **Primary transcriptions** | 0 |
+| **Claims verified** | 0 — transcriptions done, CLAIMS rows next |
+| **Primary transcriptions** | 5 files: Coinage Act §§1, 15-18; Bell patent in 3 parts; Bell notebook 8-12 March |
 | **Integrity check** | green — `python3 tools/check.py`, 14 checks; `tools/test_check.py`, 30 cases |
-| **Manuscript length** | 626 words across 21 files, all of it scaffolding |
+| **Manuscript length** | 626 words across 21 files, all of it scaffolding — no prose drafted yet |
 | **Blocked on** | nothing — retrieval works as of session 2 |
 
 ## Working order

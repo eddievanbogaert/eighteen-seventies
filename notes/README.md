@@ -24,6 +24,8 @@ which is the point of having it.
 - `PROGRESS.md` — the resume file: how a chapter gets made, the source rules
   for the drafting phase, current state, and a session log. A session picking
   this project up should read it first.
+- `pending-provenance.md` — material received but not yet usable, because
+  where it came from is unknown. Nothing listed there may be cited.
 - `thesis.md` — the working thesis, what it stopped claiming and why, the
   conventions that follow from it, and the two open author decisions the thesis
   line raises. Start here; it governs the other two.

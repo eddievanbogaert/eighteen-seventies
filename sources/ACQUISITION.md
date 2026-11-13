@@ -1,6 +1,6 @@
 # ACQUISITION
 
-How all 76 sources in `MANIFEST.md` are meant to arrive, and in what order.
+How all 79 sources in `MANIFEST.md` are meant to arrive, and in what order.
 
 The manifest records what the book needs and says nothing about how any of it
 is obtained, so the first real research session would otherwise begin with an
@@ -158,3 +158,18 @@ are in the manifest. `MANIFEST.md` explains why: article citations need volume
 and page details that cannot be produced from recall, and newspapers need a
 database and a real search. Both are real acquisition work that this file
 cannot yet sequence. See QX-4 and QX-5.
+
+## Already in hand
+
+These three were obtained during drafting rather than through the routes
+below, and are recorded here so the worksheet covers the manifest exactly.
+Provenance for each is in `sources/RETRIEVED.md`.
+
+- `bell-patent-174465` — page images of the printed patent, retrieved by the
+  author from the Google Patents page-image service, which declines an
+  honestly-identified script.
+- `bell-notebook-1875-1876` — page images from the Library of Congress
+  digitisation, retrieved by the author; loc.gov returns 403 to this session.
+  Read in part: notebook pp. 38-45.
+- `us-statutes-at-large-v17` — the Library of Congress scan of the 1965
+  photoreproduction, supplied by the author via Google Drive. Read in part.

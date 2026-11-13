@@ -44,6 +44,9 @@ poison this project.
 | barreyre-gold-and-freedom | Nicolas Barreyre | Gold and Freedom: The Political Economy of Reconstruction | 2015 | monograph | "n" | "n" | money, race; ch 07, 10, 15, 21 — joins the money and race threads directly |
 | bayly-birth-of-modern-world | C. A. Bayly | The Birth of the Modern World, 1780-1914 | 2004 | monograph | "n" | "n" | all four; whole-book frame |
 | beisel-imperiled-innocents | Nicola Beisel | Imperiled Innocents: Anthony Comstock and Family Reproduction in Victorian America | 1997 | monograph | "n" | "n" | race; ch 08 |
+| bell-notebook-1875-1876 | Alexander Graham Bell | Notebook by Alexander Graham Bell, from 1875 to 1876 | 1876 | primary | "y" | "y" | machines; ch 12 — LC Manuscript Division, Bell Family Papers. Read in part; locators in /primary. Rights restriction on unpublished Bell family writings, unresolved. |
+| bell-patent-174465 | Alexander Graham Bell | Improvement in Telegraphy, Letters Patent No. 174,465 | 1876 | primary | "y" | "y" | machines; ch 12 — page images read in full; locators in /primary. |
+| us-statutes-at-large-v17 | United States Congress | The Statutes at Large ... from March 1871 to March 1873, Vol. XVII | 1873 | primary | "y" | "n" | money; ch 05, 07 — Little, Brown 1873; 1965 Dennis & Co. photoreproduction. Locators for the Coinage Act are in /primary. Volume read only in part. |
 | bellesiles-1877 | Michael A. Bellesiles | 1877: America's Year of Living Violently | 2010 | monograph | "n" | "n" | money, race; ch 15, 17, 18 |
 | blaise-time-lord | Clark Blaise | Time Lord: Sir Sandford Fleming and the Creation of Standard Time | 2000 | monograph | "n" | "n" | machines; ch 06 — popular, check against scholarship |
 | browne-darwin-power-of-place | Janet Browne | Charles Darwin: The Power of Place | 2002 | monograph | "n" | "n" | race; ch 02 — covers the Descent years |
