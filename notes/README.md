@@ -21,6 +21,9 @@ which is the point of having it.
 
 ## Current files
 
+- `REVIEW-QUEUE.md` — generated: the claims awaiting the author's own
+  reading, grouped by source and page. Regenerate with
+  `python3 tools/review_queue.py --write`.
 - `PROGRESS.md` — the resume file: how a chapter gets made, the source rules
   for the drafting phase, current state, and a session log. A session picking
   this project up should read it first.

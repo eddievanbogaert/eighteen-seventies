@@ -27,6 +27,50 @@ The sentence continues onto printed p. 427, which has not been read beyond the
 opening clause transcribed in the companion file. The words "a legal tender in
 all payments at" are the last on p. 426.
 
+## §§ 19–21 — deposits of bullion, printed p. 427
+
+These sections sit at the foot of the same page as §§ 15–18 and were missed on
+the first reading, which rendered only the upper part of the page. They were
+found by working backwards from § 3520 of the Revised Statutes, whose marginal
+note cites "Ibid., s. 21, p. 427".
+
+> SEC. 19. That at the option of the owner, gold or silver may be cast into bars of fine metal, or of standard fineness, or unparted, as he may prefer, with a stamp upon the same designating the weight and fineness, and with such devices impressed thereon as may be deemed expedient to prevent fraudulent imitation, and no such bars shall be issued of a less weight than five ounces.
+>
+> [margin: Bars of gold or silver; stamp and devices; limit to weight.]
+
+> SEC. 20. That any owner of gold bullion may deposit the same at any mint, to be formed into coin or bars for his benefit; but it shall be lawful to refuse any deposit of less value than one hundred dollars, or any bullion so base as to be unsuitable for the operations of the mint; and when gold and silver are combined, if either metal be in such small proportion that it cannot be separated advantageously, no allowance shall be made to the depositor for its value.
+>
+> [margin: Deposits of gold bullion for coinage;]
+
+> SEC. 21. That any owner of silver bullion may deposit the same at any mint, to be formed into bars, or into dollars of the weight of four hundred and twenty grains, troy, designated in this act as trade-dollars, and no deposit of silver for other coinage shall be received; but silver bullion contained in gold deposits, and separated therefrom, may be paid for in silver coin, at such valuation as may be, from time to time, established by the director of the mint.
+>
+> [margin: of silver bullion.]
+
+### Why these matter, and a correction they force
+
+An earlier reading of this act recorded that it contains **no sentence**
+stating that the standard silver dollar would cease to be struck, and that the
+effect was achieved by an omission from the list in § 15 together with §§ 17
+and 67. **That was wrong, and it was wrong because the page was read in
+part.**
+
+Section 21 states it affirmatively. A holder of silver bullion may deposit it
+to be made into bars or into trade-dollars, "and no deposit of silver for
+other coinage shall be received." Section 20 leaves the gold depositor
+unrestricted: gold may be deposited "to be formed into coin or bars for his
+benefit."
+
+The asymmetry between gold and silver is therefore in the enacted text twice
+over: once in §§ 14 and 15, in what the coins are and what they are legal
+tender for, and once in §§ 20 and 21, in what the mint will accept across the
+counter. The second is the operative one for free coinage.
+
+What survives of the original observation is narrower and more defensible. The
+act does say it; it says it in a run of sections about bullion deposits,
+between a section on the devices stamped upon coins and a section on the
+weight of bars — not in any place a reader looking for a statement of monetary
+policy would think to look.
+
 ## § 66 — the mints and assay-offices named, printed p. 435
 
 > SEC. 66. That the different mints and assay-offices authorized by this act shall be known as "the mint of the United States at Philadelphia," "the mint of the United States at San Francisco," "the mint of the United States at Carson," "the mint of the United States at Denver," "the United States assay-office at New York," "the United States assay-office at Boise city, Idaho," "the United States assay-office at Charlotte, North Carolina;"

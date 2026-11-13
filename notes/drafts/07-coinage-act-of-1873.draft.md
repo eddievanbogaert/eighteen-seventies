@@ -55,33 +55,41 @@ value for any amount not exceeding five dollars in any one payment [C07-003].
 
 The standard silver dollar is not on the list [C07-002].
 
-It is not abolished. It is not mentioned. There is no sentence in the Coinage
-Act of 1873 declaring that the silver dollar shall cease to be struck, for the
-same reason that there is no sentence declaring the adoption of the gold
-standard. The work is done by what is absent from an enumeration, and by two
-other provisions that close the gaps around it.
+Three sections later the act says why that matters, in terms that leave
+nothing to inference. Section 20 provides that an owner of gold bullion may
+take it to any mint "to be formed into coin or bars for his benefit"
+[C07-024]. Section 21 provides that an owner of silver bullion may take it to
+be formed into bars, or into trade-dollars — "and no deposit of silver for
+other coinage shall be received" [C07-023].
 
-Section 17 provides that no coins of gold, silver or minor coinage shall
-thereafter be issued from the mint other than those of the denominations,
-standards and weights set forth in the act [C07-004]. Section 67, the last,
-gives the act its name — it is the statute itself, not posterity, that calls
-it the Coinage act of eighteen hundred and seventy-three — and repeals all
-other acts and parts of acts pertaining to the mints, assay-offices and
-coinage that are inconsistent with it [C07-010].
+That is the end of free silver coinage, stated in a sentence, in the enacted
+text. After February 1873 a man with a bag of silver could still walk into the
+Philadelphia mint. He could come out with bars, or with trade-dollars, and
+with nothing else. A man with a bag of gold could come out with money.
 
-Put the three together. The standard silver dollar is absent from the list of
-silver coins; no coin outside the list may be issued; and prior law
-inconsistent with the act is repealed. There is no longer any route by which a
-holder of silver bullion could bring it to the mint and have it struck into
-legal-tender dollars [C07-011].
+So the asymmetry is in the act twice. Once in sections 14 and 15, in what the
+coins are and what they are legal tender for; once in sections 20 and 21, in
+what the mint will take across the counter. Section 17 then forbids issuing
+any coin not set out in the act [C07-004], and section 67, the last, gives the
+act its name — it is the statute itself, not posterity, that calls it the
+Coinage act of eighteen hundred and seventy-three — and repeals all prior law
+inconsistent with it [C07-010].
+
+What is remarkable about the Coinage Act is not that it hid what it was doing.
+It is where it put it. The sentence that ends free silver coinage sits in a
+run of sections about depositing bullion, between one on the devices stamped
+upon coins and one on the minimum weight of a bar. A reader looking for the
+monetary policy of the United States would not think to look there, and a
+legislator skimming a codification of mint administration had no particular
+reason to either.
 
 ## Why this is hard to see, and why that matters
 
-The asymmetry between sections 14 and 15 is the gold standard stated in full.
-Gold is the unit of value and legal tender in all payments. Silver is a list
-of subsidiary coins, legal tender up to five dollars [C07-008]. After February
-1873 a creditor owed ten thousand dollars could be paid in gold without limit,
-or in silver up to five dollars and then no further.
+Sections 14 and 15 are the gold standard stated in full. Gold is the unit of
+value and legal tender in all payments. Silver is a list of subsidiary coins,
+legal tender up to five dollars [C07-008]. After February 1873 a creditor owed
+ten thousand dollars could be paid in gold without limit, or in silver up to
+five dollars and then no further.
 
 A reader who has got this far may feel the argument is too neat — that
 hindsight has arranged a set of clauses into a design. It is worth being

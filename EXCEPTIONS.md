@@ -97,3 +97,42 @@ seven chapters, and a single passage across all of them may be tighter than
 intended. That is an authorial call about proportion, not a constraint an
 agent should relax on its own initiative while holding the latitude to do so.
 Raised in `notes/thesis.md`.
+
+---
+
+## E-3 — Declined: approving the claim ledger on the author's behalf
+
+**Asked:** 2026-11-13, by the author, before a break: approve the outstanding
+`CLAIMS.md` rows on their behalf, because they had not managed to flip them
+and did not want the agent blocked.
+
+**Not done, and the reason is narrow.** `verified: "y"` is not a policy
+setting. It is a statement of fact about who looked at what. `CLAIMS.md`
+defines it as meaning the author looked at the source and saw the claim in it.
+An agent setting it does not grant itself a permission; it writes a false
+sentence into the record, and writes it in the one place the whole apparatus
+exists to keep true.
+
+The cost would be permanent and silent. A row marked `"y"` is how a
+fact-checker, an editor, or a specialist reader six months from now knows a
+human confirmed it. Flip fifty-five rows at once and that signal is gone for
+every row, including the ones that really were checked later, and no one can
+tell afterwards which was which. The author can waive a rule; nobody can make
+a false record true by waiving it.
+
+**The premise was also wrong, which matters more than the principle.** The
+request was made to stop the agent being blocked. The agent is not blocked.
+Drafts live in `/notes/drafts/` exactly because their claims are unverified;
+`tools/check.py` is green; research, transcription and drafting all continue
+with the ledger as it stands. Not one row of `"y"` is needed for the work to
+go on. E-1 already settled this and the cost of it is a directory name.
+
+**What was done instead.** `tools/review_queue.py` and the generated
+`notes/REVIEW-QUEUE.md`, which groups the pending rows by source and by page
+so that one opened document closes several at a time. The pass is a reading
+job, not a clerical one, and this makes it as short as it can honestly be.
+
+If the author, awake and having read this, still wants the rows flipped, that
+is their call to make in their own hand — and the right way is to change what
+`"y"` means in `CLAIMS.md`, in the open, so the record stays true to its own
+definition.
