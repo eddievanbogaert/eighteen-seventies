@@ -41,6 +41,26 @@ with a browser user agent is circumvention, it was tried once here and
 correctly refused by the sandbox, and it does not happen again. The answer to a
 403 is another copy, another institution, or an email — never a costume.
 
+## Documents that need a human with a browser
+
+Some holdings serve a person and decline a script. That is their right, and the
+answer is to ask the author to fetch them rather than to disguise the request.
+Links live here so the list survives a session ending.
+
+| want | where | why it is blocked | for |
+| --- | --- | --- | --- |
+| Bell patent 174,465, page images | `patentimages.storage.googleapis.com/10/ab/a3/b4f5c6e5826640/US174465.pdf` | Google Patents serves `WebFetch` but 503s an honest retrieval | Q12-1. The OCR of claim 2 is garbled; exact claim language needs the page. |
+| Bell lab notebook, 10 March 1876 | `www.loc.gov/resource/magbell.25300201/?sp=36` (and `sp=35`, `sp=37` for context) | loc.gov returns 403 | Q12-4. The book's second most famous quotation. Nothing about it may come from memory. |
+| Statutes at Large v.17, the Coinage Act's pages | `www.loc.gov/item/llsl-v17/` | loc.gov returns 403 | Q07-1. The statute text, for `/primary`. |
+
+**Not a link problem: Elisha Gray's caveat of 14 February 1876.** No digitised
+copy was findable. Everything reachable about it is tertiary — an
+encyclopaedia, Wikipedia derivatives, enthusiast sites — and none of that is
+citable here. The document is held by the National Archives and getting at it
+is an archival approach, not a download. Logged against Q12-2, which is a gate
+for chapter 12, so the chapter will have to record the gap unless the approach
+succeeds.
+
 ## Source rules for this phase
 
 Everything that follows is on top of `AGENTS.md`, not instead of it.
