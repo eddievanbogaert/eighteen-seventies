@@ -1,6 +1,6 @@
 # ACQUISITION
 
-How all 83 sources in `MANIFEST.md` are meant to arrive, and in what order.
+How all 84 sources in `MANIFEST.md` are meant to arrive, and in what order.
 
 The manifest records what the book needs and says nothing about how any of it
 is obtained, so the first real research session would otherwise begin with an
@@ -173,8 +173,9 @@ Provenance for each is in `sources/RETRIEVED.md`.
   Read in part: notebook pp. 38-45.
 - `calandro-grant-panic-1873` — open-access article, retrieved from the
   journal's own site.
-- `grant-papers` — the Simon edition. Vol. 25 wanted; not yet sought. A
-  library copy or a digitised volume, route not yet determined.
+- `grant-papers` — vol. 25 obtained, supplied by the author from the
+  Mississippi State University digitisation.
+- `us-revised-statutes-1874` — obtained, supplied by the author.
 - `cong-globe-42-3` — page images from congress.gov, which serves the JPEGs
   to a script but 403s the HTML. The index volume is addressed as
   `llcg/108/{block}/{seq:04d}r{seq:03d}.jpeg`; the debates volume is not yet
