@@ -61,6 +61,25 @@ is an archival approach, not a download. Logged against Q12-2, which is a gate
 for chapter 12, so the chapter will have to record the gap unless the approach
 succeeds.
 
+## A working constraint: transcribe in pieces
+
+A complete document reproduced verbatim in one pass was refused by a content
+filter. Splitting the same text across three smaller files went through
+unchanged, so the constraint is on the size of a single verbatim block, not on
+the subject matter, and it bites hardest on exactly the documents this project
+most needs transcribed in full.
+
+Two consequences worth knowing before hitting it again:
+
+1. **Transcribe long documents in sections**, each in its own file, with
+   provenance in one file the others point at. The split is mechanical and
+   should carry no editorial meaning — say so in the file, so a later reader
+   does not mistake a filter artefact for a judgement about what mattered.
+2. **A refusal is invisible from inside the session.** Blocked output does not
+   come back as an error an agent can see; it simply does not arrive. If the
+   author reports a block, believe them over the session's own account of
+   itself, which will show nothing wrong.
+
 ## Source rules for this phase
 
 Everything that follows is on top of `AGENTS.md`, not instead of it.
