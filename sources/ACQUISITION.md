@@ -1,6 +1,6 @@
 # ACQUISITION
 
-How all 85 sources in `MANIFEST.md` are meant to arrive, and in what order.
+How all 86 sources in `MANIFEST.md` are meant to arrive, and in what order.
 
 The manifest records what the book needs and says nothing about how any of it
 is obtained, so the first real research session would otherwise begin with an
@@ -51,7 +51,6 @@ whose provenance has silent gaps is not usable as evidence.
 | treaty-of-berlin-text | 1878 | 19 | Q19-2 needs this and the next entry together. |
 | treaty-of-san-stefano-text | 1878 | 19 | The treaty Berlin replaced. |
 | darwin-descent | 1871 | 02 | Editions differ (Q02-1); establish which one before transcribing. |
-| butler-erewhon | 1872 | 04 | Revised after first publication; fix the edition first (Q04-1). |
 | verne-tour-du-monde | 1873 | 06 | Serial and book are different texts, and the translation is an open convention (Q06-4). |
 | joseph-indian-view | 1879 | 18 | Reaches us through an editor and a translator. A record of a transmission, and the provenance must say so. |
 | howard-nez-perce-joseph | 1881 | 18 | The opposing commander's account. A source *about* a source, for Q18-1. |
@@ -173,6 +172,16 @@ Provenance for each is in `sources/RETRIEVED.md`.
   Read in part: notebook pp. 38-45.
 - `butler-erewhon-1901` — Project Gutenberg; obtained. Kept as a separate
   source from the 1872 first edition, because the two are different books.
+- `butler-erewhon` — obtained. Internet Archive's scan of the Duke University
+  Libraries copy, as page images and as OCR. Quote from the images.
+- `butler-early-essays` — obtained from the Internet Archive, as page images
+  and as OCR, in the course of answering Q04-2. It reprints the two Press
+  letters that stand behind the Book of the Machines. **It is a 1914 reprint
+  and not the newspaper**, and the newspaper itself — the Press of
+  Christchurch for 1863 and 1865 — is digitised at Papers Past, which this
+  session's network does not reach. That is the remaining acquisition for
+  chapter 04, and it needs either a widened allowlist or a human with a
+  browser.
 - `calandro-grant-panic-1873` — open-access article, retrieved from the
   journal's own site.
 - `grant-papers` — vol. 25 obtained, supplied by the author from the

@@ -77,8 +77,25 @@ a source is content" note in `AGENTS.md`.
 
 - **Q04-1** What is the publication history: first edition date, publisher,
   anonymity or not, and what changed in the revised edition?
-- **Q04-2** What is the relationship between the "Book of the Machines"
-  chapters and Butler's earlier published writing on the same idea?
+- **Q04-2** ~~What is the relationship between the "Book of the Machines"
+  chapters and Butler's earlier published writing on the same idea?~~
+  **Answered, with one piece outstanding.** Two pieces in the *Press* of
+  Christchurch stand behind the chapters: "Darwin Among the Machines", 13
+  June 1863, signed Cellarius, which argues the machines will supplant man
+  and ends by calling for their destruction; and "Lucubratio Ebria", 29 July
+  1865, which argues that machines are limbs and names and rejects "a
+  previous correspondent of this paper". *Erewhon* stages both as two
+  Erewhonian writers and lets the 1863 position win. Rows C04-009 to C04-014;
+  transcriptions in `/primary`; reasoning in
+  `/notes/butler-the-two-letters.md`.
+  **Outstanding:** everything above is read in R. A. Streatfeild's 1914
+  reprint, not in the newspaper. The *Press* for 1863 and 1865 is digitised
+  at Papers Past (`paperspast.natlib.govt.nz`), which this session's network
+  does not reach. Until a page of the newspaper is read, every citation must
+  say it is quoting the 1914 reprint, and the attribution of "Cellarius" to
+  Butler remains his editors' word. This is also the only route to one thing
+  the reprint cannot show: what else was on the page, and whether the *Press*
+  printed any reply.
 - **Q04-3** Was the book read as satire of Darwin, homage to him, or something
   else, and what did Butler himself say about that?
 - **Q04-4** What sales and readership did it have in the 1870s? If it was

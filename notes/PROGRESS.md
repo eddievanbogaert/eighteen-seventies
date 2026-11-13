@@ -52,6 +52,7 @@ Links live here so the list survives a session ending.
 | Bell patent 174,465, page images | `patentimages.storage.googleapis.com/10/ab/a3/b4f5c6e5826640/US174465.pdf` | Google Patents serves `WebFetch` but 503s an honest retrieval | Q12-1. The OCR of claim 2 is garbled; exact claim language needs the page. |
 | Bell lab notebook, 10 March 1876 | `www.loc.gov/resource/magbell.25300201/?sp=36` (and `sp=35`, `sp=37` for context) | loc.gov returns 403 | Q12-4. The book's second most famous quotation. Nothing about it may come from memory. |
 | Statutes at Large v.17, the Coinage Act's pages | `www.loc.gov/item/llsl-v17/` | loc.gov returns 403 | Q07-1. The statute text, for `/primary`. |
+| The *Press*, Christchurch, 13 June 1863 and 29 July 1865 | `paperspast.natlib.govt.nz` | not on this session's network allowlist; the site itself was never asked | Q04-2. The two Butler letters have been read only in a 1914 London reprint. Adding one host to the environment would close it. |
 
 **Not a link problem: Elisha Gray's caveat of 14 February 1876.** No digitised
 copy was findable. Everything reachable about it is tertiary — an
@@ -105,12 +106,12 @@ Everything that follows is on top of `AGENTS.md`, not instead of it.
 | | |
 | --- | --- |
 | **Branch** | `claude/book-draft` |
-| **Chapters at `drafted`** | none in `/chapters`. Spines drafted in `notes/drafts/`: ch 07, 12 and 21, about 1,000-1,300 words each. Held out of `/chapters` by rule 3 until claims are verified |
+| **Chapters at `drafted`** | none in `/chapters`. Spines drafted in `notes/drafts/`: ch 04, 07, 12 and 21, about 1,000-1,300 words each. Held out of `/chapters` by rule 3 until claims are verified |
 | **Chapters at `gates-closed`** | none yet |
-| **Claims** | 65 rows, all `verified: "n"` — agent-checked against page images, awaiting the author's own reading |
-| **Primary transcriptions** | 14 files: Coinage Act §§1, 13-18, 66-67; Bell patent in 3 parts; Bell notebook 8-12 March |
+| **Claims** | 74 rows, all `verified: "n"` — agent-checked against page images, awaiting the author's own reading |
+| **Primary transcriptions** | 18 files: Coinage Act §§1, 13-18, 20-21, 66-67; Bell patent in 3 parts; Bell notebook 8-12 March; Erewhon 1872 title, preface and machine chapters; Butler's two Press letters |
 | **Integrity check** | green — `python3 tools/check.py`, 14 checks; `tools/test_check.py`, 30 cases |
-| **Manuscript length** | 626 words across 21 files, all of it scaffolding — no prose drafted yet |
+| **Manuscript length** | 626 words across 21 files in `/chapters`, all of it scaffolding. The prose is in `notes/drafts/` and stays there until rows turn `"y"` |
 | **Blocked on** | nothing. Author granted E-1 (see `EXCEPTIONS.md`): research and draft through without pausing at each gate |
 
 ## Where a draft lives before its claims are verified
@@ -209,3 +210,48 @@ counts and were retargeted to this branch's. A merge conflict on those two
 lines is the correct signal rather than a problem.
 
 Baseline green: 14 checks pass, 30 test cases pass.
+
+### 2026-11-13 — session 2, chapter 04
+
+**What was retrieved.** Two Internet Archive items, as page images and as OCR
+in each case: the Duke copy of the 1872 first edition of *Erewhon*
+(`erewhonoroverra00butl`), and *A First Year in Canterbury Settlement, With
+Other Early Essays*, Fifield, 1914, edited by R. A. Streatfeild
+(`firstyearincante00butliala`). The second was not in the manifest and was
+found while working Q04-2. Everything quoted was checked against a page
+image; the OCR was used to search and to count.
+
+**What was found.** Q04-2 is answered, and the answer reshapes the chapter.
+The Book of the Machines descends from two pieces Butler published in the
+*Press* of Christchurch — "Darwin Among the Machines", 13 June 1863, signed
+Cellarius, and "Lucubratio Ebria", 29 July 1865 — which contradict each
+other, the second naming and rejecting "a previous correspondent of this
+paper". *Erewhon* stages both as Erewhonian writers and lets the 1863
+position win. Reasoning in `notes/butler-the-two-letters.md`; rows C04-006 to
+C04-014.
+
+The consequence for the chapter's argument is in that note and is worth
+repeating here: the case no longer depends on Q04-4 or Q04-5. It rests on
+documents in hand, and does not need Herbert, Turing, Orwell or a sales
+figure. Both questions stay open and worth answering; neither is now a gate.
+
+**What was drafted.** `notes/drafts/04-erewhon.draft.md`, about 1,200 words.
+
+**A near miss worth recording.** The draft of this entry's own primary file
+first gave the machine chapters' printed pages as 189, 198 and 208, written
+out while the contents page was two commands away. The correct numbers are
+190, 198 and 209. Nothing had gone wrong except that a remembered number had
+been allowed to stand in for a read one for about ninety seconds, which is
+exactly the failure rule 2 describes, and it was caught only because the
+contents page was then opened for an unrelated reason.
+
+**Set aside, needing the author.** The *Press* itself is at Papers Past,
+which this session's network does not reach. Asking for the host would put an
+approval prompt in front of a sleeping author, so it is logged in the table
+above and in Q04-2 instead. Until it is read, every citation of either letter
+says it is quoting the 1914 reprint.
+
+**Next.** Either Q04-3, which is cheap — the same 1914 volume reprints
+Butler's 1862-63 *Press* pieces on the *Origin of Species*, and chapter 02 is
+about Darwin — or the 21 date verifications, which `question-triage.md` still
+calls the highest-leverage batch task.

@@ -27,6 +27,10 @@ which is the point of having it.
 - `PROGRESS.md` — the resume file: how a chapter gets made, the source rules
   for the drafting phase, current state, and a session log. A session picking
   this project up should read it first.
+- `butler-the-two-letters.md` — the two pieces Butler published in the Press
+  of Christchurch in 1863 and 1865, which contradict each other, and what
+  Erewhon did with them. Chapter 04's argument, and the reason it no longer
+  waits on Q04-4 and Q04-5.
 - `erewhon-edition-collation.md` — collating the 1872 and 1901 texts of
   Erewhon, and what it settles about the Book of the Machines.
 - `historiography-panic-1873.md` — notes on Calandro's article on Grant and
