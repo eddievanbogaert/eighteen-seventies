@@ -27,6 +27,8 @@ which is the point of having it.
 - `PROGRESS.md` — the resume file: how a chapter gets made, the source rules
   for the drafting phase, current state, and a session log. A session picking
   this project up should read it first.
+- `erewhon-edition-collation.md` — collating the 1872 and 1901 texts of
+  Erewhon, and what it settles about the Book of the Machines.
 - `historiography-panic-1873.md` — notes on Calandro's article on Grant and
   the panic: what it argues, what it is good for as a finding aid, and what
   may not be taken from it. Records the 1874-75 structural finding.

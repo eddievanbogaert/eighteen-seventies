@@ -107,7 +107,7 @@ Everything that follows is on top of `AGENTS.md`, not instead of it.
 | **Branch** | `claude/book-draft` |
 | **Chapters at `drafted`** | none in `/chapters`. Spines drafted in `notes/drafts/`: ch 12 (~1,100 words) and ch 07 (~1,050). Held out of `/chapters` by rule 3 until claims are verified |
 | **Chapters at `gates-closed`** | none yet |
-| **Claims** | 33 rows, all `verified: "n"` — agent-checked against page images, awaiting the author's own reading |
+| **Claims** | 63 rows, all `verified: "n"` — agent-checked against page images, awaiting the author's own reading |
 | **Primary transcriptions** | 6 files: Coinage Act §§1, 13-18, 66-67; Bell patent in 3 parts; Bell notebook 8-12 March |
 | **Integrity check** | green — `python3 tools/check.py`, 14 checks; `tools/test_check.py`, 30 cases |
 | **Manuscript length** | 626 words across 21 files, all of it scaffolding — no prose drafted yet |

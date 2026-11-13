@@ -48,7 +48,7 @@ a reader to find the thing.
 
 | source_key | url | retrieved | form | holding | notes |
 | --- | --- | --- | --- | --- | --- |
-| butler-erewhon | https://www.gutenberg.org/cache/epub/1906/pg1906.txt | 2026-11-13 | transcription | Project Gutenberg (eBook #1906) | Full text of Erewhon for Q04 transcription. sha256 `9b034d0990931fa4…` cached at `sources/cache/butler-erewhon/9b034d0990931fa4.txt`. |
+| butler-erewhon-1901 | https://www.gutenberg.org/cache/epub/1906/pg1906.txt | 2026-11-13 | transcription | Project Gutenberg (eBook #1906) | Full text of Erewhon for Q04 transcription. sha256 `9b034d0990931fa4…` cached at `sources/cache/butler-erewhon/9b034d0990931fa4.txt`. |
 | bell-patent-174465 | https://patentimages.storage.googleapis.com/10/ab/a3/b4f5c6e5826640/US174465.pdf | 2026-11-13 | image | US Patent Office (via Google Patents page-image service) | All 6 pages read. Retrieved by the author; this host 503s an honestly-identified script. sha256 `300bb898a4981877…`. |
 | bell-notebook-1875-1876 | https://www.loc.gov/resource/magbell.25300201/?sp=22 | 2026-11-13 | image | Library of Congress, Manuscript Division, Bell Family Papers | Notebook pp. 40-41, the 10 March 1876 entry. Retrieved by the author; loc.gov 403s this session. sha256 `f51acaace5c8e52c…`. |
 | bell-notebook-1875-1876 | https://www.loc.gov/resource/magbell.25300201/?sp=21 | 2026-11-13 | image | Library of Congress, Manuscript Division, Bell Family Papers | Notebook pp. 38-39, the 8-9 March entries. sha256 `bd69d7e98c42789a…`. |
@@ -64,3 +64,4 @@ a reader to find the thing.
 | us-revised-statutes-1874 | https://drive.google.com/file/d/1CcCwWt5KUJRXNiAJ2DgfFvxtFIhnOW-h/view | 2026-11-13 | image | Copy supplied by the author | Statutes at Large Vol. 18 Part 1, the Revised Statutes, 1467 pp. Not yet read. sha256 `7f0fcfe169ae440e…`. |
 | cong-globe-42-3 | https://archive.org/cors/sim_united-states-congress-congressional-globe_1873/sim_united-states-congress-congressional-globe_1873.pdf | 2026-11-13 | image | Internet Archive | Debates part 1, printed pp. 2-672, 673 leaves. Mint bill proceedings at printed p. 668 = leaf 668. sha256 `1ce20166042e16ed…`. |
 | cong-globe-42-3 | https://archive.org/cors/sim_united-states-congress-congressional-globe_1873_0/sim_united-states-congress-congressional-globe_1873_0_djvu.txt | 2026-11-13 | ocr | Internet Archive | Debates part 2 OCR, printed pp. 673-1632. Used ONLY to locate passages. sha256 `9373b920525b76c4…`. |
+| butler-erewhon | https://archive.org/cors/erewhonoroverra00butl/erewhonoroverra00butl_djvu.txt | 2026-11-13 | ocr | Internet Archive (London: Trubner & Co., 1872) | First-edition text, 268 leaves. OCR used for counting and collation, NOT for quotation. sha256 `fa60789ed3116c8c…`. |

@@ -131,7 +131,15 @@ chapter, whether it is a chapter or a part of one.
 
 The clearest candidate for merging was **04 (Erewhon) and 06 (Verne)** — both
 novels, both machines, both 1872–73, two apart in the sequence. **That proposal
-is now conditional.** If Q04-5 comes back with a documented afterlife for the
+is now weak, and heading for withdrawal.** The edition history alone is
+chapter-sized: a book revised in 1901 to beat the expiry of its copyright,
+with about sixty pages added against the author's inclination and
+deliberately blended so the seams would not show — Butler says all of this
+himself in the preface. That is a story about machines, publishing and law,
+and it sits on the machines thread without needing the afterlife question
+answered at all. See `erewhon-edition-collation.md`.
+
+The original reasoning follows and still applies to the afterlife question: If Q04-5 comes back with a documented afterlife for the
 "Book of the Machines", chapter 04 has to carry both an 1872 reading and a
 reception history running to the present, which is not a 3,000-word chapter and
 does not fold in neatly beside Verne. Merge only if Q04-5 comes back thin.
