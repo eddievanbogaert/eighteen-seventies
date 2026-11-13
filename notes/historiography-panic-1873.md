@@ -69,6 +69,17 @@ Congressional Globe or the House Journal.
 edition is scholarly and the volume and page references are specific, which
 makes checking easy. That is a reason to check, not a reason to skip it.
 
+**Checked, 2026-11-13, and they drift.** Both quoted passages were read
+against the page images. The article normalises Grant's spelling and
+ampersands, elides cancellations without marking them, and carries
+editorially supplied bracketed matter inside the quotation as though it were
+his — in one case ending a quotation on the word "circulation", which the
+edition brackets as not in Grant's hand, where Grant had written and struck
+"the market". Not fabrication, and the meaning survives. But the thing worth
+having from these pages is the cancellations, and tidy quotation is precisely
+what removes them. Recorded at /primary/1874-grant-currency-drafts.md and as
+claim C10-001.
+
 **Its framing is the thing the book has a rule against.** The section on the
 1874 Currency Bill opens not in 1874 but in 2007–08, with the Federal Reserve
 and quantitative easing, and the comparison carries argumentative weight

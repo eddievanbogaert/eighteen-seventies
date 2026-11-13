@@ -4,9 +4,16 @@
 
 ## Provenance
 
-- **Document:** Veto message, Ulysses S. Grant to the Senate of the United
-  States, dated in the edition `[April 22, 1874]`, returning Senate Bill
-  No. 617 without approval.
+- **Document:** Ulysses S. Grant's **autograph draft** of his veto message to
+  the Senate of the United States, dated in the edition `[April 22, 1874]`,
+  returning Senate Bill No. 617 without approval.
+
+  The edition's source note at printed p. 75 reads: "ADf (bracketed material
+  not in USG's hand; ellipses in original), DLC-USG, III. SED, 43-1-44; SMD,
+  49-2-53, 386-89." ADf is the edition's siglum for an autograph draft. **This
+  is therefore Grant's working draft and not the message as sent**, which that
+  note locates in Senate Executive Document 43-1-44. The two have not been
+  compared. Nothing here may be described as what Grant sent to the Senate.
 - **Printed in:** *The Papers of Ulysses S. Grant, Volume 25: 1874*, ed. John
   Y. Simon (2003), pp. 73–75.
 - **Copy transcribed from:** a PDF of that volume, 535 pages, hosted by
@@ -28,8 +35,13 @@ reproducing the edition's apparatus, and the book should do the first and not
 the second. Flagged for the author.
 
 Grant's cancellations, as the edition shows them, are given `[struck: …]`.
-Editorial ellipses marking matter the edition omits appear as the edition
-prints them, `. . .`, with a bracketed numeral where the edition keys a note.
+
+Two conventions, from the edition's own source note, and the first of them
+corrects an error in an earlier version of this file. **The ellipses `. . .`
+are in Grant's original**, not editorial omissions: he was marking places
+where quoted matter was to be inserted. **Square brackets mark material not in
+Grant's hand.** So a bracketed word inside a quotation is somebody else's, and
+quoting it as Grant's would be wrong.
 
 ---
 
