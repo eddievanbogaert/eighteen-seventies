@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [race]
 status: stub
 sources: []
-open_questions: [Q08-1, Q08-2, Q08-3, Q08-4, Q08-5]
+open_questions: [Q08-1, Q08-2, Q08-3, Q08-4, Q08-5, Q08-6]
 ---
 
 # The Comstock Act

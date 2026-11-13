@@ -169,10 +169,24 @@ a source is content" note in `AGENTS.md`.
 
 ## Q08 — The Comstock Act
 
-- **Q08-1** What is the act's formal title and statutory citation, and what
-  does the text prohibit in its own terms?
-- **Q08-2** What enforcement powers did it create, and what office did Comstock
-  himself hold under it?
+- **Q08-1** ~~What is the act's formal title and statutory citation, and what
+  does the text prohibit in its own terms?~~ **Answered.** Chapter 258 of the
+  third session of the Forty-Second Congress, approved 3 March 1873, "An Act
+  for the Suppression of Trade in, and Circulation of, obscene Literature and
+  Articles of immoral Use", vol. 17 of the *Statutes at Large*. The popular
+  name appears nowhere in the statute book. Rows C08-001 to C08-003;
+  `/primary/1873-comstock-act-ch258.md`.
+- **Q08-2** ~~What enforcement powers did it create~~, and what office did
+  Comstock himself hold under it? **Half answered.** The powers are in the
+  text: a search-and-seizure warrant from a district or circuit judge on
+  sworn written complaint, detention by customs officers of articles in the
+  course of importation, and a misdemeanour for any officer or employee of
+  the government who aids a violation. Rows C08-004 to C08-006.
+  **Still open, and sharper than before:** the act creates no office and
+  names nobody. Read start to finish it appoints no agent at all. Whatever
+  position Comstock held, it came from somewhere else — most likely an
+  administrative appointment under the Post Office Department, which this
+  question must now establish from a document rather than from the statute.
 - **Q08-3** What is the documented record of prosecutions in the 1870s — how
   many, for what, with what outcomes? Beisel and Werbel both treat this; do
   their figures agree?
@@ -181,6 +195,15 @@ a source is content" note in `AGENTS.md`.
   from novelty to consolidation.
 - **Q08-5** Who opposed it at the time, and on what grounds — and were those
   grounds ones a modern reader would recognise?
+- **Q08-6** What is the sourced connection between this act and the race and
+  citizenship thread, which the author has fixed as its home thread? The
+  statute read on its own yields a federalism argument — what the national
+  government could reach in 1873, and through which doors — and that is not
+  the same thing. Beisel's subtitle points at family reproduction and at
+  class and ethnic anxiety, so the connection is presumably there in the
+  literature; it is not in the enacted text, and under `AGENTS.md` an agent
+  does not supply it by inference. Either a source makes the link or the
+  author reassigns the thread.
 
 ## Q09 — The Colfax Massacre
 

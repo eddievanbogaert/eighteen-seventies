@@ -1,6 +1,6 @@
 # Question triage
 
-All 121 questions in `/research/QUESTIONS.md`, sorted by what they block rather
+All 122 questions in `/research/QUESTIONS.md`, sorted by what they block rather
 than by what they ask. Nothing here answers a question — triage is a judgment
 about sequence, not a finding, and no question below is any closer to closed
 than it was.
@@ -30,7 +30,7 @@ any of them.
 | 05 | Q05-1, Q05-2, Q05-3, Q05-5 | Q05-4 | | | |
 | 06 | Q06-1, Q06-2, Q06-3 | Q06-5 | | Q06-4 | |
 | 07 | Q07-1, Q07-2, Q07-3 | Q07-4, Q07-5 | | | **Q07-5** |
-| 08 | Q08-1, Q08-2, Q08-4 | Q08-3, Q08-5 | | | |
+| 08 | Q08-1, Q08-2, Q08-4 | Q08-3, Q08-5 | Q08-6 | | |
 | 09 | Q09-1, Q09-2, Q09-3, Q09-4, Q09-5 | Q09-6 | | | |
 | 10 | Q10-1, Q10-4, Q10-6 | Q10-2, Q10-3, Q10-5 | | | **Q10-3** |
 | 11 | Q11-2, Q11-3, Q11-4, Q11-6 | Q11-5 | Q11-1 | | **Q11-6** |
@@ -45,7 +45,7 @@ any of them.
 | 20 | Q20-1, Q20-2, Q20-4, Q20-5 | Q20-3 | Q20-6 | | **Q20-4** |
 | 21 | Q21-1, Q21-2, Q21-3, Q21-4, Q21-6 | Q21-5 | | | |
 
-**Distribution: 85 gate, 26 parallel, 4 authorial, 6 convention.**
+**Distribution: 85 gate, 26 parallel, 5 authorial, 6 convention.**
 
 Seventy per cent of the questions block drafting. That is not a problem with the
 triage, it is the design working — the questions were deliberately written so
@@ -225,7 +225,7 @@ before there is an architecture made of finished prose.
 
 ## Author decisions not in QUESTIONS.md
 
-The table above accounts for all 121 numbered questions and nothing else.
+The table above accounts for all 122 numbered questions and nothing else.
 Decisions that are authorial rather than sourced are recorded in `thesis.md`:
 
 - **D-1** — "race and citizenship" or "citizenship" in the thesis line.

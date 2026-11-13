@@ -106,10 +106,10 @@ Everything that follows is on top of `AGENTS.md`, not instead of it.
 | | |
 | --- | --- |
 | **Branch** | `claude/book-draft` |
-| **Chapters at `drafted`** | none in `/chapters`. Spines drafted in `notes/drafts/`: ch 04, 07, 12 and 21, about 1,000-1,300 words each. Held out of `/chapters` by rule 3 until claims are verified |
+| **Chapters at `drafted`** | none in `/chapters`. Spines drafted in `notes/drafts/`: ch 04, 07, 08, 12 and 21, about 1,000-1,300 words each. Held out of `/chapters` by rule 3 until claims are verified |
 | **Chapters at `gates-closed`** | none yet |
-| **Claims** | 74 rows, all `verified: "n"` — agent-checked against page images, awaiting the author's own reading |
-| **Primary transcriptions** | 18 files: Coinage Act §§1, 13-18, 20-21, 66-67; Bell patent in 3 parts; Bell notebook 8-12 March; Erewhon 1872 title, preface and machine chapters; Butler's two Press letters |
+| **Claims** | 84 rows, all `verified: "n"` — agent-checked against page images, awaiting the author's own reading |
+| **Primary transcriptions** | 21 files: Coinage Act §§1, 13-18, 20-21, 66-67; Bell patent in 3 parts; Bell notebook 8-12 March; Erewhon 1872 title, preface and machine chapters; Butler's two Press letters |
 | **Integrity check** | green — `python3 tools/check.py`, 14 checks; `tools/test_check.py`, 30 cases |
 | **Manuscript length** | 626 words across 21 files in `/chapters`, all of it scaffolding. The prose is in `notes/drafts/` and stays there until rows turn `"y"` |
 | **Blocked on** | nothing. Author granted E-1 (see `EXCEPTIONS.md`): research and draft through without pausing at each gate |
@@ -273,3 +273,37 @@ asserting a date the source declines to assert.
 **A gap this opened.** Butler and Darwin quarrelled in the later 1870s, which
 is inside the decade and is the sequel to the 1865 letter. No source in the
 manifest covers it. Logged in `notes/butler-the-two-letters.md`.
+
+### 2026-11-13 — session 2, chapter 08
+
+**Nothing was retrieved.** The act of 3 March 1873 is chapter 258 of volume
+17 of the *Statutes at Large*, which has been on disk since the Coinage Act
+work. The whole chapter rests on a volume already in hand, which is why it
+was chosen: the cheapest remaining chapter in the book.
+
+**What the statute shows.** Q08-1 answered and Q08-2 half answered. Rows
+C08-001 to C08-007; transcriptions at `/primary/1873-comstock-act-ch258.md`
+and `-mails.md`, split for length. The chapter's argument is the one visible
+on the page: federal power in 1873 reached the District, the Territories, the
+mails and the customs house, and the act uses all four. Its mail prohibition
+is not freestanding but an amendment of section 148 of the Post Office code
+of June 1872, carrying a heavier maximum than the act's own first section —
+so the same object was punished twice as hard for travelling by post as for
+being sold in a Territory.
+
+Two findings worth flagging because they cut against received summaries.
+Contraception is in the enacted text of section 1 and of the postal section,
+not supplied by later construction. And the act creates no office and names
+nobody: Comstock's authority is not on these pages, which sharpens Q08-2
+rather than answering it.
+
+**A thread problem, logged not solved.** The author has fixed `race` as this
+chapter's home thread. What the statute yields on its own is a federalism
+argument, which is not the same thing. Raised as Q08-6. `AGENTS.md` forbids
+an agent reassigning a home thread and equally forbids inventing the
+connection, so it is written down and left.
+
+**What is not drafted.** Q08-3, Q08-4 and Q08-5 need Beisel, Horowitz and
+Werbel, none acquired. The draft says so and stops. The Q08-4 risk is real:
+if comparable restrictions already existed in state law and postal
+regulation, the chapter's claim moves from novelty to consolidation.
