@@ -61,7 +61,7 @@ poison this project.
 | clark-painting-of-modern-life | T. J. Clark | The Painting of Modern Life: Paris in the Art of Manet and His Followers | 1984 | monograph | "n" | "n" | ch 11 — argues the social content of the painting |
 | coinage-act-1873-text | United States Congress | Coinage Act of 1873, statute text | 1873 | primary | "n" | "n" | money; ch 07 — transcribe silver provisions into /primary |
 | comstock-act-text | United States Congress | Comstock Act, statute text | 1873 | primary | "n" | "n" | race; ch 08 — formal title and citation to be confirmed, Q08-1 |
-| cong-globe-42-3 | United States Congress | The Congressional Globe, Third Session of the Forty-Second Congress | 1873 | primary | "y" | "n" | money; ch 05, 07 — LC Century of Lawmaking via congress.gov. Index volume read in part; the debates volume has not been located. |
+| cong-globe-42-3 | United States Congress | The Congressional Globe, Third Session of the Forty-Second Congress | 1873 | primary | "y" | "n" | money; ch 05, 07 — index volume via congress.gov; the debates via the Internet Archive in five parts. Read in part: the mint bill proceedings of 17 January 1873. |
 | cronon-natures-metropolis | William Cronon | Nature's Metropolis: Chicago and the Great West | 1991 | monograph | "n" | "n" | machines, money; ch 03, 10 |
 | darwin-descent | Charles Darwin | The Descent of Man, and Selection in Relation to Sex | 1871 | primary | "n" | "n" | race; ch 02 — first and second editions differ, Q02-1 |
 | davis-late-victorian-holocausts | Mike Davis | Late Victorian Holocausts: El Niño Famines and the Making of the Third World | 2001 | monograph | "n" | "n" | empire, money; ch 14 — forceful thesis, must be read against its critics, Q14-5 |

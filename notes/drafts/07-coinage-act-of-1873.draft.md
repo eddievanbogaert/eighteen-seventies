@@ -115,13 +115,41 @@ passed with amendment at 674 [C07-016]; it went to conference, and the
 conference report was concurred in by both chambers before enrolment
 [C07-017].
 
-That is a sequence, not a debate. An index records that a thing was discussed
-and on which page. It does not record what was said, and the question Q07-2
-actually asks — who drafted the silver provisions, and what the chamber
-addressed — is answerable only from the pages themselves, which have not been
-read. The single word "discussed" against page 668, with passage six pages
-later, is at present a fact about the index's conventions rather than a fact
-about the Senate.
+Page 668 has now been read, and it is worth more than the index suggested.
+
+On 17 January 1873 Senator Sherman rose to move that the Senate take up the
+mint bill. He told the chamber it "will not probably consume any more time
+than the time consumed in reading it"; that it had passed the Senate two years
+before "after full debate"; that officers of the Government had said it was
+important it should pass promptly; and that the points of difference between
+the two Houses could go to a conference committee "without having a
+controversy here in the Senate about them" [C07-018].
+
+What the Senate then did, as the page records it, was to insert the words "or
+sample of bullion" after "coins"; to strike the word "wording" and insert
+"working"; and to insert the word "assay" before "office". Sherman described
+the batch he sent to the clerk as being "of a formal character" [C07-019].
+
+One amendment drew argument. It was on section fourteen, and it concerned
+whether gold coins worn below a stated weight by ordinary use should be
+received and recoined at the Government's expense. Senator Cole thought the
+House language wise and hoped it would stay [C07-020].
+
+Section fourteen is the section containing the clause that makes the gold
+dollar the unit of value. The Senate argued about abrasion.
+
+Silver is not mentioned anywhere in the mint-bill proceedings printed on that
+page [C07-021].
+
+That last sentence has to be handled carefully, and the chapter should handle
+it in the open. It is a statement about one page. The proceedings run on past
+it, the House took the bill up again four days later [C07-022], and a thing's
+absence from a page is weaker evidence than its presence on one. What page 668
+establishes is not that nobody understood. It is something narrower and, for
+this chapter, more useful: on the day the Senate considered the bill, the
+recorded business was a misspelling, two insertions, and a dispute about worn
+gold coins — and the measure was commended to the chamber as one that need not
+detain it.
 
 The historiography is unread. Q07-3 is a rule 4 case: the positions must be
 named and attributed, and not one of the works in the manifest that bears on
