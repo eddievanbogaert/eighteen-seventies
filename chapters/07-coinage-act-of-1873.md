@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [money]
 status: stub
 sources: []
-open_questions: []
+open_questions: [Q07-1, Q07-2, Q07-3, Q07-4, Q07-5]
 ---
 
 # The Coinage Act of 1873

@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [machines]
 status: stub
 sources: []
-open_questions: []
+open_questions: [Q13-1, Q13-2, Q13-3, Q13-4, Q13-5, Q13-6]
 ---
 
 # Edison Opens Menlo Park

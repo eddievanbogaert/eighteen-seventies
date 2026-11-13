@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [empire]
 status: stub
 sources: []
-open_questions: []
+open_questions: [Q01-1, Q01-2, Q01-3, Q01-4]
 ---
 
 # The Franco-Prussian War

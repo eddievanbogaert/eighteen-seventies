@@ -6,7 +6,7 @@ threads: []
 thread_assignment: unassigned
 status: stub
 sources: []
-open_questions: []
+open_questions: [Q11-1, Q11-2, Q11-3, Q11-4, Q11-5, Q11-6]
 ---
 
 # The First Impressionist Exhibition

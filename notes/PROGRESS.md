@@ -1,0 +1,129 @@
+# Drafting progress
+
+**The resume file.** A session that picks this project up mid-flight should read
+this first, then `AGENTS.md`, then the chapter it is working on. It records
+where the work actually is, not where it is meant to be.
+
+Update it at the end of any session that changes state. If it disagrees with
+the repository, the repository is right and this file is stale.
+
+## How a chapter gets made here
+
+The pipeline, in order. A chapter may not skip a stage.
+
+| stage | `status` | what has happened |
+| --- | --- | --- |
+| 1 | `stub` | Nothing. The scaffold only. |
+| 2 | `gates-closed` | Every **G** question in `notes/question-triage.md` for this chapter is answered from a source, or recorded as an unanswerable gap. |
+| 3 | `drafting` | Primary text transcribed into `/primary`; `CLAIMS.md` rows written and verified; prose in progress. |
+| 4 | `drafted` | Prose complete, every specific assertion carrying a claim id. |
+| 5 | `verified` | A human has re-checked each row against the source with their own eyes. |
+
+Stage 5 is not something an agent can perform. An agent can reach `drafted`
+and no further; `verified` is the author's signature, and the distinction is
+the point of the whole apparatus.
+
+## Source rules for this phase
+
+Everything that follows is on top of `AGENTS.md`, not instead of it.
+
+1. **A source is cited only if it was actually retrieved and read in a
+   session.** Not found in a search result summary, not recalled, not inferred
+   from a title. Retrieved, opened, and read.
+2. **Search engine summaries are not sources.** A search tells you where to
+   look. The page you then open is the source. A claim may never rest on a
+   snippet.
+3. **Every retrieved source gets a row in the Retrieved sources table in
+   `sources/MANIFEST.md`**, with its URL and the date it was retrieved, before
+   any claim cites it.
+4. **Quotations are transcribed into `/primary` from the source text itself**,
+   with provenance, before they are quoted anywhere. Rule 5 is not relaxed
+   because a text is online.
+5. **Where a digitised page has been read as OCR rather than as an image**,
+   that is recorded, because OCR misreads numerals and names in exactly the
+   places that matter most.
+
+## Current state
+
+| | |
+| --- | --- |
+| **Branch** | `claude/book-draft` |
+| **Chapters at `drafted`** | none yet |
+| **Chapters at `gates-closed`** | none yet |
+| **Claims verified** | 0 |
+| **Primary transcriptions** | 0 |
+| **Integrity check** | green — `python3 tools/check.py`, 14 checks; `tools/test_check.py`, 30 cases |
+| **Manuscript length** | 626 words across 21 files, all of it scaffolding |
+| **Blocked on** | network access to the source archives — see below |
+
+## Working order
+
+Chapter 12, Bell's patent, is the first chapter drafted, for the reasons in
+`notes/voice-and-shape.md`: a paperwork event every reader thinks they know, a
+clean documented mechanism, a genuine dispute the chapter must record rather
+than settle, and the book's second most famous quotation to handle under rule
+5. It exercises every technique the book needs on the sources most likely to be
+reachable.
+
+Chapter 07, the Coinage Act, is second, because it is the thesis chapter and
+the hardest test of whether the voice survives contact with a statute.
+
+## Session log
+
+Newest last. One short entry per session: what was retrieved, what was
+verified, what was drafted, and what the next session should pick up.
+
+### 2026-11-13 — session 1
+
+**Blocked before any research could start.** `WebSearch` works, but fetching a
+page does not: `www.loc.gov`, `patents.google.com` and `www.gutenberg.org` all
+fail DNS resolution, several minutes apart and well after eighteen archive
+hosts were added to the session's allowlist and the change was confirmed
+saved. The proxy reports healthy with no relay failures. Nothing was retrieved,
+so nothing was transcribed, logged, or cited, and no prose was written.
+
+This is the right outcome rather than a disappointing one. The alternative was
+drafting from recall and from search-result summaries, which is precisely the
+failure `AGENTS.md` exists to prevent and which source rule 2 above now
+forbids in as many words. A chapter written that way would have looked like
+progress and been worth less than nothing.
+
+What the next session needs: the archive hosts actually reachable. Then the
+working order below applies unchanged.
+
+**Infrastructure built instead**, all of it on the critical path and all of it
+needed before the first citation exists:
+
+Branch `claude/book-draft` opened from the editorial branch. Imported
+`tools/check.py`, `tools/test_check.py` and `sources/ACQUISITION.md` from the
+Cursor integrity branch rather than writing a second checker.
+
+Fixed 175 integrity errors it found, all mechanical and all real: 152 unquoted
+`acquired`/`read` flags in `sources/MANIFEST.md` (the quoted-flag convention
+had been written into `AGENTS.md` and applied to the chapter stubs but never to
+the manifest), 21 chapters with empty `open_questions` frontmatter, and two
+stale counts in `notes/README.md`.
+
+Added the citation apparatus, which did not exist and without which no claim
+could be audited:
+
+- **Stable claim ids.** `CLAIMS.md` gains an `id` column, `C<chapter>-<nnn>`.
+  Prose cites a row as `[C12-004]` at the end of the sentence it licenses.
+- **`tools/check.py` enforces rule 1 mechanically.** It now fails if prose
+  cites a claim id with no row, a row belonging to another chapter, or a row
+  that is not `verified: "y"`. All three failure modes were tested by
+  deliberately introducing them.
+- **`sources/RETRIEVED.md`**, a provenance log for digitally obtained
+  sources: exact URL, retrieval date, holding institution, and the *form* —
+  image, institutional transcription, OCR, or born-digital. The form field
+  matters because OCR misreads numerals and proper names, which is exactly
+  what rule 1 governs; a figure read only from OCR is not verified.
+- **`tools/reading_copy.py`**, which strips the markers to produce a clean
+  reading text, so the apparatus does not stop the draft being judged as
+  prose. One-way by design.
+
+Two fixtures in `tools/test_check.py` hardcoded the Cursor branch's question
+counts and were retargeted to this branch's. A merge conflict on those two
+lines is the correct signal rather than a problem.
+
+Baseline green: 14 checks pass, 30 test cases pass.

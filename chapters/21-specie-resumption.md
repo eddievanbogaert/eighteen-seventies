@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [money]
 status: stub
 sources: []
-open_questions: []
+open_questions: [Q21-1, Q21-2, Q21-3, Q21-4, Q21-5, Q21-6]
 ---
 
 # The Resumption of Specie Payments

@@ -9,6 +9,11 @@ how much prose exists.
 
 ## How to fill a row
 
+- **id** — a stable handle, `C<chapter>-<nnn>`, e.g. `C12-003`. Assigned once
+  and never reused, even after a row fails verification. This is what the
+  prose in `/chapters` cites, so that any sentence in the book can be traced
+  to the row that licenses it and from there to the source. Ids are permanent:
+  renumbering them breaks every citation that points at them.
 - **claim** — one assertion, stated as it will appear to a reader. Not a topic.
   "The act passed in February" is a claim; "the Coinage Act" is not. Split
   compound claims into separate rows, because they can fail separately.
@@ -27,8 +32,20 @@ Rows stay in the file after they fail verification. A claim that turned out to
 be wrong is worth more than a blank, because it stops the same wrong claim from
 being reintroduced later.
 
+## How the prose cites a row
+
+Every specific assertion in `/chapters` carries its claim id in square
+brackets at the end of the sentence: `The patent issued on 7 March 1876
+[C12-004].` `tools/check.py` reads those markers and fails if one points at a
+row that does not exist, or at a row that is not `verified: "y"`, or if a
+chapter's frontmatter cites a source no verified row uses.
+
+The markers are working apparatus, not typography. `tools/reading_copy.py`
+strips them to produce a clean reading text; the manuscript keeps them until
+the book is typeset.
+
 ## Ledger
 
-| claim | chapter | source_key | verified | notes |
-| --- | --- | --- | --- | --- |
-| _(worked example — not a verified claim, do not cite)_ The Coinage Act of 1873 ended free coinage of the standard silver dollar, so that a holder of silver bullion could no longer bring it to the Mint to be struck into legal-tender dollars. | 07 | friedman-schwartz-monetary-history | n | Shows the granularity a row needs: one mechanism, stated the way a reader will meet it, not "the Coinage Act demonetised silver" — which bundles a mechanism, an intent, and a consequence into one unfalsifiable phrase. Cannot be marked `y`: source is `acquired: n`. Two further rows will be needed before chapter 07 can make its argument, one for whether contemporaries understood the provision (contested — see rule 4) and one for the act's effect on the silver price. See QUESTIONS.md Q07. |
+| id | claim | chapter | source_key | verified | notes |
+| --- | --- | --- | --- | --- | --- |
+| C07-000 | _(worked example — not a verified claim, do not cite)_ The Coinage Act of 1873 ended free coinage of the standard silver dollar, so that a holder of silver bullion could no longer bring it to the Mint to be struck into legal-tender dollars. | 07 | friedman-schwartz-monetary-history | n | Shows the granularity a row needs: one mechanism, stated the way a reader will meet it, not "the Coinage Act demonetised silver" — which bundles a mechanism, an intent, and a consequence into one unfalsifiable phrase. Cannot be marked `y`: source is `acquired: n`. Two further rows will be needed before chapter 07 can make its argument, one for whether contemporaries understood the provision (contested — see rule 4) and one for the act's effect on the silver price. See QUESTIONS.md Q07. |

@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [money]
 status: stub
 sources: []
-open_questions: []
+open_questions: [Q10-1, Q10-2, Q10-3, Q10-4, Q10-5, Q10-6]
 ---
 
 # The Panic of 1873

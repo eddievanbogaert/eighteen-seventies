@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [race]
 status: stub
 sources: []
-open_questions: []
+open_questions: [Q18-1, Q18-2, Q18-3, Q18-4, Q18-5, Q18-6]
 ---
 
 # Chief Joseph's Surrender

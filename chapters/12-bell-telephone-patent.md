@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [machines]
 status: stub
 sources: []
-open_questions: []
+open_questions: [Q12-1, Q12-2, Q12-3, Q12-4, Q12-5]
 ---
 
 # Bell Patents the Telephone

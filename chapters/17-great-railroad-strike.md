@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [money]
 status: stub
 sources: []
-open_questions: []
+open_questions: [Q17-1, Q17-2, Q17-3, Q17-4, Q17-5, Q17-6]
 ---
 
 # The Great Railroad Strike of 1877

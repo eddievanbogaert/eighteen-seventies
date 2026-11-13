@@ -5,7 +5,7 @@ date_range_verified: "n"
 threads: [money]
 status: stub
 sources: []
-open_questions: []
+open_questions: [Q05-1, Q05-2, Q05-3, Q05-4, Q05-5]
 ---
 
 # The Crédit Mobilier Scandal
