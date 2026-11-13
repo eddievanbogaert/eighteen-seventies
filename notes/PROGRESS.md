@@ -255,3 +255,21 @@ says it is quoting the 1914 reprint.
 Butler's 1862-63 *Press* pieces on the *Origin of Species*, and chapter 02 is
 about Darwin — or the 21 date verifications, which `question-triage.md` still
 calls the highest-leverage batch task.
+
+**Addendum, same session: Q04-3 half closed.** The same 1914 volume carries
+Butler's dialogue on the *Origin of Species* (*Press*, 20 December 1862) and
+Streatfeild's transcriptions of two notes by Darwin — one of March 1863
+sending the newspaper to a magazine editor and praising the dialogue, one of
+30 September 1865 to Butler himself. Rows C04-015 to C04-017, transcription
+at `/primary/1862-butler-darwin-dialogue.md`, and a new section in the
+chapter 04 draft.
+
+Both Darwin items are Streatfeild's transcriptions of manuscripts neither he
+nor this session has set beside the original, and both years are supplied in
+square brackets on the page, which is the editor saying the year is his
+inference. The file says so; a citation that drops the brackets would be
+asserting a date the source declines to assert.
+
+**A gap this opened.** Butler and Darwin quarrelled in the later 1870s, which
+is inside the decade and is the sequel to the 1865 letter. No source in the
+manifest covers it. Logged in `notes/butler-the-two-letters.md`.

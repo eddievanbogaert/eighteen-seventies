@@ -98,7 +98,13 @@ volume, not from the *Press*. See Q04-2.
   from this session.
 - Whether the *Press* printed any reply to either piece — only the newspaper
   can show that, and a reply would turn a self-quarrel into a public one.
-- Q04-4, readership; Q04-3, the Darwin question, on which the volume read for
-  this note also contains Butler's 1862-1863 *Press* pieces on the *Origin of
-  Species*, which have not been read.
+- Q04-4, readership. Q04-3 is half closed: the 1862 dialogue and Darwin's two
+  notes have now been read (C04-015 to C04-017), which settles what Butler
+  thought of Darwin before *Erewhon*. What is still open is how *Erewhon* was
+  read in 1872, which is a question about reviewers.
+- **A new gap, and a real one.** Butler and Darwin fell out in the later
+  1870s, over *Evolution Old and New* and Krause's *Erasmus Darwin*. That
+  quarrel is inside this book's decade, it is the sequel to the cordial 1865
+  letter transcribed here, and no source in `MANIFEST.md` covers it. If
+  chapter 04 is to end anywhere other than 1872, this is where it ends.
 - Q04-5, the afterlife. Unchanged and unsourced.

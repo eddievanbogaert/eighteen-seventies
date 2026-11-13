@@ -106,6 +106,29 @@ the same sentence reports, is reactionary civil wars that nearly ruined the
 country [C04-014] — which is the kind of detail a satirist puts in and a
 prophet leaves out.
 
+## The Darwinian who could not settle
+
+It is worth knowing who was writing these letters, because the obvious guess
+is wrong. A man who proposes in 1863 that every machine on earth be destroyed
+sounds like a reactionary who has read a dangerous book and panicked. Butler
+was the opposite: he was the *Origin of Species*' colonial expositor.
+
+Ten months before the Cellarius letter, in December 1862, the same newspaper
+printed a dialogue of his in which one speaker patiently takes another
+through Darwin's argument and defends the book against the objection that it
+is cold — *Science is all head*, the sceptic says, *she has no heart at all*
+[C04-015]. The piece travelled. A copy reached Darwin at Down, who thought
+well enough of it to post the newspaper to a magazine editor with a note
+calling it "remarkable from its spirit and from giving so clear and accurate
+a view" of his theory, and remarkable besides for appearing in a colony
+exactly twelve years old [C04-016]. Three years later, when Butler sent him a
+pamphlet, Darwin wrote back warmly and asked him to visit [C04-017].
+
+So the sequence runs: explain Darwin, 1862; extend Darwin to machinery and
+recoil from the result, 1863; retract the recoil, 1865; publish both, 1872.
+The man was not frightened of the idea. He was unusually good at it, which is
+why he could not leave it alone.
+
 ## What this is evidence of
 
 It is tempting to read all this as foresight, and the temptation should be

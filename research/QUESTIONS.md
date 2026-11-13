@@ -96,8 +96,21 @@ a source is content" note in `AGENTS.md`.
   Butler remains his editors' word. This is also the only route to one thing
   the reprint cannot show: what else was on the page, and whether the *Press*
   printed any reply.
-- **Q04-3** Was the book read as satire of Darwin, homage to him, or something
-  else, and what did Butler himself say about that?
+- **Q04-3** ~~Was the book read as satire of Darwin, homage to him, or
+  something else, and what did Butler himself say about that?~~
+  **Half answered.** What Butler said, before *Erewhon*: his first published
+  response to Darwin was a dialogue in the *Press* of 20 December 1862 in
+  which one speaker expounds and defends the *Origin* against another's
+  objections. Darwin saw it, thought it gave "so clear and accurate a view"
+  of his theory, and tried to get it reprinted; he wrote to Butler cordially
+  in 1865. Rows C04-015 to C04-017;
+  `/primary/1862-butler-darwin-dialogue.md`.
+  **Still open:** how the book was *read* in 1872 — which is a question about
+  reviewers, not about Butler, and runs with Q04-4. The two reviews Butler
+  named (C04-005) are the cheapest route. Also still open, and now visible as
+  a separate thing: Butler's relations with Darwin soured badly in the later
+  1870s, which is inside this book's decade and is not covered by any source
+  in the manifest.
 - **Q04-4** What sales and readership did it have in the 1870s? If it was
   little read at the time, the chapter's claim on the machines thread has to
   be about anticipation rather than influence, which is a different argument.
