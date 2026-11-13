@@ -1,6 +1,6 @@
 # ACQUISITION
 
-How all 82 sources in `MANIFEST.md` are meant to arrive, and in what order.
+How all 83 sources in `MANIFEST.md` are meant to arrive, and in what order.
 
 The manifest records what the book needs and says nothing about how any of it
 is obtained, so the first real research session would otherwise begin with an
@@ -179,5 +179,10 @@ Provenance for each is in `sources/RETRIEVED.md`.
   to a script but 403s the HTML. The index volume is addressed as
   `llcg/108/{block}/{seq:04d}r{seq:03d}.jpeg`; the debates volume is not yet
   located.
+- `us-statutes-at-large-v18` — Internet Archive scan. Note: archive.org
+  `/download/` redirects to rotating `dn*`/`ia*` storage nodes that the
+  session's allowlist cannot track; `https://archive.org/cors/{id}/{file}`
+  serves the same bytes without leaving the allowed host and is the route to
+  use.
 - `us-statutes-at-large-v17` — the Library of Congress scan of the 1965
   photoreproduction, supplied by the author via Google Drive. Read in part.

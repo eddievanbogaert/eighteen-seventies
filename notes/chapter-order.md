@@ -112,11 +112,30 @@ appears nowhere in the chapter list. Q21-1 asks what act mandated resumption
 and when it passed, and the chapter as currently scoped could not answer that
 within its own date range.
 
-Two options, for the author. Open chapter 21's span to 1875-1879, so it covers
-the act and the day. Or give the act its own chapter in 1875, which would fill
-the chronological hole and give the money thread an event in the empty year.
-The second is more work and a better book, if the 1874 veto can carry a
-chapter alongside it.
+**Resolved in part, 2026-11-13.** The act has been found and read: chapter 15
+of the Forty-Third Congress, second session, approved 14 January 1875, at
+printed p. 296 of Statutes at Large volume 18. Transcribed at
+`/primary/1875-specie-resumption-act.md`.
+
+What it says settles the structural question rather than leaving it open. The
+day chapter 21 is named for — 1 January 1879 — is not an event the decade
+arrived at. It is an appointment the Forty-Third Congress made four years in
+advance, in a subordinate clause inside a section otherwise concerned with
+national-bank circulation. The act fixes the date mandatorily and leaves the
+means permissive.
+
+That makes the two options unequal. A chapter that opens on 1879 and
+back-explains the 1875 act is telling the story in the order the reader will
+find least interesting, because the suspense of the thing is that the date was
+set first and the government then had four years to make it true. The
+chronology and the drama point the same way for once.
+
+**Recommendation, for the author.** Open chapter 21's span to 1875-1879 and
+let it begin with the act. That covers the empty year, gives the money thread
+its 1875 event, and puts the chapter in the order its own evidence suggests.
+A separate 1875 chapter is the alternative, and would be the right call only
+if the 1874 Currency Bill veto proves able to carry a chapter beside it —
+which depends on source work not yet done.
 
 ## Conventions still to fix
 
