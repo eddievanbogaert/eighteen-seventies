@@ -106,10 +106,10 @@ Everything that follows is on top of `AGENTS.md`, not instead of it.
 | | |
 | --- | --- |
 | **Branch** | `claude/book-draft` |
-| **Chapters at `drafted`** | none in `/chapters`. Spines drafted in `notes/drafts/`: ch 04, 07, 08, 12 and 21, about 1,000-1,300 words each. Held out of `/chapters` by rule 3 until claims are verified |
+| **Chapters at `drafted`** | none in `/chapters`. Spines drafted in `notes/drafts/`: ch 02, 04, 07, 08, 12 and 21, about 1,000-1,300 words each. Held out of `/chapters` by rule 3 until claims are verified |
 | **Chapters at `gates-closed`** | none yet |
-| **Claims** | 84 rows, all `verified: "n"` — agent-checked against page images, awaiting the author's own reading |
-| **Primary transcriptions** | 21 files: Coinage Act §§1, 13-18, 20-21, 66-67; Bell patent in 3 parts; Bell notebook 8-12 March; Erewhon 1872 title, preface and machine chapters; Butler's two Press letters |
+| **Claims** | 91 rows, all `verified: "n"` — agent-checked against page images, awaiting the author's own reading |
+| **Primary transcriptions** | 23 files: Coinage Act §§1, 13-18, 20-21, 66-67; Bell patent in 3 parts; Bell notebook 8-12 March; Erewhon 1872 title, preface and machine chapters; Butler's two Press letters |
 | **Integrity check** | green — `python3 tools/check.py`, 14 checks; `tools/test_check.py`, 30 cases |
 | **Manuscript length** | 626 words across 21 files in `/chapters`, all of it scaffolding. The prose is in `notes/drafts/` and stays there until rows turn `"y"` |
 | **Blocked on** | nothing. Author granted E-1 (see `EXCEPTIONS.md`): research and draft through without pausing at each gate |
@@ -307,3 +307,38 @@ connection, so it is written down and left.
 Werbel, none acquired. The draft says so and stops. The Q08-4 risk is real:
 if comparable restrictions already existed in state law and postal
 regulation, the chapter's claim moves from novelty to consolidation.
+
+### 2026-11-13 — session 2, chapter 02
+
+**Retrieved.** Both volumes of the 1871 first edition of *The Descent of
+Man*, John Murray, from the Internet Archive, as page images; OCR of both as
+a finding aid. The 1874 second edition is a different text, is not held, and
+the standard modern reprint is that second edition — which is the trap this
+chapter exists to avoid.
+
+**Read against page images.** The title page; the first page of the
+Introduction; the end of chapter VII on the monogenists and polygenists
+(printed 235); the passage in chapter VI on the civilised races exterminating
+the savage races (printed 201); and the closing pages of volume 2 (printed
+404-405). Rows C02-001 to C02-007, transcriptions in `/primary`.
+
+**The drafting decision worth recording.** The two chapter-VI and chapter-VII
+passages are thirty-four pages apart and point in opposite directions, and
+each is quoted on its own by people who want Darwin to have been one thing or
+the other. The draft puts them on the same page at the same weight and makes
+that its spine. The closing sentence of the book is quoted whole for the same
+reason: the heroic little monkey is famous, and the half of the sentence it
+is usually detached from is the half that carries the meaning.
+
+**Q02-1 could not be closed, and the reason is itself a finding.** The first
+edition has no preface, its Introduction is undated, and the only dated page
+in volume 1 is a bound-in publisher's catalogue headed January 1871. The
+conventional date of February 1871 is not in the book. `date_range_verified`
+stays `"n"`.
+
+**What is not drafted, and will not be until a book is acquired.** Q02-3 asks
+how Darwin's views related to the uses made of his work, and names Desmond
+and Moore as holding a position. That book has not been read. The draft says
+so and declines both to summarise it and to invent a counter-position for
+balance, because `AGENTS.md` rule 4 wants names and evidence, which a
+bibliography entry is not.

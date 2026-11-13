@@ -48,11 +48,33 @@ a source is content" note in `AGENTS.md`.
 
 ## Q02 — Darwin, The Descent of Man
 
-- **Q02-1** What is the full title, publisher, and publication date of the
-  first edition, and how does the second edition differ?
-- **Q02-2** What does the book actually argue about human races, in its own
+- **Q02-1** ~~What is the full title~~, publisher, ~~and publication date~~ of
+  the first edition, and how does the second edition differ?
+  **Partly answered.** *The Descent of Man, and Selection in Relation to
+  Sex*, London: John Murray, 1871, two volumes (C02-001).
+  **Still open, and the copy in hand cannot close it:** the day or month.
+  There is no preface and the Introduction is undated; the only dated thing
+  in the volume is a bound-in publisher's catalogue headed January 1871,
+  which is a terminus and not a publication date (C02-002). The stub's
+  `date_range` of 1871-02 therefore stays unverified. A publisher's record,
+  a dated review, or the *Publishers' Circular* would close it; a dated
+  review would also serve Q02-4.
+  **Also still open:** how the 1874 second edition differs. It is a
+  substantially revised text and is not held. Nothing in `/primary` speaks
+  for it, and the chapter must not quote the standard modern text, which is
+  the second edition, for what the book said in 1871.
+- **Q02-2** ~~What does the book actually argue about human races, in its own
   words? Transcribe the relevant passages into `/primary` before
-  characterising them.
+  characterising them.~~ **Opened, not closed.** Four passages are now
+  transcribed from page images (C02-003 to C02-006): the disposal of the
+  monogenist-polygenist dispute at the end of chapter VII, the prediction in
+  chapter VI that the civilised races will exterminate and replace the savage
+  races, and the book's closing argument and last sentence in volume 2.
+  **What remains:** the whole of chapter VII has been read only in OCR, and
+  chapter V, on civilised and barbarous nations, has not been read at all.
+  The four passages are enough to stop the chapter being written from
+  reputation; they are not enough to characterise the book, and the drafted
+  spine says so.
 - **Q02-3** How did Darwin's stated views on race and slavery relate to the
   uses made of his work by others in the 1870s? Desmond and Moore argue for a
   specific relationship; what is the counter-position?
